@@ -1,0 +1,510 @@
+//normanbasic:
+guardwife_0_label=Manzeluv obed
+guardwife_0_description=Muj manzel $guard_villagername$, strazce, je urcite hladovy a ja mu zapomela zabalit jidlo! Muzes mu prosim odnest tuhle jitrnici?
+guardwife_0_description_success=Diky ti dobry clovece!
+guardwife_0_description_refuse=Ty nejsi zrovna typ, ktery by pomohl.
+guardwife_1_label=Hladovy!
+guardwife_1_description=Moje zena zase zapomela na idlo! Ah, zeny!
+guardwife_1_description_success=To od tebe bylo opravdu mile.
+guardwife_1_description_refuse=NIkdy never cizinci.
+guardwife_1_description_timeup=Nedorucil jsi jidlo v cas. Vesnicane $guard_villagename$ nikdy nezapomenou.
+guardwife_1_listing=Odnes jidlo $guard_villagername$ ve vesnici $guard_villagename$.
+
+lumbermancider_0_label=Ziznivy!
+lumbermancider_0_description=Kaceni stromu je opravdu tvrda prace... Kdyby mi tak nekdo prinesl lahev cidru!
+lumbermancider_0_description_success=Ah, to jsem potreboval! Dekuju mockrat, dobry clovece!
+lumbermancider_0_description_refuse=Nepocitej se mnou az budes potrebovat nejake drevo!
+
+lonelumbermancalva_0_label=Potrebuji alkohol!
+lonelumbermancalva_0_description=V tomhle lese je strasna zima a ja porad nemuzu nait zadne jablka abych z nich udelal calvu! Zabijel bych pro par lahvi!
+lonelumbermancalva_0_description_success=Neuveritelne! Tumas, dej si sklenku na oslavu!
+lonelumbermancalva_0_description_refuse=Jedna navsteva za rok a ani se nepodeli o jednu lahev!
+
+loneminerfood_0_label=Potrebuju opravdove jidlo
+loneminerfood_0_description=Uz to bude mesic co jsem naposledy jedl opravdove, varene jidlo. Nesnasim jak jsem tu zasekly a stale jim jen tvrdy chleba!
+loneminerfood_0_description_success=No podivejme, tohle je prave Severske jidlo!
+loneminerfood_0_description_refuse=Dobra, tak zpatky k chlebu.
+
+knightstonedelivery_0_label=Potreba kamene
+knightstonedelivery_0_description=$name, I need more stone for the defense of $startvillager_villagename$! $miner_villagername$, who works in the hills around $miner_distance$ to the $miner_direction$, had promised me a large batch but never sent anything. Would you check what he is doing?
+knightstonedelivery_0_description_success=Have a good journey!
+knightstonedelivery_0_description_refuse=Well, I'll send one of my own men then.
+knightstonedelivery_1_label=Stone collection
+knightstonedelivery_1_description=Ah yes, the stones for $startvillager_villagename$! I was just about to ship them. I hope you have space, there are four full stacks.
+knightstonedelivery_1_description_success=I'll get back to mining then.
+knightstonedelivery_1_description_refuse=Why come all that way to tell me this...
+knightstonedelivery_1_description_timeup=You did not find $miner_villagername$ in time.
+knightstonedelivery_1_listing=Go see the miner $miner_villagername$, who lives $startvillager_miner_distanceshort$ to the $startvillager_miner_direction$ of $startvillager_villagename$, to enquire about $startvillager_villagername$'s stones.
+knightstonedelivery_2_label=Stone delivery
+knightstonedelivery_2_description=You have the stones? Perfect! Your service to the Norman crown will not be forgotten.
+knightstonedelivery_2_description_success=You have my gratitude.
+knightstonedelivery_2_description_refuse=Treason! Be happy you are not dead already.
+knightstonedelivery_2_description_timeup=You did not return the stones to $startvillager_villagername$ in time.
+knightstonedelivery_2_listing=Return to $startvillager_villagename$ with the stones for $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=Letter to send
+abbotbooksdelivery_0_description=My son $name, it is good to see you. I have great need of some precious books for my research, kept in the remote monastery of $loneabbot_villagename$. Would you be kind to an old man and request them from my old friend Abbot $loneabbot_villagername$? I will write you a letter of introduction. You will find his monastery around $loneabbot_distance$ to the $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=God be with you on your travels.
+abbotbooksdelivery_0_description_refuse=Young men are so unhelpfull.
+abbotbooksdelivery_1_label=Deliver letter
+abbotbooksdelivery_1_description=A letter from my old friend Father $startvillager_villagername$? Excellent! Of course, I can spare him those books. Convey my best wishes to him, my son.
+abbotbooksdelivery_1_description_success=Save travels, my son.
+abbotbooksdelivery_1_description_refuse=God will have to find an other way then.
+abbotbooksdelivery_1_description_timeup=You did not deliver the letter to $loneabbot_villagername$ in time.
+abbotbooksdelivery_1_listing=Deliver the letter from $startvillager_villagername$ to Abbot $loneabbot_villagername$. His abbey is $startvillager_loneabbot_distanceshort$ to the $startvillager_loneabbot_direction$ of $startvillager_villagename$.
+abbotbooksdelivery_2_label=Deliver books
+abbotbooksdelivery_2_description=My books! You have been swift, my son! You will get your true reward in an other world, but please accept this small token of gratitude in the meantime.
+abbotbooksdelivery_2_description_success=Peace be on you.
+abbotbooksdelivery_2_description_refuse=Why come back all this way to taunt me with those, my son?
+abbotbooksdelivery_2_description_timeup=You did not return the books to $startvillager_villagername$ in time.
+abbotbooksdelivery_2_listing=Deliver the books from $loneabbot_villagename$ to Abbot $startvillager_villagername$ of $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=Confidential mission
+rajadiamondsword_0_description=Namaste, $name. You have shown yourself to be a friend of $startvillager_villagename$, and I have a need of someone trustworthy for a special mission. General $general_villagername$ has proven himself a loyal and competent soldier, and it is time to reward him. Would you take this priceless diamond sword to him, in his fortress of $general_villagename$, $general_distance$ to the $general_direction$ from here?
+rajadiamondsword_0_description_success=Protect this sword with your life!
+rajadiamondsword_0_description_refuse=We will not forget this.
+rajadiamondsword_1_label=Deliver sword
+rajadiamondsword_1_description=What have you come here for, stranger?
+rajadiamondsword_1_description_success=His Highness $startvillager_villagername$ honours me! He is a great ruler. You have my thanks, and his.
+rajadiamondsword_1_description_refuse=Honourless thief!
+rajadiamondsword_1_description_timeup=You did not deliver the sword to $general_villagername$ in time. The Raja and him are furious with you.
+rajadiamondsword_1_listing=Deliver the diamond sword to $general_villagername$ in his fort of $general_villagename$.
+
+adivasifarmdelivery_0_label=Delivery needed
+adivasifarmdelivery_0_description=We have just rice and turmeric that we grow ourself here, it is a tough life... Would you help us poor people? A farmer in the village of $peasant_villagername$ is willing to barter our products for meat and rasgullas. If you could take those goods to his village of $peasant_villagename$, we would be very grateful. It's around $peasant_distance$ to the $peasant_direction$ from here.
+adivasifarmdelivery_0_description_success=Shukriya, my friend
+adivasifarmdelivery_0_description_refuse=Nobody helps the poor...
+adivasifarmdelivery_1_label=Deliver crops
+adivasifarmdelivery_1_description=Ah, you are coming from $startvillager_villagername$? Yes, I have some goods for him. I'll go get them.
+adivasifarmdelivery_1_description_success=Remember: the farm is $startvillager_distanceshort$ to the $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=Well, tough luck for him then.
+adivasifarmdelivery_1_description_timeup=You did not deliver the goods to $peasant_villagername$ in time.
+adivasifarmdelivery_1_listing=Go to $peasant_villagename$ deliver the goods from the adivasi farm to $peasant_villagername$.
+adivasifarmdelivery_2_label=Deliver goods
+adivasifarmdelivery_2_description=Shukriya, $name! Those goods are most welcome! I hope $peasant_villagername$ received you well?
+adivasifarmdelivery_2_description_success=May the goddess bless you.
+adivasifarmdelivery_2_description_refuse=Stealing from poor people is no glorious feat.
+adivasifarmdelivery_2_description_timeup=You did not return the goods to $startvillager_villagername in time.
+adivasifarmdelivery_2_listing=Deliver the goods from $peasant_villagename$ to $startvillager_villagername$'s farm, $peasant_startvillager_direction$ to the $peasant_startvillager_distance$ of $peasant_villagename$.
+
+traderdiamonds_0_label=Jewel delivery
+traderdiamonds_0_description=Namaste, $name. I have heard you are trustworthy and a friend of us Hindus, and I have a valuable delivery to make. The lovely Rani $rani_villagername$ of $rani_villagename$ has ordered priceless gems from me for some new jeweleries. Would you deliver them to her palace? It's $rani_distance$ to the $rani_direction$ from here. You can keep two of the gems as a reward.
+traderdiamonds_0_description_success=Do not show those diamonds too much!
+traderdiamonds_0_description_refuse=Too dangerous for you, I believe?
+traderdiamonds_1_label=Deliver diamonds
+traderdiamonds_1_description=At last. I was getting impatient. $startvillager_villagername$ wouldn't like to see me angry.
+traderdiamonds_1_description_success=I shall go and try those out!
+traderdiamonds_1_description_refuse=You will end up crushed by one of the Raja's elephants!
+traderdiamonds_1_description_timeup=You did not deliver the diamonds to Rani $rani_villagername$ in time. Your standing amoungst Indian villages is much lowered.
+traderdiamonds_1_listing=Deliver the diamonds from the trader $startvillager_villagername$ to Rani $rani_villagername$ of $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=Nemocne dite
+normanrasgullas_0_description=My son $child_villagername$ has been pale lately. He claims he cannot eat one more mouthful of boudin or tripes! Would you have anything to suggest? You look well-travelled.
+normanrasgullas_0_description_success=That sweet is delicious! I think I'll eat it myself.
+normanrasgullas_0_description_refuse=I'll try calva. After that everything works.
+
+mayanlumbermanaxe_0_label=Frustrovany drevorubec
+mayanlumbermanaxe_0_description=This axe is useless. Why is no Mayan artisan capable of making a really good axe? I would be so much more productive with decent tools!
+mayanlumbermanaxe_0_description_success=That axe feels magical! Was it made by a God?
+mayanlumbermanaxe_0_description_refuse=Back to work then.
+
+
+
+losttapestry_0_label=Ztracena tapiserie
+losttapestry_0_description=Hello Sir! I found a tapestry lying in the fields. Can you find who it belongs to?
+losttapestry_0_description_success=Thank you Sir!
+losttapestry_0_description_refuse=You are horrible! I'm telling my mother on you!
+losttapestry_1_label=Missing Tapestry
+losttapestry_1_description=I have lost a tapestry! Has nobody seen it?
+losttapestry_1_description_success=Thank you for finding it.
+losttapestry_1_description_refuse=You're hiding something, I know it.
+losttapestry_1_listing=Find to whom the tapestry belongs.
+
+spiders_0_label=Chybejici pritel
+spiders_0_description=A friend of mine named $miner_villagername$ usually visits me at the same time every day. The strange thing is that he hasn't been by today at all -- he's several hours late, in fact. I admit, I am a little worried, $name. $miner_villagername$ spends a lot of time over by the mine, and I'm sure you know how dangerous it is there. If you happen to be going that way, though, will you keep an eye out for him?
+spiders_0_description_success=Thank you my friend!
+spiders_0_description_refuse=I'm sure he will turn up somewhere.
+spiders_1_label=I'm so glad you found me.
+spiders_1_description=Ughhh... I was bitten very badly by a spider while exploring the cave very close to here. I am sure I have been seriously poisoned; you must help me. Please tell $wife_villagername$. She will be able to help me.
+spiders_1_description_success=Hurry... I'm so dizzy... 
+spiders_1_description_refuse=Ughhh...
+spiders_1_listing=Find $miner_villagername$ over by the mine.
+spiders_2_label=Making the antidote.
+spiders_2_description=There is no time to lose to save my husband! I know of an antidote that should help with the poison. It requires some ingredients, though, before I can make it. I'll need two brown mushrooms, two red mushrooms, and some squid ink.
+spiders_2_description_success=Speed be with you, $name.
+spiders_2_description_refuse=Fine, I'll take it myself!
+spiders_2_listing=Ask $wife_villagername$ for an antidote.
+spiders_3_label=$miner_villagername$'s Antidote
+spiders_3_description=Bring $miner_villagername$'s Antidote to $miner_villagername$ before the time limit is up.
+spiders_3_description_success=Oh, I knew $wife_villagername$ would be able to help me! <$miner_villagername$ drinks the antidote.> I'm always getting into trouble and $wife_villagername$, well, she always manages to help me out of it. 
+spiders_3_description_refuse=Do you want me to die?
+spiders_3_description_timeup=You did not bring $miner_villagername$'s Antidote to $miner_villagername$ in time.
+spiders_3_listing=Take $miner_villagername$'s Antidote to $miner_villagername$.
+
+findtheegg_0_label=Hledani vajec
+findtheegg_0_description=There are too many chickens around here!. To stop them breeding we need to collect their eggs... Would you help?
+findtheegg_0_description_success=Very good, $name. I will be sending this egg home where I hope it will soon hatch! Please accept this as a symbol of my gratitude.
+findtheegg_0_description_refuse=Come back when you have more eggs for me!
+
+feathercrafter_0_label=Vice peri
+feathercrafter_0_description=My wife makes pillows for us poor folk. To make them we need lots and lots of feathers. Would you have any you could spare?
+feathercrafter_0_description_success=Very good, $name. I will be giving these to my wife. You have my thanks.
+feathercrafter_0_description_refuse=Back to work then.
+
+watersample_0_label=Strange reports
+watersample_0_description=My wife has received reports from the villagers that the water from the well is making our kids unwell. Take this bucket and return a sample of water to me.
+watersample_0_description_success=Hurry... before other kids become ill.
+watersample_0_description_refuse=I must warn you, what I ask of you next will be very dangerous.
+watersample_1_label=Water sample
+watersample_1_description=Did you bring the water sample ?
+watersample_1_description_success=Thank you! this will help me find the source of our problems.
+watersample_1_description_refuse=I must warn you, the next time you want help it's going to cost you, $name!
+watersample_1_description_timeup=You did not bring $startvillager_villagername$'s water sample to him in time.
+watersample_1_listing=$startvillager_villagername$ at $startvillager_villagename$ wants you to bring him a water sample.
+
+lordssword_0_label=Zlomeny mec
+lordssword_0_description=My husband $knight_villagername$ has broken his sword again! Could you please give this new sword to him ?
+lordssword_0_description_success=Thank you my good man!
+lordssword_0_description_refuse=You are really not the helpfull kind.
+lordssword_1_label=Lost Sword
+lordssword_1_description=My wife $startvillager_villagename$ has a sword for me. Did you bring it ?
+lordssword_1_description_success=Thank you, you have saved the day again.
+lordssword_1_description_refuse=How do you expect me to help you fight if I don't have a sword ?
+lordssword_1_description_timeup=You did not deliver the sword on time to $knight_villagername$. The villagers will never forget.
+lordssword_1_listing=$startvillager_villagername$ at $startvillager_villagename$ wants you to bring him his new sword.
+
+sweettrader_0_label=Cousin's birthday
+sweettrader_0_description=My young cousin $girl_villagername$ has her birthday today. Will you take this cake to her please?
+sweettrader_0_description_success=Thank you for your help.
+sweettrader_0_description_refuse=Thats not very nice of you!
+sweettrader_1_label=[Deliver cake]
+sweettrader_1_description=Nobody is celebrating my birthday...
+sweettrader_1_description_success=Thank you! Thank you! Thank you!
+sweettrader_1_description_refuse=Nobody likes me.
+sweettrader_1_listing=Deliver a cake to $girl_villagername$ at $startvillager_villagename$ for her birthday.
+
+fishingfrenzy_0_label=Fishing Frenzy
+fishingfrenzy_0_description=Hello there, my name is $startvillager_villagername$. Fishing is time consuming work, and I don't know if I will be able to meet my quota for today. Do you think I could get you to help me?
+fishingfrenzy_0_description_success=Thank you, four raw fish should be enough. Return them to my wife, she will repay you.
+fishingfrenzy_0_description_refuse=I understand, we are all busy now days.
+fishingfrenzy_1_label=Fishing Frenzy
+fishingfrenzy_1_description=Ah you must be the traveller $startvillager_villagername$ told me about. Have you caught the fish?
+fishingfrenzy_1_description_success=Wonderful, these are fine looking fish. The rest of the village shall be thankful as well.
+fishingfrenzy_1_description_refuse=Not an apt fisher eh? Oh well, you may still be usefull for something.
+fishingfrenzy_1_description_timeup=You could not catch the fish in time. The villagers of $startvillager_villagename$ have noted your disgrace.
+fishingfrenzy_1_listing=Catch four fishes and bring them to $wife_villagername$
+
+
+sadhu_intro_0_label=The Sadhu
+sadhu_intro_0_description=$name, we have known you for a long time now, and you know we trust you as one of us, despite never asking who you were or where you came from. Originally, we thought that you were simply a man from an other nation that like us had been carried here on the fateful day where the earth shook and we found ourselves in this strange land, where the seasons never change and the rivers do not flow - someone like those strange men in their stone pyramids, or the white-faced men skilled in the forging of iron.<ret><ret>But we have observed you long, and you are different. You seem to have no memory of an earlier land, and thrive here as if you belonged. And yet we have never met anyone else of your kind.<ret><ret>If you know more than we do and do not want to share it, that is your right. But if as I suspect you wonder yourself what strange world you roam and what is your place in it, you need wisedom I do not have. One man only that I have heard of can help you: my old guru, Sadhu Vidya. I have not seen him in many years, but I know he wanders in the forest, chosing tall and strong trees for shelter. When you meet him, convey to him my thanks for the wisdom he shared with me.
+sadhu_intro_0_description_success=The Goddess bless you on your travels.
+sadhu_intro_0_description_refuse=The road to self-discovery is hard, I understand.
+sadhu_intro_1_label=Report to the Pandit
+sadhu_intro_1_description=So, have you met my old guru?
+sadhu_intro_1_description_success=He has greatly honoured you by sharing his knowledge with you! You are a man the Gods smile upon.
+sadhu_intro_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_intro_1_listing=Find the Sadhu under a tall tree in a forest. When you have met him, Say so to the Pandit of village $startvillager_villagename$.
+
+sadhu_introwife_0_label=The Sadhu
+sadhu_introwife_0_description=$name, we have known you for a long time now, and you know we trust you as one of us, despite never asking who you were or where you came from. Originally, we thought that you were simply a man from an other nation that like us had been carried here on the fateful day where the earth shook and we found ourselves in this strange land, where the seasons never change and the rivers do not flow - someone like those strange men in their stone pyramids, or the white-faced men skilled in the forging of iron.<ret><ret>But we have observed you long, and you are different. You seem to have no memory of an earlier land, and thrive here as if you belonged. And yet we have never met anyone else of your kind.<ret><ret>If you know more than we do and do not want to share it, that is your right. But if as I suspect you wonder yourself what strange world you roam and what is your place in it, you need wisedom that few people have. One man only that I have heard of can help you: Sadhu Vidya, a wise man who helped me in difficult times. I have not seen him in many years, but I know he wanders in the forest, chosing tall and strong trees for shelter. When you meet him, convey to him my thanks for his past wisedom.
+sadhu_introwife_0_description_success=The Goddess bless you on your travels.
+sadhu_introwife_0_description_refuse=You should not refuse the help of such a holy man.
+sadhu_introwife_1_label=Report to the $startvillager_villagerrole$
+sadhu_introwife_1_description=So, have you taken advice from the holy man?
+sadhu_introwife_1_description_success=He has greatly honoured you by sharing his knowledge with you! You are a man the Gods smile upon.
+sadhu_introwife_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_introwife_1_listing=Find the Sadhu under a tall tree in a forest. When you have met him, Say so to the $startvillager_villagerrole$ of village $startvillager_villagename$.
+
+sadhu_first_0_label=Initiation
+sadhu_first_0_description=I was expecting you, $name. Villagers visit me to seek advices, and I have been told many times about the stranger without a past that befriends Indian villages and seems at home in this wild world we have all been sent to. You must have been told by some village elder that I would answer your questions. It will not be so easy. My knowledge was great in the old world on the banks of the Holy Ganges, but here I must learn everything anew. If you seek a Guru, you have come in vain.<ret><ret>However... Before I retired to a life of meditation, I was skilled in the knowledge of the natural world. There was not a plant I could not name or use between the Himalayas and the jungles of the south. And while my body has grown frail, my mind is still sharp. Help me study this world and you too will learn much about it. But be warned: not all creatures here are peaceful, and I belive we may face resistance when exploring this world.
+sadhu_first_0_description_success=I will meditate now. Come back in a little while for your first task.
+sadhu_first_0_description_refuse=I will stay here and pray you change your mind, $name.
+
+sadhu_1_samples_0_label=Botanical samples
+sadhu_1_samples_0_description=Your first task will be simple. I need to assemble a collection of the main vegetation types to be found around here. I would go myself, but I have vowed to stay within reach of this tree for the next three full moons, so you will have to perform this task.
+sadhu_1_samples_0_description_success=I will meditate in your absence.
+sadhu_1_samples_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_1_samples_1_label=Return samples
+sadhu_1_samples_1_description=I have been praying for guidance while you were working.
+sadhu_1_samples_1_description_success=Those samples will be most useful. I will praise you to the Goddess, $name.<ret><ret>I see also you found this task too simple. Know that no useful task is unworthy of being done. And know also that I foresee more demanding work for you in the future.<ret><ret>Come back when you have rested a little.
+sadhu_1_samples_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_1_samples_1_listing=Bring the samples back to the Sadhu.
+
+
+sadhu_2_forest_0_label=Pruzkum lesa
+sadhu_2_forest_0_description=We need to study the main landscapes of this new world. We will start with the forest; You will need to open your mind to this place and visit it at night. Start at sunset, and spend the night strolling through it, observing.<ret><ret>I do not need to remind you that outdoors are dangerous when the sun is down, but the gods will watch over you. Carrying a sword would be a good idea as well – I have noticed that well-prepared warriors enjoy more effective divine protection.
+sadhu_2_forest_0_description_success=I will meditate in your absence.
+sadhu_2_forest_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_2_forest_1_label=Report findings
+sadhu_2_forest_1_description=So how was your midnight stroll? Are you closer to enlightenment?
+sadhu_2_forest_1_description_success=So you say it was agitated? This was to be expected, and yet you seem to have met more resistance than chance would suggest. There is much yet we do not understand in this world. Give me time to reflect on this and come back to see me.
+sadhu_2_forest_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_2_forest_1_listing=Explore the forest at night as indicated by the Sadhu.
+
+
+
+sadhu_3_pandit_0_label=Hindu epics
+sadhu_3_pandit_0_description=I have reflected long on your misadventures in the forest, and illumination eludes me. Those grotesque caricatures of men are unlike anything I had ever seen in our disappeared world, and I cannot understand their existence of purpose. There are however talks of demons in ancient Hindu epics that could relate to them. My solitary existence prevents me from keeping such expensive parchments, but you should be able to find them in Indian villages.
+sadhu_3_pandit_0_description_success=I need a library of my own... The life of a sadhu has its drawbacks.
+sadhu_3_pandit_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_3_pandit_1_label=Bring the books back
+sadhu_3_pandit_1_description=I have prayed long while you were gone, $name. I hope you found them without difficulties.
+sadhu_3_pandit_1_description_success=I thank you, $name. I will need to study those books for some time now. Go and meditate and come back when you have found inner peace.
+sadhu_3_pandit_1_description_refuse=You sadden me.
+sadhu_3_pandit_1_listing=Find an Indian villager you can borrow the books from and bring them back to the Sadhu.
+
+sadhu_3b_pandit_0_label=Speak to the pandit
+sadhu_3b_pandit_0_description=So you have met the wise sadhu? You must be honoured to be working under such a holy man!<ret><ret>I will of course give him the books he need right away. You should read them as well. Of course, assuming you are educated enough to read Sanskrit.
+sadhu_3b_pandit_0_description_success=And convey my regards to the holy sadhu!
+sadhu_3b_pandit_0_description_refuse=You dare refuse a task given to you by the Sadhu in person?
+
+sadhu_3b_wife_0_label=Speak to the $startvillager_villagerrole$
+sadhu_3b_wife_0_description=The Sadhu needs the great Hindu epics? It is an honour to let him take the copy I have!
+sadhu_3b_wife_0_description_success=And convey my regards to the holy sadhu!
+sadhu_3b_wife_0_description_refuse=You dare refuse a task given to you by the Sadhu in person?
+
+sadhu_4_desert_0_label=Poustni pruzkum
+sadhu_4_desert_0_description=Your observations from the forest were interesting, but more is needed. I have long wanted to gather informations on this world's barren wastelands, where humans rarely go. Maybe you will meet less opposition there. Go and explore the first desert you find like you explored the forest.
+sadhu_4_desert_0_description_success=I will reflect on your progress while you are gone.
+sadhu_4_desert_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_4_desert_1_label=Report findings
+sadhu_4_desert_1_description=I trust the Goddess kept you safe during your exploration.
+sadhu_4_desert_1_description_success= Your description of the desert as "barren" and "sandy" does little to increase our knowledge, $name. But it is interesting that you noticed more of those walking skeletons than previously. The land itself seems to react to you exploring it.
+sadhu_4_desert_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_4_desert_1_listing=Explore a desert at night as indicated by the Sadhu.
+
+
+
+sadhu_5_adivasi_0_label=Bazinny expert
+sadhu_5_adivasi_0_description=$name, we need to continue gathering data on this world. I believe the marshes to be particularly important places – they seem to be present far more than natural forces would suggest. Thankfully for you, there will be no need to explore them yourself. There are people whose knowledge of them is unmatched: the adivasi farmers. Those men are poor and looked down upon by the villagers, but they are observant and spend their lives deep in the marshes. Find one and ask him for information. Tell him you are coming on my behalf and he will be welcoming.
+sadhu_5_adivasi_0_description_success=I cannot give you directions to their dwellings, but search the marshes and you should find them.
+sadhu_5_adivasi_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_5_adivasi_1_label=Bring the samples back
+sadhu_5_adivasi_1_description=Have the Adivasis shared their knowledge with you?
+sadhu_5_adivasi_1_description_success=Excellent, those will be most useful. Has he said anything about abnormal activities in the marshes?
+sadhu_5_adivasi_1_description_refuse=You sadden me.
+sadhu_5_adivasi_1_listing=Find an adivasi farmer in a marsh and ask him for information on the marshes. Go back to the Sadhu after that.
+
+
+sadhu_5b_adivasi_0_label=Speak to farmer
+sadhu_5b_adivasi_0_description=The Sadhu himself requests my help? But I am but a poor, ignorant man... What can I give him save for some lowly plants I have collected...<ret><ret>And I pray you will accept this food before you leave, $name. Whoever works for the Sadhu must be a good man.
+sadhu_5b_adivasi_0_description_success=I pray this will be useful to him. His wisdom knows no bound. 
+sadhu_5b_adivasi_0_description_refuse=How can you refuse the holy task of helping the sadhu?
+
+sadhu_6_mountain_0_label=Pruzkum hor
+sadhu_6_mountain_0_description=I have a last exploration for you to do, $name. I need you to study a nearby mountain range. In my meditations, I can almost see a pattern forming, almost...
+sadhu_6_mountain_0_description_success=I will reflect on your progress while you are gone.
+sadhu_6_mountain_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_6_mountain_1_label=Report findings
+sadhu_6_mountain_1_description=I trust you found the mountains peaceful under the moonlight.
+sadhu_6_mountain_1_description_success= So this time it was spiders that troubled your night-time explorations? I have seen those at night, lurking near this tree. But what do they mean? Why are they present even in mountains where they do not fit? It is a worrying sign, creatures that do not belong to the places they roam.
+sadhu_6_mountain_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_6_mountain_1_listing=Explore a mountain range at night as indicated by the Sadhu.
+
+sadhu_7_underwater_0_label=Velky ponor
+sadhu_7_underwater_0_description=Last night the Goddess spoke to me and whispered that it is deeper that I should look. I have given it much thought, but I now know what she meant: you must explore the very depth of the sea.
+sadhu_7_underwater_0_description_success=Dive, my friend, and tell me what lies in the depths.
+sadhu_7_underwater_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_7_underwater_1_label=Report findings
+sadhu_7_underwater_1_description=So what is there to be seen so deep under the waves?
+sadhu_7_underwater_1_description_success=You say that as deep as you went, there was no sign of life... No fishes, and no aquatic plants? This will require much thought on my part.
+sadhu_7_underwater_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_7_underwater_1_listing=Dive at least 15 metres below the surface of a sea.
+
+sadhu_8_underwaterglass_0_label=Okno v hlubinach
+sadhu_8_underwaterglass_0_description=I have thought long about your report, $name. Maybe you did not see well enough, in your fleeting dives. I need you to go back to the sea – and build an observation room as deep as you can, from which to study the depths in peace.
+sadhu_8_underwaterglass_0_description_success=I know this is a challenging project, but I trust the Goddess to inspire you in its fulfilment.
+sadhu_8_underwaterglass_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_8_underwaterglass_1_label=Report findings
+sadhu_8_underwaterglass_1_description=What have you seen, where no man has ever seen?
+sadhu_8_underwaterglass_1_description_success=So the bottom of the sea is truly a barren place, devoid of life beyond those mysterious squids. This cannot be... No sea can be so empty, and how could such mighty animals survive without prey? <ret><ret>You have given me much to think about, $name. Come back in a while and I pray I will have answers for you.
+sadhu_8_underwaterglass_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_8_underwaterglass_1_listing=Build an observation room with a glass ceiling at least 20 metres below the surface.
+
+
+sadhu_9_topandbottom_0_label=Limity sveta
+sadhu_9_topandbottom_0_description=$name, there is a last challenge I need you to undertake for me. I know from reports of courageous Indian explorers that this new world is vast - in the first few years after the night of fire which took us here, many young Indian villagers travelled far and wide to find known shores again, in vain. They also never saw any mountain that is worthy of that name, something to rival the mighty Himalayas. I have thought hard about it, and this has come to my mind: the sky here looks as high as it ever was over the plains of the Ganges, but the clouds are always low, and never do we see any birds or creature above them. Could it be that everything above them is an illusion? You need to go and see for yourself what is there above the clouds.
+sadhu_9_topandbottom_0_description_success=You may start by climbing the branches of this venerable tree if it helps your undertaking.
+sadhu_9_topandbottom_0_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_9_topandbottom_1_label=Report findings
+sadhu_9_topandbottom_1_description=What have you seen from so far above the earth, $name?
+sadhu_9_topandbottom_1_description_success=So there is a limit, no further than the height of thirty men above the waters of the sea... Is this world a mockery of the real one then, the work of a demon or a god? $name, you must confirm this finding. You must see if this world is finite downward as well, if this ground we live in is but a thin slice of earth floating on nothingness.
+sadhu_9_topandbottom_1_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_9_topandbottom_1_listing=Reach as far up in the sky as you can and report your findings to the Sadhu.
+sadhu_9_topandbottom_2_label=Report findings
+sadhu_9_topandbottom_2_description=What did you find deep below the ground, my worthy explorer?
+sadhu_9_topandbottom_2_description_success=So you met rocks too hard to break and could go downward no further. And you say this was the height of thirty men below the surface. There is too much symmetry at work here, $name. It cannot be, and yet it is.<ret><ret>I have no more work for you now. I need to think and meditate and pray for guidance, until I can make sense of all of this. Come back in some time and I will give you the results of my finding, if Lord Ganesh inspires me.
+sadhu_9_topandbottom_2_description_refuse=I will stay here and pray you change your mind, $name.
+sadhu_9_topandbottom_2_listing=Dig as deep as you can go and report the results to the Sadhu.
+
+
+sadhu_10_conclusion_0_label=Kniha Sadhu
+sadhu_10_conclusion_0_description=I have fasted and prayed for guidance, and the Gods have whispered some wisdom in my ears. But I was not worthy enough to encover the truth, just to glimpse at aspects of it.<ret><ret>$name, I am too tired to speak now. I have written my findings in this scroll. Take it and have my blessings in your quest for knowledge, I do not believe I can do more for you at present. You may need more wisdom than an old sadhu ever had.
+sadhu_10_conclusion_0_description_success=I have written this parchment in the holy language of Sanskrit, which only a few pandits master anymore. But somehow I knew you would be able to understand it. The Goddess whispers in your ear, even if you cannot hear her.
+sadhu_10_conclusion_0_description_refuse=I will keep this book until you change your mind.
+
+
+
+sadhu_leadership_0_label=Vudcovstvi
+sadhu_leadership_0_description=I have heard you ambition to lead a group of Indian villagers to start a new village. $name, after all you have done for me, I am convinced of your righteousness. Should you want it, you have my blessing in this project.
+sadhu_leadership_0_description_success=I will pray for your success. Good luck, $name.
+sadhu_leadership_0_description_refuse=So you prefer to focus on searching for the truth? This is a wise decision. But should you change your mind, come back to me.
+
+
+
+alchemist_1_intro_0_label=Alchymista
+alchemist_1_intro_0_description=My son, it has come to our ears that you have spent time with a pagan wanderer who claims unique wisdom in the working of this world. Do not fall into heresy! If you need guidance, you should retire to a monastry and pray for it. God smiles on people wise enough to see the limit of their understanding. But you are young and foolish, and I know my advice will fall on deaf ears until you learn the lesson yourself. So have young people always been!<ret><ret>There is an other man you can go and see, who might be able to help you, or convince you of the futility of your search. Though he dabbles in things he does not understand, he is learned and clever. Do you wish me to guide you to him?
+alchemist_1_intro_0_description_success=His name is Guillaume Vif-argent, and he calls himself an 'alchemist'. I do not have his precise location, but he is known to setup his workshop in mountains, to best observe the stars.
+alchemist_1_intro_0_description_refuse=You are wiser than you look.
+alchemist_1_intro_1_label=Report to the $startvillager_villagerrole$
+alchemist_1_intro_1_description=Have you found that man? What can you say of him?
+alchemist_1_intro_1_description_success=I see his knowledge impresses you. Be warry, $name.
+alchemist_1_intro_1_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_1_intro_1_listing=Find the Alchemist's Tower in a mountainous area, then report to the $startvillager_villagerrole$ of $startvillager_villagename$.
+
+alchemist_1_introguildmaster_0_label=Alchymista
+alchemist_1_introguildmaster_0_description=$name, I understand that in your search for meaning in this world you have seeked the guidance of some strange foreign man of no reputation. You should have come to me instead! I have the honour of knowing the greatest mind alive today, the Alchemist Guillaume Vif-argent, whose reputation is second to none amoung those of us that are schooled in philosophy. It is him you should go to.
+alchemist_1_introguildmaster_0_description_success=His workshop is setup in mountainous areas, where he studies the rocks and the stars.
+alchemist_1_introguildmaster_0_description_refuse=So you will listen to a beggar but not to a learned man? You disapoint me, $name.
+alchemist_1_introguildmaster_1_label=Report to the Guild Master
+alchemist_1_introguildmaster_1_description=What news do you have of the great Alchemist?
+alchemist_1_introguildmaster_1_description_success=I see his mind is as penetrating as always. Listen and learn from him, young man.
+alchemist_1_introguildmaster_1_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_1_introguildmaster_1_listing=Find the Alchemist's Tower in a mountainous area, then report to the $startvillager_villagerrole$ of $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=Alchymista
+alchemist_1_introknight_0_description=So you want to know who in our realms would have any knowledge of this world? Not the priests, that is sure. And be warry of the guild masters, they always claim to know far more than they do. There is one man that could help you, maybe - he claimed to be very wised and learned and offered to turn lead into gold for our king back in the old world. I always thought he was shady, but maybe there is something to him.
+alchemist_1_introknight_0_description_success=He has settled in the wilderness, near mountains. He claims he need peace for his work, but I am sure he is hiding something. In any case, his name is Guillaume Vif-argent.
+alchemist_1_introknight_0_description_refuse=Probably a wise decision.
+alchemist_1_introknight_1_label=Report to the $startvillager_villagerrole$
+alchemist_1_introknight_1_description=Have you seen the man?
+alchemist_1_introknight_1_description_success=So he seems genuine to you? Well, as long as he keeps out of my lord's affairs...
+alchemist_1_introknight_1_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_1_introknight_1_listing=Find the Alchemist's Tower in a mountainous area, then report to the $startvillager_villagerrole$ of $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=A welcome
+alchemist_2_meeting_0_description=So you were sent to me to seek knowledge, $name? You were well advised. I am the only real alchemist you will find in this god-forsaken world, my boy. If you wish to learn from me, you will need to help. I can always use more resourceful young men. And should you be motivated by more than pure knowledge, know that while I have not yet succeeded at turning lead into gold, I have managed to turn alchemy into coins at the royal court.
+alchemist_2_meeting_0_description_success=You can settle in the house outside if you wish too. My assistant and me are far too busy to ever retire to it.
+alchemist_2_meeting_0_description_refuse=Then begone, I have work to do.
+
+alchemist_3_ores_0_label=Stone collection
+alchemist_3_ores_0_description=I am currently working on analysing the rocks of this world. Cleary they are similar to those of the old one in some ways, but their distribution is different. I need samples now! Or did you think I am the kind of useless philosopher to work from books only?
+alchemist_3_ores_0_description_refuse=Then why do you bother me?
+alchemist_3_ores_0_description_success=Good. My assistant will provide you with the tools you need. And rest assured, I do not require you to bring me back diamonds. I have completed my work on those already.
+alchemist_3_ores_1_label=Pick up tools
+alchemist_3_ores_1_description=Greetings $name, I'm Master Vif-argent's assistant. Do not mind his manners, he is a true man of science, too involved in his work to have time for society! But he is very wise, that I know. Anyway, here are your tools.
+alchemist_3_ores_1_description_success=Good luck, $name!
+alchemist_3_ores_1_description_refuse=I will have to inform the Master.
+alchemist_3_ores_1_listing=Pick up tools from the Alchemist's assistant.
+alchemist_3_ores_2_label=Return with samples
+alchemist_3_ores_2_description=What have you found?
+alchemist_3_ores_2_description_success=Good, very good! You are an efficient man, $name. I like that.
+alchemist_3_ores_2_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_3_ores_2_listing=Return with the samples to see the Alchemist.
+
+alchemist_4_lava_0_label=A burning need
+alchemist_4_lava_0_description=You wanted to see me, $name? So you have translated your old man's sayings in Latin... I do not believe this will be very useful. I know you think highly of this "sadhu", but clearly he is not trained in modern alchemy. Though it is said that the ancient Hindus were advanced in mathematics and metallurgy... Very well, I will go through it then.<ret><ret>I have big experiences in mind for now however, $name. As you might have observed in your travels this world has no volcanos like those of our old Europe, but the soil is full of lava and it is not uncommon to see streams of it at the surface. I need to know what this lava is made of, and if it can be used to transmute metals. My good Robert is too old for this, but you seem resourceful enough to bring me back the samples I need.
+alchemist_4_lava_0_description_refuse=Then why do you bother me?
+alchemist_4_lava_0_description_success=Go and see Robert, he will have the equipment you need.
+alchemist_4_lava_1_label=Pick up equipment
+alchemist_4_lava_1_description=It's lava he needs this time? I am sure he will do great work with it! Take those buckets, and good luck. Remember the Master needs all 16 filled.
+alchemist_4_lava_1_description_success=Be back soon, $name!
+alchemist_4_lava_1_description_refuse=I will have to inform the Master.
+alchemist_4_lava_1_listing=Pick up equipment from the Alchemist's assistant.
+alchemist_4_lava_2_label=Return with the lava
+alchemist_4_lava_2_description=Could you collect it?
+alchemist_4_lava_2_description_success=Excellent, this will be most useful for my experiences.<ret><ret>I have started reading through your book while waiting for you, $name. Much of it is as I thought, mysticism and unfounded speculations. But there are some interesting observations. I will consider it some more and we will speak of it again.
+alchemist_4_lava_2_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_4_lava_2_listing=Return with the lava to see the Alchemist.
+
+alchemist_5_creeper_0_label=Explosive needs
+alchemist_5_creeper_0_description=Ah, $name! Has the Master given you any urgent task? No? Good, good... I am in trouble, $name. The Master had requested large amounts of that mysterious explosive substance that villagers sometime find around the villages, but I have been unable to secure enough. He will be bitterly disapointed! Would you be able to help? I'll provide any tools you might require.
+alchemist_5_creeper_0_description_refuse=What will I do then?
+alchemist_5_creeper_0_description_success=Thank you! Of course I can provide a bow and arrows if you need that.
+alchemist_5_creeper_1_label=Bring back the gunpowder
+alchemist_5_creeper_1_description=Have you been able to find any?
+alchemist_5_creeper_1_description_success=How did you manage to get so much so fast? You are really an extraordinary man, $name. I cannot thank you enough for your help!
+alchemist_5_creeper_1_description_refuse=I will have to inform the Master.
+alchemist_5_creeper_1_listing=Collect gunpowder for the Alchemist' assistant.
+
+
+
+alchemist_6_borehole_0_label=The Great Dig
+alchemist_6_borehole_0_description=I have finished studying your parchment, $name. There is one aspect I find very interesting - that observation that there is a layer of unbreakable rocks deep in the ground. Of course, I do not agree with your sadhu that this show this world is an illusion. That is mystical reveries. What it shows is that there must be something very interesting underneath, which we are not meant to access. I intend to change that.<ret><ret>Are you ready for some serious work, $name?
+alchemist_6_borehole_0_description_refuse=Then why do you bother me?
+alchemist_6_borehole_0_description_success=Before we can seriously attempt to break this barrier, we are going to need a proper pathway to it. $name, I need you to create a borehole to the bottom of the world. Dig anywhere you want, but I need at least a five metres by five metres square of that "bedrock" exposed to the sun.<ret><ret>Do not worry, you will not have to dig by hand. Go and see my assistant and he will provide you with the best tools alchemy can give.
+alchemist_6_borehole_1_label=Pick up explosives
+alchemist_6_borehole_1_description=So he is really going ahead with his borehole plan? Such a great man, with such ambitions! Of course, now it is up to us to do the actual work. Well, up to you really.<ret><ret>Anyway... Thanks to your powder collection, I have prepared those explosives on his instructions. They should help you dig fast.
+alchemist_6_borehole_1_description_success=Be careful, and good luck!
+alchemist_6_borehole_1_description_refuse=I will have to inform the Master.
+alchemist_6_borehole_1_listing=Pick up explosives from the Alchemist's assistant.
+alchemist_6_borehole_2_label=Report to the alchemist
+alchemist_6_borehole_2_description=I trust my explosives allowed you to complete this task successfully.
+alchemist_6_borehole_2_description_success=Excellent work! You have all the making of a fine alchemist, $name. Performing a task like this without blowing yourself up is a show of skills.<ret><ret>I am finalising the plans for breaking through those rocks. Rest a little and come back to see me.
+alchemist_6_borehole_2_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_6_borehole_2_listing=Dig a 5x5 borehole to the bedrock, then report to the Alchemist.
+
+
+alchemist_7_boreholetnt_0_label=Explosive matters
+alchemist_7_boreholetnt_0_description=The great day has come, $name! I have been studying how to best concentrate explosive power in order to break through the bedrock, and I believe I have found. A good layer of obsidian should be enough to concentrate the explosion toward the ground and ensure our success. Are you ready?
+alchemist_7_boreholetnt_0_description_refuse=Then why do you bother me?
+alchemist_7_boreholetnt_0_description_success=Robert will give you the explosives. Make sure you install it at the bottom of the borehole and place obsidian blocks on top of the explosives. According to my calculations, you will need at least twenty explosives for the effect to be felt. 
+alchemist_7_boreholetnt_1_label=Pick up explosives
+alchemist_7_boreholetnt_1_description=I have everything ready for you! Explosives, obsidian and enough wire to be safely away when everything is lit.
+alchemist_7_boreholetnt_1_description_success=I envy you, my young friend - you will be the first to see the riches hidden below!
+alchemist_7_boreholetnt_1_description_refuse=I will have to inform the Master.
+alchemist_7_boreholetnt_1_listing=Pick up explosives from the Alchemist's assistant.
+alchemist_7_boreholetnt_2_label=Report to the alchemist
+alchemist_7_boreholetnt_2_description=So, $name! Did everything work? What great things have you seen below?
+alchemist_7_boreholetnt_2_description_success=Nothing? Nothing? How can it be? How can anything resists such a concentrated blast? It's impossible, you must have done it wrongly! Inept!<ret><ret>Alright, alright, I apologise, $name. Your work has always been spotless. I was naïve to think something as simple as ordinary explosives would work. You will have to leave me study this carefully. There must be a solution - and think of how valuable must be whatever is underneath, to be protected so well!
+alchemist_7_boreholetnt_2_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_7_boreholetnt_2_listing=Place twenty TNT blocks at the bottom of the borehole, cover them with a layer of obsidian and lit them. Report the results to the Alchemist.
+
+
+alchemist_8_anomaly_0_label=Anomalie
+alchemist_8_anomaly_0_description=Our failure has been weighting on me, $name. I have thought hard about it since then, and I believe my error was not to concentrate enough on the material itself. Before being an obstacle, it is a mystery of its own. And I have made significant progress, $name! I have managed to craft a powder that reacts to the presence of nearby "bedrock" and I have sent my assistant to use it around here to study the layer from the surface. On the whole, the results confirm what your Sadhu believed - it is about constant, sixty metres below sea level.<ret><ret>However... He has found at least one place where it is not the case. The bedrock is closer to the surface there, and seemingly in greater quantities! Will you investigate for me?
+alchemist_8_anomaly_0_description_refuse=Then why do you bother me?
+alchemist_8_anomaly_0_description_success=Be careful, $name! I do not know what this mean, and it might be dangerous.
+alchemist_8_anomaly_1_label=Report to the Alchemist
+alchemist_8_anomaly_1_description=So you made it back? What did you find?
+alchemist_8_anomaly_1_description_success=A room? Artificial and made out of bedrock? This is the greatest discovery since we arrived in this world... It is the first absolute proof that there are or were people in this world with greater powers than our own. It is nothing like those structures I had heard about, those mines and underground fortresses, impressive constructions but not beyond our reach. This is something else altogether. And you say they had deviced for spawning those monsters as well?<ret><ret>$name, I will need to think on this for sometime, this is beyond my knowledge and experience. I will also see what we can do to pursue our investigation, as the place you visited was empty.
+alchemist_8_anomaly_1_description_refuse=
+alchemist_8_anomaly_1_listing=Explore the anomaly and report to the Alchemist
+
+
+alchemist_9_anomalytwo_0_label=A Second Blip
+alchemist_9_anomalytwo_0_description=$name, I have fantastic news! Robert has found a new anomaly not far from here, and it seems like it is much larger than the first one. Who knows what you will find there? Maybe something that will put us on the trail of those people, or even allow us to finally break through those rocks?<ret><ret>But I am getting carried away... The first thing is for you to make sure the place is secure. Your difficulties with those creatures in the first anomaly worry me, $name. Take some food... And here, take my sword as well. You need it more than I do.
+alchemist_9_anomalytwo_0_description_refuse=Then why do you bother me?
+alchemist_9_anomalytwo_0_description_success=Good luck, and tread carefully.
+alchemist_9_anomalytwo_1_label=Report to the Alchemist
+alchemist_9_anomalytwo_1_description=$name, I am so glad to see you safe and sound! You look exhausted. You look like you need a drink. Then you shall speak.
+alchemist_9_anomalytwo_1_description_success=Incredible... Do you think that last room was some kind of lava furnace? Those people's alchimic knowledge is so far beyond our own! And more spawners, and what looked like a sample room... If I was not an alchemist I would believe you have visited God's own workshop, my good friend.<ret><ret>I will study that powder you brought back. It must have been of immense importance to them for them to have built such a huge mechanism around it. I only pray my learning is suffuciant to make something of it, even if I cannot understand what it is.
+alchemist_9_anomalytwo_1_description_refuse=
+alchemist_9_anomalytwo_1_listing=Explore the second anomaly and bring anything strange you find there to the Alchemist
+
+
+
+alchemist_10_theexperiment_0_label=Experiment
+alchemist_10_theexperiment_0_description=I have never seen anything like this powder... I cannot begin to understand what it is or how it is produced. This is far beyond my alchimic skills, $name. Far beyond them. All I have been able to determine is that it can be used as an explosive. I have tried only minute doses and I have still come close to destroying this place. I do not need to tell you what I want you to try now, my friend. But listen carefully, as this product is very, very reactive.<ret><ret>I have managed to stabilise it by mixing it with other materials, so that it takes the form of a cube. Under that form it seems stable, you can handle it without risks - I hope. However detonating normal explosives close to it will cause that powder to react. I believe it will violently explode. Quite how violently I cannot know, but try and be far away when it does.<ret><ret>Be careful to have it explode right next to the bedrock. I might not be able to produce an other batch if you fail with this one.
+alchemist_10_theexperiment_0_description_refuse=Then why do you bother me?
+alchemist_10_theexperiment_0_description_success=Robert will supply you with the ordinary explosives. Be careful, and let us soon drinks to the breach in the bedrock!
+alchemist_10_theexperiment_1_label=Pick up suppliers
+alchemist_10_theexperiment_1_description=Ah, $name... I have your supplies, as requested by the Master. And I hate to say this, but I have never seen the Master more hesitant. It is unsettling to see him so unsure of himself.
+alchemist_10_theexperiment_1_description_success=If all goes well, you will become a legend, the first man admitted to the underground realm! If not, well...
+alchemist_10_theexperiment_1_description_refuse=I will have to inform the Master.
+alchemist_10_theexperiment_1_listing=Pick up supplies from the Alchemist's assistant.
+alchemist_10_theexperiment_2_label=Report to the alchemist
+alchemist_10_theexperiment_2_description=The look on your face is a strange one, $name...
+alchemist_10_theexperiment_2_description_success=Emptyness... So this entire world rests on nothing but emptyness... Is there no reality then? Is there nothing solid and measurable in this world? $name, this world is not for me or my alchimy... It is your Sadhu that had understood the reality of this place.
+alchemist_10_theexperiment_2_description_refuse=I will stay here and pray you change your mind, $name.
+alchemist_10_theexperiment_2_listing=Detonate the alchemist's exlosives next to the bedrock by detonating TNT alongside it. Observe the results and report to the alchemist.
+
+
+alchemist_11_conclusion_0_label=Mind and Matter
+alchemist_11_conclusion_0_description=I have thought hard over all this, $name... You are right, I do have a role to play. I may not understand what this mokery of a world means or what we do here, but my potions and formulas can help you go when I cannot. Thank you again, $name. Not just for your work but for your support. Be sure to come and see me if you ever need the help I can give.<ret><ret>You should also know that I have used my influence over the Norman nobles and the Guilds to spread words of your ability. If it was not the case already, you will find Normans willing to follow you anywhere, in any place you would wish to settle.
+alchemist_11_conclusion_0_description_refuse=Then why do you bother me?
+alchemist_11_conclusion_0_description_success=And as a parting gift, during my experiments I have managed to create a small number of gems. I have no use for them, but I am sure you will put them to good use.<ret><ret>I hope to see you again $name, and to hear you make sense of this senseless world.

@@ -1,0 +1,43 @@
+//Norman buildings already have French names
+//This file's sole purpose is to "block" an eventual fallback language from showing
+
+abbey_A0=Аббатство
+archives_A0=Архив
+armoury_A0=Оружейная
+bakery_A0=Пекарня
+carpenterhouse_A0=Дом плотника
+cattlefarm_A0=Скотоферма
+church_A0=Церковь
+church_A2=Церковь
+farm_A0=Ферма
+farm_B0=Ферма
+forge_A0=Кузница
+fort_A0=Форт
+fort_A_lefttower_A0=Сторжевая башня
+fort_A_righttower_A0=Сторжевая башня
+grove_A0=Поле
+grove_B0=Поле
+grove_C0=Поле
+guardhouse_A0=Дом охраны
+guesthouse_A0=Гостевой дом
+guildhouse_A0=Гильдия
+inn_A0=Гостиница
+lumbermanhut_A0=Лесопилка
+lumbermanhut_B0=Лесопилка
+manor_A0=Поместье
+market_A0=Рынок
+pigfarm_A0=Свиноферма
+playerestate_A0=Здания игрока
+playerhugefield_A0=Большая зона игрока
+playerlargefield_A0=Зона игрока
+playerlargehouse_A0=Дом игрока
+playersmallfield_A0=Маленькая зона игрока
+playersmallhouse_A0=Маленький дом игрока
+presbytery_A0=Дом священника
+quarry_A0=Карьер
+sheepchickenfarm_A0=Скотоферма
+tavern_A0=Таверна
+watchtower_A0=Сторжевая башня
+fountain_A0=Фонтан
+largefountain_A0=Большой фонтан
+well_A0=Колодец

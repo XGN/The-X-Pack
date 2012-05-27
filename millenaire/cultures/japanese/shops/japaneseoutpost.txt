@@ -1,0 +1,3 @@
+buys=iron,udon,chickenmeat
+
+sells=steelHelmet,steelChest,steelLegs,steelBoots,tachisword,yumibow,rice

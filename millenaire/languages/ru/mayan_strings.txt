@@ -1,0 +1,31 @@
+culture.mayan=Майя
+
+villager.mayan_boy=Мальчик
+villager.mayan_girl=Девочка
+villager.mayan_teenagerMale=Юноша
+villager.mayan_teenagerFemale=Девушка
+villager.mayan_lumberman=Дровосек
+villager.mayan_miner=Шахтер
+villager.mayan_shaman=Шаман
+villager.mayan_peasant=Крестьянин
+villager.mayan_peasantwife=Крестьянка
+villager.mayan_leader=Вождь
+villager.mayan_richwoman=Королева
+villager.mayan_warrior=Воин
+villager.mayan_chieftain=Вожак
+villager.mayan_crafter=Ремесленник
+villager.mayan_armysmith=Военный кузнец
+villager.mayan_sculptor=Скульптор
+villager.mayan_shamanwife=Жена шамана
+villager.mayan_king=Король
+villager.mayan_merchant=Торговец
+villager.mayan_chickenfarmer=Фермер
+villager.mayan_farmer=Фермер
+
+villager.lonemayanfarmer=Фермер
+villager.lonemayanpeasantwife=Жена фермера
+villager.lonemayanshaman=Шаман
+villager.lonemayanshamanwife=Жена шамана
+villager.mayanbanditboy=Маленький бандит
+villager.mayanbanditwarrior=Бандит
+villager.mayanfemalebandit=Бандитка

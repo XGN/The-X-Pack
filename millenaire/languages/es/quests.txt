@@ -1,0 +1,511 @@
+﻿//normanbasic:
+
+guardwife_0_label=Almuerzo del esposo
+guardwife_0_description=Mi esposo, $guard_villagername$ el guardia, está muriendo de hambre ¡y olvidé empacar su almuerzo! ¿Podrías por favor llevarle este budín?
+guardwife_0_description_success=¡Gracias mi buen hombre!
+guardwife_0_description_refuse=No eres de los que son muy útil.
+guardwife_1_label=¡Hambre!
+guardwife_1_description=¡My esposa olvidó mi almuerzo de nuevo! ¡Ah, mujeres!
+guardwife_1_description_success=Eso fue muy amable de tu parte.
+guardwife_1_description_refuse=Nunca confíes en un extraño.
+guardwife_1_description_timeup=No entregaste la comida a tiempo. Los aldeanos de $guard_villagename$ no lo olvidarán.
+guardwife_1_listing=Entrega el almuerzo a $guard_villagername$ en la aldea $guard_villagename$.
+
+lumbermancider_0_label=¡Sediento!
+lumbermancider_0_description=Talar madera es una tarea difícil... ¡Si tan sólo alguien me trajera una botella de sidra!
+lumbermancider_0_description_success=Ah, ¡necesitaba un trago! ¡Muchas gracias, mi buen hombre!
+lumbermancider_0_description_refuse=¡No cuentes conmigo la próxima vez que necesites madera!
+
+lonelumbermancalva_0_label=¡Se necesita alcohol!
+lonelumbermancalva_0_description=Hace un frío congelador en este horrible bosque ¡y no puedo siquiera encontrar manzanas para hacer calva! ¡Mataría por algunas botellas!
+lonelumbermancalva_0_description_success=¡Increíble! ¡Tomemos una copa para celebrar!
+lonelumbermancalva_0_description_refuse=Un visitante al año, y nisiquiera tiene una botella para compartir.
+
+loneminerfood_0_label=Necesito una verdadera comida
+loneminerfood_0_description=Han pasado meses desde que he tenido una comida de verdad. ¡Odio estar atrapado aquí minando y comiendo pan duro!
+loneminerfood_0_description_success=¡A eso llamo una verdadera comida normanda!
+loneminerfood_0_description_refuse=Bueno, a comer pan duro de nuevo.
+
+knightstonedelivery_0_label=Se necesita piedra
+knightstonedelivery_0_description=¡$name, necesito más piedra para la defensa de $startvillager_villagename$! $miner_villagername$, que trabaja en las colinas alrededor de $miner_distance$ al $miner_direction$, me ha prometido un gran lote, pero nunca envía nada. ¿Podrías decirme qué está haciendo?
+knightstonedelivery_0_description_success=¡Ten un buen viaje!
+knightstonedelivery_0_description_refuse=Bueno, entonces enviaré a uno de mis hombres.
+knightstonedelivery_1_label=Recolección de piedra
+knightstonedelivery_1_description=¡Ah sí, la piedra para $startvillager_villagename$! Estaba a punto de enviarlas. Espero que tengas espacio, son cuatro pilas enteras.
+knightstonedelivery_1_description_success=Iré a seguir minando.
+knightstonedelivery_1_description_refuse=¿Para que venir de tan lejos sólo para decirme esto?...
+knightstonedelivery_1_description_timeup=No encontraste a $miner_villagername$ a tiempo.
+knightstonedelivery_1_listing=Ve a ver el minero $miner_villagername$, que vive en $startvillager_miner_distanceshort$ al $startvillager_miner_direction$ de $startvillager_villagename$, para averiguar sobre  la piedra de $startvillager_villagername$.
+knightstonedelivery_2_label=Entrega de la piedra
+knightstonedelivery_2_description=¿Tienes la piedra? ¡Perfecto! Tus servicios a la corona normanda no serán olvidados.
+knightstonedelivery_2_description_success=Tienes mi gratitud.
+knightstonedelivery_2_description_refuse=¡Traición! Se feliz, pues no has muerto todavía.
+knightstonedelivery_2_description_timeup=No entregaste la piedra a $startvillager_villagername$ a tiempo.
+knightstonedelivery_2_listing=Vuelve a $startvillager_villagename$ con la piedra para $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=Carta que enviar
+abbotbooksdelivery_0_description=$name, hijo mío, es bueno verte. Necesito de algunos libros para continuar mi investigación, están guardados en el lejano monasterio de $loneabbot_villagename$. ¿Serías tan amable de ayudar a un anciano y pedírselos a mi viejo amigo, el Abad $loneabbot_villagername$? Te escribiré una carta de presentación. Encontrarás su monasterio alrededor de $loneabbot_distance$ al $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=Que Dios te acompañe en tu viaje.
+abbotbooksdelivery_0_description_refuse=Los jóvenes son tan inútiles.
+abbotbooksdelivery_1_label=Entregar carta
+abbotbooksdelivery_1_description=¿Una carta de mi viejo amigo el Padre $startvillager_villagername$?¡Excelente! Por supuesto, puedo convidarle estos libros. Comunícale mis mejores deseos, hijo mío.
+abbotbooksdelivery_1_description_success=Buen viaje, hijo mío.
+abbotbooksdelivery_1_description_refuse=Dios encontrará otra forma entonces.
+abbotbooksdelivery_1_description_timeup=No entregaste la carta a $loneabbot_villagername$ a tiempo.
+abbotbooksdelivery_1_listing=Entrega la carta de $startvillager_villagername$ al Abad $loneabbot_villagername$. Su abadía está $startvillager_loneabbot_distanceshort$ al $startvillager_loneabbot_direction$ de $startvillager_villagename$.
+abbotbooksdelivery_2_label=Entregar libros
+abbotbooksdelivery_2_description=¡Mis libros!¡Has sido rápido, hijo mío! Recibirás tu verdadera recompensa en el otro mundo, pero por favor acepta esta estatuilla de gratitud.
+abbotbooksdelivery_2_description_success=Qué la paz esté contigo.
+abbotbooksdelivery_2_description_refuse=¿Por qué recorrer ese largo camino sólo para mofarte de mi, hijo mío?
+abbotbooksdelivery_2_description_timeup=No devolviste los libros a $startvillager_villagername$ a tiempo.
+abbotbooksdelivery_2_listing=Entrega los libros de $loneabbot_villagename$ al abad $startvillager_villagername$ de $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=Misión Confidencial
+rajadiamondsword_0_description=Namaste, $name. Has mostrado que eres de confianza para $startvillager_villagename$, y necesito de alguien confiable para una misión especial. El general $general_villagername$ ha demostrado ser un soldado leal y competente, y es tiempo de recompensarle. ¿Podrías llevarle esta espada de diamante invaluable, a su forataleza en $general_villagename$, $general_distance$ al $general_direction$ de aquí?
+rajadiamondsword_0_description_success=¡Protege esta espada con tu vida!
+rajadiamondsword_0_description_refuse=No olvidaremos esto.
+rajadiamondsword_1_label=Entregar espada
+rajadiamondsword_1_description=¿Ha qué has venido, extraño?
+rajadiamondsword_1_description_success=Su alteza $startvillager_villagername$ honours me! He is a great ruler. You have my thanks, and his.
+rajadiamondsword_1_description_refuse=¡Ladrón deshonroso!
+rajadiamondsword_1_description_timeup=No le entregaste la espada a $general_villagername$ a tiempo. El Rajá y él están furiosos contigo.
+rajadiamondsword_1_listing=Entrega la espada de diamante a $general_villagername$ en el fuerte de $general_villagename$.
+
+adivasifarmdelivery_0_label=Se necesita una entrega
+adivasifarmdelivery_0_description=Sólo tenemos arroz y cúrcuma que sembramos aquí, es una vida dura... ¿Nos ayudarías a nosotros los pobres? Un granjero en la aldea de $peasant_villagername$ está dispuesto a hacer un trueque de nuestros productos por carne y rasgullas. Si llevas estos bienes a la aldea de $peasant_villagename$, estaremos muy agradecidos. Está más o menos $peasant_distance$ al $peasant_direction$ de aquí.
+adivasifarmdelivery_0_description_success=Shukriya, mi amigo
+adivasifarmdelivery_0_description_refuse=Nadie ayuda a los pobres...
+adivasifarmdelivery_1_label=Entregar 
+adivasifarmdelivery_1_description=Ah, ¿vienes de $startvillager_villagername$? Sí, tengo algunos bienes para él. Iré a buscarlos.
+adivasifarmdelivery_1_description_success=Recuerda: la granja está $startvillager_distanceshort$ al $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=Bueno, mala suerte para él.
+adivasifarmdelivery_1_description_timeup=No entregaste los bienes de $peasant_villagername$ a tiempo.
+adivasifarmdelivery_1_listing=Ve a $peasant_villagename$ entrégale los bienes de la granja adivasi a $peasant_villagername$.
+adivasifarmdelivery_2_label=Entrega la mercancía
+adivasifarmdelivery_2_description=¡Shukriya, $name!¡Estos bienes son bastante bienvenidos! Espero que $peasant_villagername$ te haya recibido bien.
+adivasifarmdelivery_2_description_success=Qué la Diosa te bendiga.
+adivasifarmdelivery_2_description_refuse=Robarle a los pobres no es una hazaña gloriosa.
+adivasifarmdelivery_2_description_timeup=No devolviste los bienes a $startvillager_villagername a tiempo.
+adivasifarmdelivery_2_listing=Entrega los bienes de $peasant_villagename$ a la granja de $startvillager_villagername$, $peasant_startvillager_direction$ al $peasant_startvillager_distance$ de $peasant_villagename$.
+
+traderdiamonds_0_label=Entrega de joyas
+traderdiamonds_0_description=Namaste, $name. He oído que eres de confianza y un amigo para nosotros los hindúes, necesito que entregues algo valioso. La preciosa Raní $rani_villagername$ de $rani_villagename$ me ha ordenado algunas gemas invaluables para una nueva joyería. ¿Podrías entregárselas a su palacio? Está $rani_distance$ al $rani_direction$ de aquí. Puedes quedarte con un par de gemas como recompensa.
+traderdiamonds_0_description_success=¡No andes mostrando esos diamantes por ahí!
+traderdiamonds_0_description_refuse=¿Demasiado peligroso para ti, supongo?
+traderdiamonds_1_label=Entrega los diamantes
+traderdiamonds_1_description=Al fin. Me estaba poniendo impaciente. A $startvillager_villagername$ no le gustaría verme enojada.
+traderdiamonds_1_description_success=¡Me las voy a probar de inmediato!
+traderdiamonds_1_description_refuse=¡Terminarás aplastado por uno de los elefantes del Rajá!
+traderdiamonds_1_description_timeup=No entregaste los diamantes a la Raní $rani_villagername$ a tiempo. La percepción que tienen las aldeas hindúes de ti ha empeorado.
+traderdiamonds_1_listing=Entrega los diamantes del mercader $startvillager_villagername$ a la Raní $rani_villagername$ de $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=Hijo enfermo
+normanrasgullas_0_description=Mi hijo $child_villagername$ ha estado pálido últimamente. ¡Dice que no puede comer otro bocado de tripas o budín negro! ¿Podrías sugerirme otra cosa de comer? Pareces conocer las otras culturas.
+normanrasgullas_0_description_success=¡Ese dulce es delicioso! Creo me lo comeré yo misma.
+normanrasgullas_0_description_refuse=Probaré con calva. Despues de todo funciona bastante bien.
+
+mayanlumbermanaxe_0_label=Leñador frustrado
+mayanlumbermanaxe_0_description=Este hacha es inútil. ¿Por qué no hay ningún artesano maya capaz de hacer una buena hacha? ¡Sería mucho más productivo con herramientas decentes!
+mayanlumbermanaxe_0_description_success=¡El hacha se siente mágica! ¿Acaso fue hecha por un Dios?
+mayanlumbermanaxe_0_description_refuse=De vuelta al trabajo entonces.
+
+
+
+losttapestry_0_label=Tapiz extraviado
+losttapestry_0_description=¡Hola señor! Encontré un tapiz tirado en el suelo. ¿Podrías encontrar su dueño?
+losttapestry_0_description_success=¡Gracias señor!
+losttapestry_0_description_refuse=¡Eres una persona horrible!¡Le voy a decir a mamá!
+losttapestry_1_label=Tapiz extraviado
+losttapestry_1_description=¡He perdido un tapiz!¿Alguien lo ha visto?
+losttapestry_1_description_success=Gracias por encontrarlo.
+losttapestry_1_description_refuse=Escondes algo, lo presiento.
+losttapestry_1_listing=Encuentra el dueño del tapiz.
+
+spiders_0_label=Amigo extraviado
+spiders_0_description=Un buen amigo mío, $miner_villagername$, suele visitarme a la misma hora todos los días. Lo extraño es que no ha pasado por aquí hoy -- de hecho, tiene varias horas de retraso. Admitiré que estoy un poco preocupado, $name. $miner_villagername$ pasa bastante tiempo abajo en la mina, y estoy seguro que sabes lo peligroso que puede ser eso. Pero, si pasas por ahí, ¿Podrías echarle un ojo?
+spiders_0_description_success=¡Gracias mi amigo!
+spiders_0_description_refuse=Bueno, seguro aparecerá pronto.
+spiders_1_label=¡Qué bueno que me encontraste!.
+spiders_1_description=Ughhh... Fui mordido por una araña mientras exploraba una cueva por aquí cerca. Estoy seguro que fui envenenado; debes ayudarme. Por favor dile a $wife_villagername$. Ella sabrá como ayudarme.
+spiders_1_description_success=Apúrate... Me siento mareado... 
+spiders_1_description_refuse=Ughhh...
+spiders_1_listing=Encuentra a $miner_villagername$ abajo en la mina.
+spiders_2_label=Haciendo el antídoto.
+spiders_2_description=¡No hay tiempo que perder, debemos salvar a mi esposo! Sé como hacer un antídoto para el veneno. Aunque, requiero algunos ingrendientes, para poder hacerlo. Necesitaré dos hongos marrones, dos hongos rojos y un saco de tinta de calamar.
+spiders_2_description_success=Que la velocidad esté contigo, $name.
+spiders_2_description_refuse=¡Bien, lo haré yo misma!
+spiders_2_listing=Pregúntale $wife_villagername$ por un antídoto.
+spiders_3_label=Antídoto de $miner_villagername$
+spiders_3_description=Tráele el antídoto a $miner_villagername$ antes de que se agote el tiempo.
+spiders_3_description_success=¡Oh!¡Sabía que $wife_villagername$ me podría ayudar! <$miner_villagername$ bebe el antídoto.> Siempre me meto en problemas y $wife_villagername$, bueno, siempre me ayuda a salir de ellos. 
+spiders_3_description_refuse=¿Acaso quiere que muera?
+spiders_3_description_timeup=No le trajiste el antídoto a $miner_villagername$ a tiempo.
+spiders_3_listing=Llévale el antídoto a $miner_villagername$.
+
+findtheegg_0_label=Encuentra los huevos
+findtheegg_0_description=¡Hay demasiados pollos por aquí! Para evitar que se reproduzcan debemos recolectar sus huevos... ¿Nos ayudarías?
+findtheegg_0_description_success=Muy bien, $name. ¡Enviaré este huevo a casa donde pronto eclosionará! Por favor acepta este presente como símbolo de mi gratitud.
+findtheegg_0_description_refuse=¡Vuelve cuando encuentres más huevos para mí!
+
+feathercrafter_0_label=Más plumas
+feathercrafter_0_description=Mi esposa hace almohadas para nosotros los pobres. Para hacerlas necesitamos montones de plumas. ¿Podrías darnos algunas?
+feathercrafter_0_description_success=Muy bien, $name. Se las daré a mi esposa. Tienes mis agradecimientos.
+feathercrafter_0_description_refuse=De vuelta al trabajo entonces.
+
+watersample_0_label=Strange reports
+watersample_0_description=My wife has received reports from the villagers that the water from the well is making our kids unwell. Take this bucket and return a sample of water to me.
+watersample_0_description_success=Hurry... before other kids become ill.
+watersample_0_description_refuse=I must warn you, what I ask of you next will be very dangerous.
+watersample_1_label=Water sample
+watersample_1_description=Did you bring the water sample ?
+watersample_1_description_success=Thank you! this will help me find the source of our problems.
+watersample_1_description_refuse=I must warn you, the next time you want help it's going to cost you, $name!
+watersample_1_description_timeup=You did not bring $startvillager_villagername$'s water sample to him in time.
+watersample_1_listing=$startvillager_villagername$ at $startvillager_villagename$ wants you to bring him a water sample.
+
+lordssword_0_label=Espada destrozada
+lordssword_0_description=¡Mi esposo $knight_villagername$ ha destrozado su espada de nuevo! ¿Podrías por favor darle esta nueva espada?
+lordssword_0_description_success=¡Gracias buen hombre!
+lordssword_0_description_refuse=Realmente eres de los que no ayudan.
+lordssword_1_label=Espada reluciente
+lordssword_1_description=Mi esposa, $startvillager_villagename$ tiene una nueva espada para mí. ¿La has traído?
+lordssword_1_description_success=Gracias, has salvado el día nuevamente.
+lordssword_1_description_refuse=¿Cómo esperas que te ayude si nisiquiera tengo una espada?
+lordssword_1_description_timeup=No le entregaste la espada a $knight_villagername$ a tiempo. Los aldenaos no lo olvidarán.
+lordssword_1_listing=$startvillager_villagername$ en $startvillager_villagename$ quiere que le traigas su nueva espada.
+
+sweettrader_0_label=El cumpleaños de la prima
+sweettrader_0_description=Mi pequeña prima $girl_villagername$ cumple años hoy. ¿Podrías llevarle este pastel por mí?
+sweettrader_0_description_success=Gracias por tu ayuda.
+sweettrader_0_description_refuse=¡Eso no es muy amable de tu parte!
+sweettrader_1_label=[Entrega el pastel]
+sweettrader_1_description=Nadie está celebrando por mi cumpleaños...
+sweettrader_1_description_success=¡Gracias! ¡Gracias! ¡Gracias!
+sweettrader_1_description_refuse=Nadie me quiere.
+sweettrader_1_listing=Entrégale el pastel a $girl_villagername$ en $startvillager_villagename$ por su cumpleaños.
+
+fishingfrenzy_0_label=Frenesí pesquero
+fishingfrenzy_0_description=Hola, me llamo $startvillager_villagername$. Pescar es una tarea ardua, y no sé si podré cumplir con mi cuota hoy. ¿Crees que podrías ayudarme?
+fishingfrenzy_0_description_success=Gracias, cuatro peces crudos deberían ser suficientes. Llévaselos a mi esposa, ella te los pagará.
+fishingfrenzy_0_description_refuse=Entiendo que hoy en día todos andamos ocupados.
+fishingfrenzy_1_label=Frenesí pesquero
+fishingfrenzy_1_description=Ah, tú debes ser el viajero del que $startvillager_villagername$ me contó. ¿Has pescado los peces?
+fishingfrenzy_1_description_success=Maravilloso, estos pescados se ven buenos. El resto de la aldea estará agradecida.
+fishingfrenzy_1_description_refuse=¿No eres un pescador hábil, no? Oh bueno, tal vez seas útil en otra cosa.
+fishingfrenzy_1_description_timeup=No atrapaste los peces a tiempo. Los aldeanos de $startvillager_villagename$ notarán tu ignominia.
+fishingfrenzy_1_listing=Atrapa cuatro peces y llévaselos a $wife_villagername$
+
+
+sadhu_intro_0_label=El Sadhu
+sadhu_intro_0_description=$name, te conocemos desde hace largo tiempo, y sabes que confiamos en ti como si fueras uno de los nuestros, a pesar de no saber quien eras ni de donde viniste. Al principio, creíamos que eras simplemente un hombre de una de las otras naciones que como nosotros había sido arrastrado aquí ese fatídico día en el que la Tierra se sacudió y nos encontramos en este extraño lugar, donde las temporadas nunca cambian y los ríos no tienen caudal - alguno de esos extraños hombres en sus pirámides de piedra, o aquellos hombres de caras pálidas diestros en la fundición de hierro.<ret><ret>Pero te hemos observado por largo tiempo, y eres diferente. Pareces tener memoria de una tierra anterior, y prosperaste como si pertenecieras aquí. Y aún así no hemos conocido a otros como tú.<ret><ret>Si sabes más de lo que nosotros sabemos y no nos lo quieres decir, estás en tu derecho. Pero si como yo sospecho te preguntas a ti mismo que extraño mundo deambulas y cual es tu lugar en él, necesitarás sabiduría, de la cual no tengo. Sólo un hombre puede ayudarte: mi antiguo gurú, Sadhu Vidya. No lo he visto en años, pero sé que vaga por el bosque, escogiendo árboles altos y fuertes para refugiarse. Cuando lo encuentres, comunícale mis agradecimientos por la sabiduría que compartió conmigo.
+sadhu_intro_0_description_success=Que la Diosa te bendiga en tus viajes.
+sadhu_intro_0_description_refuse=El camino del auto descubrimiento es difícil, lo entiendo.
+sadhu_intro_1_label=Repórtate al sarcedote
+sadhu_intro_1_description=¿Entonces, has encontrado a mi viejo gurú?
+sadhu_intro_1_description_success=¡Te ha honorado grandemente compartiendo su conocimiento contigo! Eres un hombre al cual los dioses le sonríen.
+sadhu_intro_1_description_refuse=Me quedaré aquí a rezar para que cambies de idea, $name.
+sadhu_intro_1_listing=Encuentra al Sadhu bajo un árbol alto en un bosque. Cuando lo hayas encontrado, díselo al sacerdote de $startvillager_villagename$.
+
+sadhu_introwife_0_label=El Sadhu
+sadhu_introwife_0_description=$name, te conocemos desde hace largo tiempo, y sabes que confiamos en ti como si fueras uno de los nuestros, a pesar de no saber quien eras ni de donde viniste. Al principio, creíamos que eras simplemente un hombre de una de las otras naciones que como nosotros había sido arrastrado aquí ese fatídico día en el que la Tierra se sacudió y nos encontramos en este extraño lugar, donde las temporadas nunca cambian y los ríos no tienen caudal - alguno de esos extraños hombres en sus pirámides de piedra, o aquellos hombres de caras pálidas diestros en la fundición de hierro.<ret><ret>Pero te hemos observado por largo tiempo, y eres diferente. Pareces tener memoria de una tierra anterior, y prosperaste como si pertenecieras aquí. Y aún así no hemos conocido a otros como tú.<ret><ret>Si sabes más de lo que nosotros sabemos y no nos lo quieres decir, estás en tu derecho. Pero si como yo sospecho te preguntas a ti mismo que extraño mundo deambulas y cual es tu lugar en él, necesitarás sabiduría, de la cual no tengo. Sólo un hombre puede ayudarte: mi antiguo gurú, Sadhu Vidya. No lo he visto en años, pero sé que vaga por el bosque, escogiendo árboles altos y fuertes para refugiarse. Cuando lo encuentres, comunícale mis agradecimientos por la sabiduría que compartió conmigo.
+sadhu_introwife_0_description_success=Que la Diosa te bendiga en tus viajes.
+sadhu_introwife_0_description_refuse=No deberías rechazar la ayuda de tan sagrado hombre.
+sadhu_introwife_1_label=Repórtate a $startvillager_villagerrole$
+sadhu_introwife_1_description=Entonces, ¿has seguido el consejo del sacro hombre?
+sadhu_introwife_1_description_success=¡Te ha honorado gratamente al compartir sus conocimiento contigo! Eres un hombre al cual los Dioses le sonríen.
+sadhu_introwife_1_description_refuse=Me quedaré aquí a rogar para que cambies de parecer, $name.
+sadhu_introwife_1_listing=Encuentra al Sadhu bajo un árbol alto en el bosque. Cuando lo encuentres, dícelo a $startvillager_villagerrole$ de la aldea$startvillager_villagename$.
+
+sadhu_first_0_label=Iniciación
+sadhu_first_0_description=Te estaba esperando, $name. Los aldeanos me visitan en busca de consejos, y me han dicho muchas veces que un extraño sin pasado que hace amistad con las aldeas y parece estar como en casa en este salvaje mundo al que nos han enviado. Algún aldeano anciano ha de haberte dicho que yo respondería tus preguntas. No será tan sencillo. Mi conocimiento era grande en el viejo mundo asentado en los bancos del Sagrado Ganges, pero aquí debo aprender todo de nuevo. Si buscas un Gurú, has venido en vano.<ret><ret>Sin embargo... Antes de retirarme a una vida de meditación, fui experto en el conocimiento del mundo natural. No existía planta alguna que no pudiera nombrar o usar entre los Himalayas y las junglas en el sur. Y, mientras mi cuerpo está muy frágil, mi mente sigue aguda. Ayúdame a estudiar este mundo y tú también aprenderás. Pero sé advertido: no todas las criaturas aquí son pacíficas, y creo que nos enfretaremos resitencia explorando este mundo.
+sadhu_first_0_description_success=Ahora me pondré a meditar. Regresa más tarde para tu primera tarea.
+sadhu_first_0_description_refuse=Me quedaré aquí a rogar para que cambies de parecer, $name.
+
+sadhu_1_samples_0_label=Muestras botánicas
+sadhu_1_samples_0_description=Tu primera tarea será simple. Necesito ensamblar una colección de los principales tipos de vegetación que se encuentran alrededor. Iría yo mismo, pero premetí quedarme cerca de este árbol por las próximas tres lunas llenas, así que serás tú quien realize esta tarea.
+sadhu_1_samples_0_description_success=Meditaré en tu ausencia.
+sadhu_1_samples_0_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_1_samples_1_label=Entregar muestras
+sadhu_1_samples_1_description=He rezado por orientación mientras trabajabas.
+sadhu_1_samples_1_description_success=Estas muestras serán muy útiles. Le rezaré a la Diosa por ti, $name.<ret><ret>Veo también que encontraste esta tarea muy simple. Sabe que ninguna tarea útil es indigna de ser hecha. Y sabe también que veo venir trabajos más demandantes para ti en el futuro.<ret><ret>Regresa cuando hayas descansado un rato.
+sadhu_1_samples_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_1_samples_1_listing=Llévale de vuelta las muestras al Sadhu.
+
+
+sadhu_2_forest_0_label=Explorando el bosque
+sadhu_2_forest_0_description=Debemos estudiar los paisajes de este nuevo mundo. Comenzaremos por el bosque; Necesitarás abrir tu mente a este lugar y visitarlo por la noche. Comienza en el atardecer, y pasa toda la noche deambulando en él, observando.<ret><ret>No necesito recordarte que estar al aire libre cuando el Sol se pone es peligroso, pero los dioses te vigilarán. Llevar una espada puede ser una buena idea – He notado que guerreros bien equipados disfrutan de protección divina más efectiva.
+sadhu_2_forest_0_description_success=Meditaré en tu ausencia.
+sadhu_2_forest_0_description_refuse=Me quedare aquí y rezaré para que cambies tu pensar, $name.
+sadhu_2_forest_1_label=Reporta tus descubrimientos
+sadhu_2_forest_1_description=¿Cómo estuvo tu paseo nocturno? ¿Sientes que estas cerca de alguna revelació?
+sadhu_2_forest_1_description_success=¿Entonces dices que estuvo agitado? Era de esperarse, y aun así pareces haber encontrado más resistencia que la suerte sugiriera. Hay todavía mucho que no entendemos en este mundo. Dame tiempo para reflexionar en esto y regresa a verme.
+sadhu_2_forest_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_2_forest_1_listing=Explora el bosque en la noche como lo indicó el Sadhu.
+
+
+
+sadhu_3_pandit_0_label=Epopeya hindú
+sadhu_3_pandit_0_description=He reflexionado un largo tiempo en tus infortunios en el bosque, pero la iluminación me elude. Esas grotescas criaturas humanoides no son como nada que hubiera visto en nuestro mundo anterior, y no puedo entender el propósito de su existencia. Pero hay, sin embargo, relatos de demonios en hindú antiguo que pueden relacionarse a ellos. Mi solitaria existencia me previene conservar pergaminos tan costosos, pero deberías poder encontrarlos en las aldeas indias.
+sadhu_3_pandit_0_description_success=Necesito mi propia librería... La vida de un sadhu tiene sus desventajas.
+sadhu_3_pandit_0_description_refuse=Me quedaré aquí y rezaré para que cambies de parecer, $name.
+sadhu_3_pandit_1_label=Trae los libros de vuelta
+sadhu_3_pandit_1_description=Rezé por largo tiempo en tu ausencia, $name. Espero que los hayas encontrados sin dificultades.
+sadhu_3_pandit_1_description_success=Te lo agradezco, $name. Necesito estudiar los libros por un tiempo. Ve y medita, vuelve cuando hayas encontrado paz interior.
+sadhu_3_pandit_1_description_refuse=Me entristeces.
+sadhu_3_pandit_1_listing=Encuentra una aldea hindú que pueda prestarte los libros y llévaselos al Sadhu.
+
+sadhu_3b_pandit_0_label=Habla con el Pandit
+sadhu_3b_pandit_0_description=¿Entonces conociste al sabio Sadhu? ¡Has de estar honrado de trabajar con tan sacro hombre!<ret><ret>Por supuesto que le daré los libros que necesita de inmediato. Deberías leerlos tú también. Claro, sólo si estas lo suficientemente educado para leer sánscrito.
+sadhu_3b_pandit_0_description_success=¡Y envíale mis respetos al sagrado Sadhu!
+sadhu_3b_pandit_0_description_refuse=¿Cómo te atreves rehusar a realizar una tarea que te asignó el propio Sadhu en persona?
+
+sadhu_3b_wife_0_label=Habla con el $startvillager_villagerrole$
+sadhu_3b_wife_0_description=¿El Sadhu necesita la Gran Epopeya Hindú? ¡Es un honor dejarle la copia que tengo!
+sadhu_3b_wife_0_description_success=¡Y envíale mis respetos al sagrado Sadhu!
+sadhu_3b_wife_0_description_refuse=¿Cómo te atreves rehusar a realizar una tarea que te asignó el propio Sadhu en persona?
+
+sadhu_4_desert_0_label=Explorando el desierto
+sadhu_4_desert_0_description=Tus observaciones del bosque fueron interesantes, pero se necesita más. Por largo tiempo he querido recoger información de las tierras estériles de este mundo, donde los humanos raramente van. Tal vez te encuentres con menor oposición allí. Ve y explora el primer desierto que encuentres como exploraste el bosque.
+sadhu_4_desert_0_description_success=Reflexionaré de tu progreso mientras no estás aquí.
+sadhu_4_desert_0_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_4_desert_1_label=Reporta tus descubrimientos
+sadhu_4_desert_1_description=Le confío a la Diosa tú seguridad durante tu exploración.
+sadhu_4_desert_1_description_success= Tu descripción del desierto como "estéril" y "arenoso" hacen poco para aumentar nuestro conocimiento, $name. Pero es interesante que hayas notado una cantidad mayor de esqueletos andantes que anteriormente. La tierra misma parece reaccionar a la vez que la exploras.
+sadhu_4_desert_1_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_4_desert_1_listing=Explora el desieto por la noche como lo indicó el Sadhu.
+
+
+
+sadhu_5_adivasi_0_label=Expertos en ciénagas
+sadhu_5_adivasi_0_description=$name, necesitamos continuar recolectando información de este mundo. Creo que las ciénagas son lugares particularmente imporatantes – parecen estar mucho más presentes de lo que las fuerzas naturales lo sugieren. Por suerte para ti, no hay necesidad de que las explores tú mismo. Hay personas cuyo conocimiento de ellas es incomparable: los granjeros adivasi. Ellos son pobres y menospreciados por los aldeanos, pero son observadores y pasan su vida metidos en las ciénagas. Encuentra a uno y pídele información. Diles que vienes en mi persona y te darán la bienvenida.
+sadhu_5_adivasi_0_description_success=No puedo darte la ubicación de sus tierras, pero busca en las ciénagas.
+sadhu_5_adivasi_0_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_5_adivasi_1_label=Trae de vuelta las muestras
+sadhu_5_adivasi_1_description=¿Compartieron los adivasi sus conocimientos contigo?
+sadhu_5_adivasi_1_description_success=Excelente, serán muy útiles. ¿Te ha dicho de alguna actividad anormal en las ciénagas?
+sadhu_5_adivasi_1_description_refuse=Me entristeces.
+sadhu_5_adivasi_1_listing=Encuentra un granjero adivasi en una ciénaga y pídele información sobre las ciénagas. Regresa con el Sadhu después de eso.
+
+
+sadhu_5b_adivasi_0_label=Hablar con el granjero
+sadhu_5b_adivasi_0_description=¿El Sadhu mismo me pide información? Pero sólo soy un pobre e ignorante hombre... No le puedo dar nada salvo unas humildes plantas que he recolectado...<ret><ret>Y ruego que aceptes esta comida, $name, por favor. Quienquiera que trabaje para el Sadhu debe ser una buena persona.
+sadhu_5b_adivasi_0_description_success=Espero que esto sea útil para él. Su sabiduría no conoce límites. 
+sadhu_5b_adivasi_0_description_refuse=¿Cómo puedes rechazar la sagrada tarea de ayudar al Sadhu?
+
+sadhu_6_mountain_0_label=Explorando montañas
+sadhu_6_mountain_0_description=Tengo una última exploración que necesito que hagas, $name. Necesito que estudies una cadena montañosa cercana. En mis meditaciones, casi puedo ver un patrón formándose, casi...
+sadhu_6_mountain_0_description_success=Reflexionaré sobre tus progresos mientras no estás.
+sadhu_6_mountain_0_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_6_mountain_1_label=Reporta tus descubrimientos
+sadhu_6_mountain_1_description=Supongo que encontraste las montañas muy pacíficas bajo la luz de la Luna.
+sadhu_6_mountain_1_description_success= ¿Entonces esta vez fueron las arañas que dificultaron tu travesía nocturna? Las he visto por la noche, asechando cerca de los árboles. ¿Pero qué significa esto? ¿Por qué están presente en las montañas donde no encajan? Está es una señal preocupante, criaturas que no pertenecen al lugar por el cual vagan.
+sadhu_6_mountain_1_description_refuse=Me quedaré aquí a rezar hasta que cambies de parecer, $name.
+sadhu_6_mountain_1_listing=Explora una cadena montañosa por la noche como lo indicó el Sadhu.
+
+sadhu_7_underwater_0_label=La gran inmersión
+sadhu_7_underwater_0_description=Anoche la Diosa me habló susurrando "es más profundo de lo que ves". He pensado mucho, pero ahora sé a qué se refería: debemos explorar las profundidades del mar.
+sadhu_7_underwater_0_description_success=Sumérgete, amigo mío, y dime que yace en las profundidades.
+sadhu_7_underwater_0_description_refuse=Me quedaré aquí y rezaré para que cambies de parecer, $name.
+sadhu_7_underwater_1_label=Reporta tus descubrimientos
+sadhu_7_underwater_1_description=¿Entonces qué es lo que yace allá, bajo las olas, que debe ser visto?
+sadhu_7_underwater_1_description_success=¿Dices que tan profundo como fuiste, no hubo señales de ningún tipo de vida...? ¿Ni peces, ni niguna vida marina? Esto requerirá que reflexione mucho durante un tiempo.
+sadhu_7_underwater_1_description_refuse=Me quedaré a rezar hasta que cambies de paracer, $name.
+sadhu_7_underwater_1_listing=Sumérgete al menos 15 metros bajo la superficie del mar.
+
+sadhu_8_underwaterglass_0_label=Ventana en las profundidades
+sadhu_8_underwaterglass_0_description=He reflexionado mucho sobre tu reporte, $name. Quizás no viste lo suficientemente bien, en una de tus sumergidas fugaces. Necesito que regreses al mar – y construyas una cámara de observación tan profundo como puedas, de donde puedas estudiar las profundidades en paz.
+sadhu_8_underwaterglass_0_description_success=Sé que es un proyecto desafiante, pero confío que la Diosa te inspire en su completación.
+sadhu_8_underwaterglass_0_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_8_underwaterglass_1_label=Reporta tus descubrimientos
+sadhu_8_underwaterglass_1_description=¿Qué has visto, donde ningún otro hombre ha visto antes?
+sadhu_8_underwaterglass_1_description_success=Entonces el fondo del mar es en verdad un lugar sin vida, desprovisto de vida más allá de esos misteriosos calamares. Esto no puede ser... Ningún mar puede estar tan vacío, ¿y cómo pueden tan enormes animales sobrevivir sin ninguna presa? <ret><ret>Me has dado mucho en que pensar, $name. Regresa luego y tal vez tenga algunas respuestas para ti.
+sadhu_8_underwaterglass_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
+sadhu_8_underwaterglass_1_listing=Construye una cámara de observación con vidrio al menos 20 metros bajo la superficie.
+
+
+sadhu_9_topandbottom_0_label=Límites del mundo
+sadhu_9_topandbottom_0_description=$name, hay un último desafío que necesito que hagas por mí. Sé por reportes de valientes aldeanos hindúes que este mundo es vasto - en los primeros años luego de la noche en llamas que nos trajo aquí, muchos jóvenes aldeanos hindúes viajaron por todas partes para encontrar costas conocidas de nuevo, en vano. Tampoco vieron montañas dignas de ese nombre, nada comparable a los imponentes Himalayas. He pensado mucho sobre eso, y se me ha venido a la mente algo: el cielo aquí luce tan alto como si estuviera sobre las planicies del Ganges, pero las nubes están siempre bajas, y nunca vemos criaturas encima de ellas. ¿Podría ser que todo lo que está arriba de ellas sea una ilusión? Necesitas ir y ver por ti mismo lo que hay encima de las nubes.
+sadhu_9_topandbottom_0_description_success=Puedes comenzar escalando las ramas de este venerable árbol si te ayuda a emprender tu tarea.
+sadhu_9_topandbottom_0_description_refuse=Me quedaré aquí y rezaré hasta que cambies de parecer, $name.
+sadhu_9_topandbottom_1_label=Reporta tus descubrimientos
+sadhu_9_topandbottom_1_description=¿Qué has visto desde tan alto sobre el suelo, $name?
+sadhu_9_topandbottom_1_description_success=Así que hay un límite, no más allá que la altura de 30 hombres sobre las aguas del mar... Si este mundo es una parodia al verdadero, ¿es el trabjo de un dios o un demonio? $name, debes confirmar este descubrimiento. Debes averiguar si el mundo es finito hacia abajo también, si este suelo en el que vivimos no es más que una rebanada de tierra flotando en la nada.
+sadhu_9_topandbottom_1_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_9_topandbottom_1_listing=Alcanza el punto más alto que puedas y reporta tus resultados al Sadhu.
+sadhu_9_topandbottom_2_label=Reporta tus descubrimientos
+sadhu_9_topandbottom_2_description=¿Qué encontraste muy debajo de la tierra mi loable explorador?
+sadhu_9_topandbottom_2_description_success=¿Así que encontraste rocas tan duras de romper que no pudiste seguir yendo más profundo? Y dices que esta era la altura de treinta hombres hacia abajo. Hay mucha simetría en juego aquí, $name. No puede ser, pero aún lo es.<ret><ret>No tengo más trabajo para ti. Necesito pensar y meditar por orientación, hasta que pueda encontrarle sentido a todo esto. Regresa más tarde y te daré el resultado de mis descubrimientos, si el Señor Ganesha me inspira.
+sadhu_9_topandbottom_2_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+sadhu_9_topandbottom_2_listing=Cava tan profundo como puedas y reporta los resultados al Sadhu.
+
+
+sadhu_10_conclusion_0_label=El Libro del Sadhu
+sadhu_10_conclusion_0_description=He ayunado y rezado por orientación, y los Dioses han susurrado algo de sabiduría a mis oídos. Pero no fui digno de descubrir la verdad, sólo entrever algunos aspectos de ella.<ret><ret>$name, estoy muy cansado para hablar ahora. He escrito mis descubrimientos en este pergamino. Tómalo y ten mis bendiciones en tu aventura en busca del conocimiento, no creo que pueda ser útil para ti por el momento. Quizás necesites más sabiduría de la que cualquier viejo sadhu pueda darte.
+sadhu_10_conclusion_0_description_success=Escribí este pergamino en la sagrada lengua sánscrita, la cual sólo algunos pandits dominan hoy en día. Pero por alguna razón sabía que tú entenderías. La Diosa susurra en tu oído, incluso si no puedes oírla.
+sadhu_10_conclusion_0_description_refuse=Me quedaré con este libro hasta que cambies de parecer.
+
+
+
+sadhu_leadership_0_label=Liderazgo
+sadhu_leadership_0_description=He escuchado que ambicionas poder liderar un grupo de aldeanos hindúes para comenzar una nueva aldea. $name, después de todo lo que has hecho por mí, estoy convencido de tu honradez. Si así lo quieres, tienes mi bendición en este proyecto.
+sadhu_leadership_0_description_success=Rezaré por tu éxito. Buena suerte, $name.
+sadhu_leadership_0_description_refuse=¿Entonces prefieres enfocarte en la búsqueda de la verdad? Esa es una decisión sabia. Pero de cambiar de parecer, regresa a mí.
+
+
+
+alchemist_1_intro_0_label=El Alquimista
+alchemist_1_intro_0_description=Hijo mío, ha llegado a mis oídos que pasaste tiempo con un vagabundo pagano que clama sabiduría única en el funcionamiento de este mundo. ¡No caigas en herejía! Si necesitas orientación, deberías retirarte a un monasterio y rezar por ella. Dios le sonríe a las personas lo suficientemente sabias como para ver los límites de su comprensión. Pero tú eres joven y tonto, y sé que mi consejo caerá en oídos sordos hasta que aprendas la lección tú mismo. ¡Así son todos los jóvenes!<ret><ret>Hay otro hombre que puedes ir a visitar, que puede ser capaz de ayudarte, o convencerte de la futilidad de tu búsqueda. El es sabido y astuto. ¿Deseas que te guíe hacia él?
+alchemist_1_intro_0_description_success=Su nombre es Guillaume Vif-argent, y se hace llamar "alquimista". No tengo la ubicación exacta, pero es conocido por asentarse en montañas, para observar mejor las estrellas.
+alchemist_1_intro_0_description_refuse=Eres más sabio de lo que pareces.
+alchemist_1_intro_1_label=Repórtate a $startvillager_villagerrole$
+alchemist_1_intro_1_description=¿Has encontrado al hombre? ¿Qué puedes decir de él?
+alchemist_1_intro_1_description_success=Veo que su conocimiento te impresiona. Ten cuidado, $name.
+alchemist_1_intro_1_description_refuse=Me quedaré aquí y rogaré porque cambies de parecer, $name.
+alchemist_1_intro_1_listing=Encuentra la Torre del Alquimista en una zona montañosa, luego repórtate al $startvillager_villagerrole$ de $startvillager_villagename$.
+
+alchemist_1_introguildmaster_0_label=El Alquimista
+alchemist_1_introguildmaster_0_description=$name, tengo entendido que en tu búsqueda del sentido de este mundo procuraste la orientación de un extraño sin ninguna reputación. ¡Debiste haber venido a mí en su lugar! Tengo el honor de conocer la mente más grandiosa viva hoy, el alquimista Guillaume Vif-argent, cuya reputación es sin lugar a ninguna entre los filósofos eruditos. Es él a quien debes recurrir.
+alchemist_1_introguildmaster_0_description_success=Su taller está ubicado en áreas montañosas, donde estudia las rocas y las estrellas.
+alchemist_1_introguildmaster_0_description_refuse=¿Así que escuchas a un mendigo pero no a un estudioso? Me decepcionas, $name.
+alchemist_1_introguildmaster_1_label=Repórtate al Maestro Gremial
+alchemist_1_introguildmaster_1_description=¿Qué noticias traes sobre el Alquimista?
+alchemist_1_introguildmaster_1_description_success=Veo que su mente es tan penetrante como siempre. Escucha y aprende de él, joven.
+alchemist_1_introguildmaster_1_description_refuse=Me quedaré aquí a rogar porque cambies de parecer, $name.
+alchemist_1_introguildmaster_1_listing=Encuentra la Torre del Alquimista en una zona montañosa, luego repórtate al $startvillager_villagerrole$ de $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=El Alquimista
+alchemist_1_introknight_0_description=¿Entonces quieres saber quién en nuestro reino podría tener algún conocimiento de este mundo? No el clérigo, eso es seguro. Y ten cuidado de los maestros gremiales, siempre dicen saber más de los que realmente saben. Hay un hombre que puede ayudarte, tal vez - el afirma ser muy sabio y sabido y ofrecido a transformar plomo en oro para nuestro rey en el viejo mundo. Siempre pensé que era un poco penumbroso, pero quizás haya algo con él.
+alchemist_1_introknight_0_description_success=Se ha asentado en lo salvaje, cerca de montañas. Afirma que necesita tranquilidad para su trabajo, pero estoy seguro de que esconde algo. De cualquier forma, se llama Guillaume Vif-argent.
+alchemist_1_introknight_0_description_refuse=Probablemente una decisión sabia.
+alchemist_1_introknight_1_label=Repórtate al $startvillager_villagerrole$
+alchemist_1_introknight_1_description=¿Conociste al hombre?
+alchemist_1_introknight_1_description_success=¿Entonces luce genuino ante tus ojos? Bueno, siempre y cuando se mantenga fuera de los asuntos de mi señor...
+alchemist_1_introknight_1_description_refuse=Me quedaré aquí a rogar porque cambies de parecer, $name.
+alchemist_1_introknight_1_listing=Encuentra la Torre del Alquimista en una zona montañosa, luego repórtate al $startvillager_villagerrole$ de $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=Una bienvenida
+alchemist_2_meeting_0_description=¿Así que te enviaron a mi en busca de conocimiento, $name? Fuiste bien aconsejado. Soy el único alquimista real que vas a encontrar en este mundo olvidado por Dios, criatura. Si deseas aprender de mí, necesitarás ayudar. Siempre me es útil gente joven como tú. Y de ser tu motivación algo más allás que el conocimiento, sabe que, mientras todavía no he sido capaz de transformar plomo en oro, he logrado transformar alquimia en monedas reales en la corte.
+alchemist_2_meeting_0_description_success=Puedes quedarte en la casa de afuera si así lo deseas. Mi asistente y yo estamos demasiado ocupados para retirarnos a ella.
+alchemist_2_meeting_0_description_refuse=Entonces vete, tengo trabajo que hacer.
+
+alchemist_3_ores_0_label=Recolección de piedra
+alchemist_3_ores_0_description=Estoy trabajando en este momento en un análisis de las rocas de este mundo. Claramente son similares a las rocas del antiguo mundo en algunas cosas, pero su distribución es diferente. ¡Necesito muestras ahora! ¿O pensaste que soy uno de esos un filósofos inútiles que sólo trabaja con libros?
+alchemist_3_ores_0_description_refuse=¿Entonces para que me molestas?
+alchemist_3_ores_0_description_success=Bien. Mi asistente te proveerá de las herramientas que vas a necesitar. Y puedes estar seguro, no necesito que me traigas diamantes. Ya terminé mi trabajo en ellos.
+alchemist_3_ores_1_label=Recoge las herramientas
+alchemist_3_ores_1_description=Saludos $name, soy el asistente del Maestro Vif-argent. No le prestes atención a sus modales, él es un verdadero hombre de ciencias, ¡demasiado envolvido en su trabajo como para tener tiempo para la sociedad! Pero él es muy sabio, que yo sepa. De cualquier forma, aquí están tus herramientas.
+alchemist_3_ores_1_description_success=¡Buena suerte, $name!
+alchemist_3_ores_1_description_refuse=Tendré que decírselo al Maestro.
+alchemist_3_ores_1_listing=Recoge las herramientas del asistente del Alquimista.
+alchemist_3_ores_2_label=Regresa con muestras
+alchemist_3_ores_2_description=¿Qué has encontrado?
+alchemist_3_ores_2_description_success=¡Bien, muy bien! Eres un ser eficiente, $name. Me gusta eso.
+alchemist_3_ores_2_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+alchemist_3_ores_2_listing=Regresa con las muestras para ver al Alquimista.
+
+alchemist_4_lava_0_label=Una necesidad abrasadora
+alchemist_4_lava_0_description=Tengo grandes experiencias en mi mente ahora, $name. Como pudiste haber observado en tus viajes, este mundo no tiene volcanes como aquellos en nuestra antigua Europa, pero el suelo está lleno de lava y es común ver rios emanando de la superficie. Necesito saber de que está hecha, y si puede ser usada para transmutar metales. Mi buen Robert es demasiado viejo para esto, pero tú pareces lo suficientemente ingenioso como para traerme las muestras que necesito .
+alchemist_4_lava_0_description_refuse=¿Entonces para que me molestas?
+alchemist_4_lava_0_description_success=Ve a ver a Robert, el tiene el equipamiento que necesitas.
+alchemist_4_lava_1_label=Recoge el equipamiento
+alchemist_4_lava_1_description=¿Esta vez lo que necesita es lava? ¡Estoy seguro de que hará algo grandioso con ella! Toma estos cubos, y buena suerte. Recuerda que el Maestro necesita los dieciséis totalmente llenos.
+alchemist_4_lava_1_description_success=¡Regresa pronto, $name!
+alchemist_4_lava_1_description_refuse=Tendré que decírselo al Maestro.
+alchemist_4_lava_1_listing=Recoge el equipamiento del asistente del Maestro.
+alchemist_4_lava_2_label=Regresa con la lava
+alchemist_4_lava_2_description=¿Pudiste recolectarla?
+alchemist_4_lava_2_description_success=Excelente, esto será muy útil para mi experiencia.<ret><ret>Me puse a leer tu libro mientras esperaba por ti, $name. Tal como lo pensé, lleno de misticismos y especulaciones sin fundamentos. Pero hay algunas observaciones interesantes. Reflexionaré en él un poco más y luego volveremos a hablar.
+alchemist_4_lava_2_description_refuse=Me quedaré aquí y rezaré porque cambies de parecer, $name.
+alchemist_4_lava_2_listing=Regresa con la lava para ver el Alquimista.
+
+alchemist_5_creeper_0_label=Necesidades explosivas
+alchemist_5_creeper_0_description=¡Ah, $name! ¿El maestro te ha dado una tarea urgente? ¿No? Bien, bien... estoy en problemas, $name. El maestro me ha pedido grandes cantidades de una sustancia explosiva misteriosa que los aldeanos a veces encuentran alrededor de las aldeas, pero no he podido obtener suficiente. ¡Estará amargamente decepcionado conmigo! ¿Podrías ayudarme? Te proveeré con cualquier herramienta que puedas necesitar.
+alchemist_5_creeper_0_description_refuse=¿Qué haré entonces?
+alchemist_5_creeper_0_description_success=¡Gracias! Por supuesto que puedo proveerte con arco y flechas si así lo necesitas.
+alchemist_5_creeper_1_label=Regresa con la pólvora
+alchemist_5_creeper_1_description=¿Pudiste encontrarla?
+alchemist_5_creeper_1_description_success=¿Cómo pudiste encontrar tanta en tan poco tiempo? Eres verdaderamente un hombre extraordinario, $name. ¡No puedo agradecerte lo suficiente por tu ayuda!
+alchemist_5_creeper_1_description_refuse=Tendré que informárselo al Maestro.
+alchemist_5_creeper_1_listing=Recolecta pólvora para el asistente del Alquimista.
+
+
+
+alchemist_6_borehole_0_label=La Gran Excavación
+alchemist_6_borehole_0_description=
+alchemist_6_borehole_0_description_refuse=¿Entonces para qué me molestas?
+alchemist_6_borehole_0_description_success=Antes de que podamos intentar romper esta barrera, necesitaremos una ruta adecuada. $name, necesito que perfores hasta el fondo de este mundo. Cava donde quieras, pero necesito al menos un cuadro de cinco por cinco metros de ese lecho rocoso expuesto al Sol.<ret><ret>No te preocupes, no tendrás que cavar a mano. Ve a ver a mi asistente y él te proveerá de las mejores herramientas la alquimia puede dar.
+alchemist_6_borehole_1_label=Recoge los explosivos
+alchemist_6_borehole_1_description=¿Así que realmente seguirá en marcha con su plan de perforación? ¡Qué gran hombre, con tamañas ambiciones! Por supuesto, ahora depende de nosotros hacer el trabajo en sí. Bueno, realmente depende de ti.<ret><ret>Como venía diciendo... Gracias a tu recolección de pólvora, he preparado los exlosivos de sus instrucciones. Deberían ayudarte a cavar rápidamente.
+alchemist_6_borehole_1_description_success=Ten cuidado, ¡y buena suerte!
+alchemist_6_borehole_1_description_refuse=Tendré que informárselo al maestro.
+alchemist_6_borehole_1_listing=Recoge los explosivos del asistente del Alquimista.
+alchemist_6_borehole_2_label=Repórtateal al alquimista
+alchemist_6_borehole_2_description=Confío en que mis explosivos te permitieron hacer la tarea.
+alchemist_6_borehole_2_description_success=¡Excelente trabajo! Tienes todos los ingredientes que hacen a un buen alquimista, $name. Realizar una tarea como esta sin volarte en pedazos a ti mismo es una demostración de destreza.<ret><ret>Estoy finalizando los planos para atravesar la roca. Descansa un poco y regresa a verme luego.
+alchemist_6_borehole_2_description_refuse=Me quedaré aquí y rogaré porque cambies tu mente, $name.
+alchemist_6_borehole_2_listing=Habre una cavidad de 5x5 metros cuadrados hasta el lecho rocoso, luego repórtate con el alquimista.
+
+
+alchemist_7_boreholetnt_0_label=Asuntos explosivos
+alchemist_7_boreholetnt_0_description=¡El gran día ha llegado, $name! He estado estudiando la mejor forma de concentrar fuerza explosiva suficiente para poder abrirnos paso a través del lecho rocoso, y creo que la he encontrado. Una buena capa de obsidiana debería ser suficiente para concentrar la explosión hacia el piso asegurar nuestro suceso. ¿Estás preparado?
+alchemist_7_boreholetnt_0_description_refuse=¿Entonces para que me molestas?
+alchemist_7_boreholetnt_0_description_success=Robert te dará los explosivos. Asegúrate de instalarlos en el fondo del pozo y coloca bloques de obsidiana encima. De acuerdo con mis cálculos, necesitarás al menos veinte explosivos para que el efecto sea sentido. 
+alchemist_7_boreholetnt_1_label=Recoge los explosivos
+alchemist_7_boreholetnt_1_description=¡Tengo todo preparado para ti! Explosivos, obsidiana y suficiente cable para permanecer seguro cuando la mecha se encienda.
+alchemist_7_boreholetnt_1_description_success=Te envidio, mi joven amigo - ¡serás el primero en ver las riquezas escondidas debajo!
+alchemist_7_boreholetnt_1_description_refuse=Tendré que informárselo al Maestro.
+alchemist_7_boreholetnt_1_listing=Recoge los explosivos del asistente del Alquimista.
+alchemist_7_boreholetnt_2_label=Repórta los hallazgos al alquimista
+alchemist_7_boreholetnt_2_description=¡Entonces, $name! ¿Todo funcionó correctamente? ¿Qué maravillas encostraste debajo?
+alchemist_7_boreholetnt_2_description_success=¿Nada? ¡¿Nada?! ¡No puede ser! ¿Cómo puede algo resistir tan concentrada explosión? Es imposible, ¡has de haberlo hecho mal! ¡Inepto!<ret><ret>De acuerdo, de acuerdo, me disculpo, $name. Siempre has hecho un trabajo inmaculado. Fui ingenuon al pensar que algo un simple y ordinario explosivo funcionaría. Tendrás que dejar que piense esto cuidadosamente. Ha de existir una solución - ¡y piensa que tan invaluable ha de ser lo que yace allá abajo, para estar protegido tan bien!
+alchemist_7_boreholetnt_2_description_refuse=Me quedaré aquí y rogaré porque cambies tu mente, $name.
+alchemist_7_boreholetnt_2_listing=Posiciona veinte bloques de dinamita en el fondo del pozo, cúbrelos con una capa de obsidiana y enciéndolos. Reporta los resultados al Alquimista.
+
+
+alchemist_8_anomaly_0_label=La Anomalía
+alchemist_8_anomaly_0_description=Nuestro fracaso ha pesado mucho en mí, $name. He pensado mucho en eso desde entonces, y creo que mi error fue no concentrar suficiente del material en sí. Antes de ser un obstáculo, es un misterio por sí mismo. ¡Y he hecho un progreso significativo, $name! He conseguido crear un polvo que reacciona con la presencia de "lecho rocoso" y he enviado a mi asistente a usarlo alrededor de aquí para estudiar desde la superficie. En general, los resultados confirmaron lo que tu sadhu creía - está distribuído constantemente, sesenta metros bajo el nivel del mar.<ret><ret>Sin embargo... Él encontró al menos un lugar donde no es el caso. El lecho rocoso estás más cercano a la superficie ahí, ¡y aparentemente en grandes cantidades! ¿Podrías investigar por mí?
+alchemist_8_anomaly_0_description_refuse=¿Entonces para que me molestas?
+alchemist_8_anomaly_0_description_success=¡Ten cuidado, $name! No sé que significa esto, y podría ser peligroso.
+alchemist_8_anomaly_1_label=Repórtale al Alquimista
+alchemist_8_anomaly_1_description=¿Has Regresado? ¿Qué encontraste?
+alchemist_8_anomaly_1_description_success=¿Una habitación? ¿Artificial y hecha de lecho rocoso? Este es el descubrimiento más grande desde que llegamos a este mundo... Es la primera y absoluta prueba de que hay o hubo gente en este mundo con mayores poderes que nosotros. No se compara ni siquiera a esas estructuras, esas minas y fortalezas subterráneas, construcciones impresionantes, pero que están a nuestro alcance. Esto es algo completamente distinto. ¿Y dices que tenían aparatos que generaban esos monstruos también?<ret><ret>$name, tendré que pensar en esto por un tiempo, esto está más allá de mi comprensión y conocimiento.
+alchemist_8_anomaly_1_description_refuse=
+alchemist_8_anomaly_1_listing=Explora la anomalía y reporta tus resultados al alquimista
+
+
+alchemist_9_anomalytwo_0_label=Una Segunda Oportunidad
+alchemist_9_anomalytwo_0_description=¡$name, tengo noticias fantásticas! Robert ha encontrado una nuva anomalía no muy lejos de aquí, y parece ser más grande que la primera. ¿Quién sabe que encontrarás ahí? ¿Tal vez algo que nos ponga sobre la pista de esa gente, o incluso algo que nos permita romper a través de la roco?<ret><ret>Pero me estoy dejando llevar... Lo primero que debes hacer es asegurarte de que el lugar es seguro. Las dificultades que tuviste con esas criaturas en la primera anomalía me preocupa, $name. Toma algo de comida... Y aquí, toma mi espada también. La necesitas más que yo.
+alchemist_9_anomalytwo_0_description_refuse=¿Entonces para que me molestas?
+alchemist_9_anomalytwo_0_description_success=Buena suerte, y ve donde pisas.
+alchemist_9_anomalytwo_1_label=Reporta tus descubrimientos al Alquimista
+alchemist_9_anomalytwo_1_description=¡$name, estoy tan feliz de verte sano y salvo! Te ves agotado y sediento, bebe un trago. Luego podrás hablar.
+alchemist_9_anomalytwo_1_description_success=Increíble... ¿Crees que la última habitación era una especie de horno de lava? ¡Los conocimientos alquímicos de esas personas van mucho más allá que los nuestros! Y más aparatos generadores, y lo que parecía como una sala de muestras... Si no fuera un alquimista creería que visitaste el propio taller de Dios, mi buen amigo.<ret><ret>Estudiaré el polvo que trajiste. Ha de haber sido de grandísima importancia para ellos como para construir un mecanismo tan elaborado alrededor de él. Sólo ruego que mi conocimiento sea suficienteme para entender su funcionalidad, aun si no puedo entender lo que es.
+alchemist_9_anomalytwo_1_description_refuse=
+alchemist_9_anomalytwo_1_listing=Explora la segunda anomalía y trae de vuelta cualquier cosa extraña que encuentres al Alquimista
+
+
+
+alchemist_10_theexperiment_0_label=El Experimento
+alchemist_10_theexperiment_0_description=Nunca he visto nada que se asemeje a este polvo... No puedo entender qué es o cómo se produce. Esto es más avanzado que mis conocimientos alquímicos, $name. Increíblemente más avanzados. Lo único que he logrado determinar es que es usado como explosivo. Lo he probado en dosis pequeñas y estuve cerca de destruir el lugar. No es necesario decirte lo que quiero probar ahora, amigo mío. Pero escucha con cuidado, pues este producto es muy, muy activo.<ret><ret>Logré estabilizarlo mezclándolo con otros materiales, para que tome la forma de un cubo. Bajo esa forma parece estable, lo puedes manejar sin riesgos - Espero. Sin embargo, detonar una carga explosiva cerca de él hará que el polvo reaccione. Creo que explotará violentamente. Qué tan violentamente no sé, pero trata de estar lejos cuando suceda.<ret><ret>Cuida que explote cerca del lecho rocoso. Quizás no pueda producir otro lote.
+alchemist_10_theexperiment_0_description_refuse=¿Entonces por qué me molestas?
+alchemist_10_theexperiment_0_description_success=Robert te proveerá con explosivos normales. Ten cuidado, ¡y que pronto bebamos a la brecha del lecho rocoso!
+alchemist_10_theexperiment_1_label=Recoge las proviciones
+alchemist_10_theexperiment_1_description=Ah, $name... Tengo tus proviciones, como lo pidió el Maestro. Y odio decir esto, pero nunca vi al Maestro tan vacilante. Y es inquietante verlo tan inseguro.
+alchemist_10_theexperiment_1_description_success=Si todo sale bien, te convertirás en una leyenda, ¡el primer hombre admitido en el mundo subterráneo! Si no, bueno...
+alchemist_10_theexperiment_1_description_refuse=Tendré que informárselo al Maestro.
+alchemist_10_theexperiment_1_listing=Recoge las proviciones del asistente del Alquimista.
+alchemist_10_theexperiment_2_label=Reporta tus descubrimientos al Alquimista
+alchemist_10_theexperiment_2_description=La mirada en tu cara es bastante rara, $name...
+alchemist_10_theexperiment_2_description_success=Vacuidad... Así que el mundo entero descansa en el vacío... ¿Entonces no hay una realidad? ¿No hay nada sólido y medible en este mundo? $name, este mundo no es para mí y mi alquimia...
+alchemist_10_theexperiment_2_description_refuse=Me quedaré aquí y rogaré porque cambies de parecer, $name.
+alchemist_10_theexperiment_2_listing=Haz estallar los explosivos del alquimista sobre el lecho rocoso detonando dinamita al lado de ellos. Observa los resultados y reporta tus descubrimientos al alquimista.
+
+
+alchemist_11_conclusion_0_label=Mente y Materia
+alchemist_11_conclusion_0_description=He reflexionado largo tiempo sobre todo esto, $name... Tienes razón, tengo un papel que jugar. Tal vez no entienda que significa esta imitación de un mundo o qué hacemos aquí, pero mis pociones y fórmulas pueden ayudarte a ir donde yo no puedo. Gracias de nuevo, $name. No sólo por tu apoyo. Asegúrate de venir a verme si un día necesitas la ayuda que puedo darte.<ret><ret>Debes saber también que he usado mi influencia sobre los nobles normandos y gremios para difundir tus habilidades. Si no era el caso todavía, encontrarás normandos dispuestos a seguirte a donde vayas, en cualquier lugar donde decidas asentarte.
+alchemist_11_conclusion_0_description_refuse=¿Entonces por qué me molestas?
+alchemist_11_conclusion_0_description_success=Y como un regalo de despedida, durante mis experimentos logré crear una pequeña cantida de gemas. No tengo uso para ellas, pero estoy seguro que tu sabrás darles uno.<ret><ret>Espero verte de nuevo $name, y saber que le diste sentido a este mundo sin sentido.

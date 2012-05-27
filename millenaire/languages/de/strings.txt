@@ -1,0 +1,607 @@
+
+startup.loadproblem=Es gab ein Problem beim Laden von <0>.
+startup.checkload=Schau nach ob der cultures-Ordner im Millenairé-Orner ist.
+startup.millenaireloaded=<0> wurde geladen. Erkunde die Welt und drücke "v" um nahe gelegene Dörfer zu suchen.
+startup.radiuswarning=WARNUNG: So ein großer Dorfradius kann Fehler auslösen und sollte nicht nötig sein. Werte über 70 sind nicht empfohlen.
+
+command.nogenerate=<0> wird keine Dörfer und Gebäude mehr generieren.
+command.willgenerate=<0> wird Dörfer und Gebäude in ungeladenen Gebieten generieren.
+command.astarpathing=Benutzt A* Pathing
+command.binarypathing=Benutzt binäres Pathing
+command.minecraftpathing=Benutzt Minecraft Pathing
+command.inactive=Inaktiv
+command.active=Aktiv
+command.frozen=Eingefroren
+command.villagelist=<0> (<1>) liegt <2> Meter in Richtung <3>.
+command.villagelistkeylonebuilding=<0> befindet sich <1> Meter in Richtung <2>.
+command.noknowvillage=Kein Dorf im Umkreis von 2 km gefunden. Suche weiter!
+command.newvillagefound=Neuer Ort endeckt: Das <2> Dorf <0> des Types <1> befindet sich <3> Meter <4>.
+command.newlonebuildingfound=Neues Gebäude entdeckt: <0> liegt <1> Meter im <2>.
+command.pathrebuild=Die Karte und das Pathing von <0> wurde neu geladen.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Verschlossene Truhe
+ui.largelockedchest=Große verschlossene Truhe
+ui.unlockedchest=Geöffnete Truhe
+ui.largeunlockedchest=Große geöffnete Truhe
+ui.allchestsunlocked=Alle Truhen sind jetzt geöffnet.
+ui.outofstock=Ausverkauft!
+ui.missingdeniers=Dir fehlen <0> Denare.
+ui.missingequipment=Fehlende Ausrüstung
+ui.noneininventory=Du hast nichts davon in deinem Inventar.
+ui.selling=Verkaufen
+ui.buying=Kaufen
+ui.sellercoming=Ich komme schon, $name!
+ui.tradecomplete=Ich hoffe der Handel war erfolgreich für dich! Einen schönen Tag noch.
+ui.sellerboycott=Wir werden nie mehr mit dir Handeln, Verbrecher!
+ui.wesell=Wir verkaufen
+ui.webuy=Wir kaufen
+ui.isell=Ich verkaufe
+ui.inventory=Inventar
+ui.villagechief=Anführer des Dorfes <0>
+ui.yourstatus=Dein Ruf
+ui.possiblehousing=Mögliche Wohnsitze
+ui.alreadybuilt=schon gebaut
+ui.alreadyrequested=schon beantragt
+ui.notavailableyet=noch nicht verfügbar
+ui.available=verfügbar
+ui.youaremissing=Dir fehlen: <0>
+ui.scrollsnoreputation=Dein Ruf reicht noch nicht aus um dir Dorfschriftrollen zu kaufen.
+ui.scrollsnotenoughmoney=Dir fehlen <0> Denare für eine Dorfschriftrolle.
+ui.scrollsok=Du kannst eine Dorfschriftrolle kaufen.
+ui.buyscroll=Dorfschriftrolle kaufen
+ui.cost=Kosten
+ui.clicktorequest=Bauantrag stellen
+ui.scrollbought=Du bist nun mit unserem Dorf anvertraut!
+ui.housebought=Dein <0> wird in Kürze gebaut!
+ui.inhabitantof=Einwohner von <0>
+ui.inconstruction=Wird gebaut
+ui.nospace=Nicht genug Platz
+ui.reservedforvillager1=Reserviert
+ui.reservedforvillager2=für Bewohner
+ui.currentlyempty1=Momentan
+ui.currentlyempty2=unbewohnt
+ui.visitorslist1=Besucher-
+ui.visitorslist2=Liste
+ui.goodstraded=Gehandelte Güter
+ui.imports=Importe
+ui.exports=Exporte
+ui.import_total=Gesamte Importe
+ui.export_total=Gesamte Exporte
+ui.merchants=Händler
+ui.goalscompleted1=Alle Gebäude
+ui.goalscompleted2=gebaut
+ui.project=Projekt
+ui.noconstruction1=Momentan
+ui.noconstruction2=nichts im Bau
+ui.upgrading=Verbessern
+ui.construction=Bauen
+ui.population=Bevölkerung
+ui.adults=Erwachs.
+ui.teens=Jugendl.
+ui.children=Kinder
+ui.villagemap=Dorfkarte
+ui.wandwrongblock=This wand only works on an obsidian block for a random village or on the following blocks:
+ui.wandblocklist=<0> for a <1>
+ui.wandblocklistcontrolled=<0> for a <1> (requires leadership in this culture)
+ui.brickinstructions=Für Lehmziegel sind ein Erd- und ein Sandblock nötig.
+ui.buildingscentre=Zentral
+ui.buildingsstarting=Anfangsgebäude
+ui.buildingsplayer=Spielergebäude
+ui.buildingskey=Wichtige Gebäude
+ui.buildingssecondary=Sekundäre Gebäude
+ui.buildingsextra=Sondergebäude
+ui.worldnotgenerated=Das Gebiet ist noch nicht fertig generiert. Erkunde die Welt noch ein bisschen und komme dann später wieder.
+ui.lackingresources=Rohstoffe sammeln
+ui.lockedchestwarning=WARNUNG: destroying locked chests will prevent villages from working properly. Only do it if you want to destroy the village.
+ui.extraresneeded1=<0> weitere Rohstoffe
+ui.extraresneeded2=benötigt
+ui.woodforplanks=Holz (für Bretter)
+ui.selectabuildingproject=Wähle ein Bauprojekt
+ui.projectadded=Das Projekt wurde der Liste hinzugefügt
+ui.problemat=Problem bei
+ui.constructionforbidden=Bau verboten
+ui.locationclash=Überschneidung mit anderem Gebäude
+ui.outsideradius=Außerhalb des Dorfgebiets 
+ui.wrongelevation=Außerhalb erlaubter Höhe
+ui.danger=Gefährlicher Block
+ui.unknownerror=Unbekanntes Problem
+ui.controlbuildingprojects=Bauprojekte verwalten
+ui.forbidupgrades=Verbesserungen stoppen
+ui.allowupgrades=Verbesserungen erlauben
+ui.cancelbuilding=Entferne Gebäude
+ui.level=Level
+ui.notyetbuilt=Noch nicht gebaut
+ui.wandnocontrol=Du kannst dieses Dorf nicht erstellen, weil du noch kein potentieller Anführer der <0>n Kultur bist.
+ui.control_ok=Dank deinem Einsatz für ein Dorf hält dich die <0> Bevölkerung für würdig, ein Dorf zu leiten! Mache es offiziell und gründe dein eigenes Dorf!
+ui.control_noreputation=Dein Ruf bei der <0>n Bevölkerung reicht noch nicht aus um ein Dorf zu gründen. Verbessere deinen Ruf durch Handel mit dem Dorf oder durch Aufgaben von den Bewohnern.
+ui.control_alreadydone=Du wirst schon als potenzieller Anführer der <0>n Kultur gesehen.
+ui.control_get=Frage ob du ein Dorf leiten kannst.
+ui.control_gotten=Ich halte dich wirklich für würdig ein Dorf zu leiten! Du kannst nun dein eigenes Dorf gründen.
+ui.selectavillage=Wähle das Dorf aus, welches du gründen willst:
+ui.leadershipstatus=Anführerstatus
+ui.leaderin=Du bist ein Anführer für die <0> Kultur. Du kannst ein Dorf dieser Kultur gründen, dass du leitest.
+ui.notleaderin=Du bist noch kein Anführer der <0>n Kultur.
+ui.leaderinstruction=Um Anführer einer Kultur werden zu können, musst du den Ruf "potentieller Anführer" in einem Dorf der jeweiligen Kultur erreichen und den Anführer des Dorfes danach fragen oder du kannst das jeweilige Kapitel der Kreationsgeschichte abschliessen (falls verfügbar).
+ui.wandinstruction=Benutze diesen Stab an einem Obsidianblock für ein zufälliges Dorf oder an einem Goldblock für ein bestimmtes Dorf.
+ui.controlled=kontrolliert
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=Beziehungen zu anderen Dörfern
+ui.relationpraise=Loben
+ui.relationslander=Anschwärzen
+ui.relationpoints=Verfügbare Diplomatiepunkte: <0>
+ui.relationhelp=Über Beziehungen<ret><ret>Beziehungen zwischen Dörfern entscheiden ob sie zusammenarbeiten oder nicht.<ret><ret>Zwischen zwei Dörfern der selben Kultur ab einer guten Beziehung oder zwei Dörfern unterschiedlicher Kulturen mit einer ausgezeichneten Beziehung findet lokaler Handel (Warenaustausch durch Händler) statt.<ret><ret>Dörfer unterschiedlicher Kulturen, die beide einen Markt haben, werden ab einer sehr guten Beziehung fremde Händler anderer Kulturen aufnehmen.<ret><ret>Dörfer der selben Kultur akzeptieren Jugendliche voneinander wenn Arbeitsplätze im jeweils anderen Dorf verfügbar werden.<ret><ret>Dörfer der selben Kultur haben anfangs eine gute Beziehung, Weiler sogar eine ausgezeichnete zu ihrer "Mutterstadt". Zwischen Dörfern unterschiedlicher Kulturen startet die Beziehung neutral.<ret><ret>Jeden Tag bekommt der Spieler fünf sogenannte Diplomatiepunkte, mit denen er die Beziehungen verbessern oder verschlechtern kann. Sein Einfluss wird durch den Ruf in diesem Dorf bestimmt.
+ui.relationfriendly=Aktuelle Entwicklungen zwischen den Dörfern <0> und <1> haben ihre Beziehung verbessert. Sie haben jetzt eine <2>e Beziehung.
+ui.relationunfriendly=Aktuelle Ausseinandersetzungen zwischen den Dörfern <0> und <1> haben ihre Beziehung verschlechtert. Sie haben jetzt eine <2>e Beziehung.
+ui.cropplantingknowledge=Du weisst nicht, wie man <0> anbaut. Du musst einen Dorfchef fragen.
+ui.cropsknown=Bekannte Nutzpflanzen dieser Kultur
+ui.cropknown=Du weißt jetzt wie man <0> anbaut.
+ui.cropinsufficientreputation=Dein Ruf in diesem Dorf ist zu niedrig um zu lernen, wie man <0> anbaut.
+ui.cropnotenoughmoney=Dir fehlen noch <1> um das Anpflanzen von <0> zu lernen.
+ui.cropoktolearn=Dieses Dorf kann dir zeigen wie man <0> anbaut.
+ui.croplearn=Lernen (<0>)
+ui.croplearned=Dir wurden die Geheimnisse für den Anbau von <0> gezeigt!
+ui.raider=Räuber
+ui.buybuilding=Kaufe <0> (<1>)
+ui.reputationneeded=Du musst deinen Ruf verbessern: <0>
+
+ui.notreachable=Unerreichbares Gebiet
+ui.sellernotcurrently possible=Wie kannst du jetzt nur ans Handeln denken? Wir wurden ausgeraubt!
+ui.nbbuildings=<0> Gebäude
+
+ui.woodoak=Eichenholz
+ui.woodpine=Kiefernholz
+ui.woodbirch=Birkenholz
+ui.woodjungle=Tropisches Holz
+
+ui.anyenchanted=Verbesserter Gegenstand
+ui.enchantedsword=Verbessertes Schwert
+
+quest.obtained=Angenommen
+quest.lackingcondition=Du erfüllst die folgende Voraussetzung nicht:
+quest.lackinghiddengoods=Du hast nicht die nötigen Objekte bei dir.
+quest.close=Schliessen
+quest.accept=Annehmen
+quest.refuse=Ablehnen
+quest.continue=Auftrag fortsetzen
+quest.conditionsnotmet=Du erfüllst nicht alle Voraussetzungen.
+quest.lessthananhourleft=Weniger als eine Stunde übrig!
+quest.timeremaining=Verbleibende Zeit
+quest.hours=Stunde(n)
+quest.noquestsvisible=Du hast keine Aufträge angenommen.
+quest.questlist=Angenommene Aufträge
+
+quest.creationqueststatus=Kreationsgeschichtenstatus:
+quest.creationqueststatusshort=Kreationsgeschichte:
+
+quest.cqchaptersadhu=Der Sadhu
+quest.cqsadhustartexplanation=Finde einen Dorfbewohner in einem indischen Dorf, in welchem du mindestens den Ruf "Freund des Dorfes" hast, der dich in dieses Kapitel einführen kann.
+
+quest.cqchapteralchemist=The Alchimist
+quest.cqalchemiststartexplanation=Finde einen Dorfbewohner in einem normannischen Dorf, in welchem du mindestens den Ruf "Freund des Dorfes" hast, der dich in dieses Kapitel einführen kann.
+
+quest.cqallcompleted=Gratulation, du hast alle Aufträge der Kreationsgeschichte erledigt!
+quest.cqcheckforupdates=Gehe auf www.millenaire.org für zukünftige Versionen mit mehr Aufträgen.
+quest.cqchapternotstarted=Du hast das Kapitel "<0>" noch nicht begonnen.
+quest.cqchapterinprogress=Du hast <1> von <2> Aufträgen des Kapitels "<0>" erledigt.
+quest.cqchaptercompleted=Gratulation, du hast das Kapitel "<0>" erledigt!
+quest.cqchapternotstartedshort=Kapitel "<0>": noch nicht begonnen.
+quest.cqchapterinprogressshort=Kapitel "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Kapitel "<0>": erledigt.
+quest.cqcheckquestlist=Drücke '<0>' für weitere Informationen.
+
+
+//Item names
+item.vishnu_amulet=Amulett des Vishnu
+item.denierOr=Golddenar
+item.denierArgent=Silberdenar
+item.denier=Denar
+item.building=Gebäude
+item.normanPickaxe=Normannische Spitzhacke
+item.normanAxe=Normannische Axt
+item.normanShovel=Normannische Schaufel
+item.normanHoe=Normannische Feldhacke
+item.normanBroadsword=Normannisches Breitschwert
+item.normanHelmet=Normannischer Helm
+item.normanPlate=Normannischer Harnisch
+item.normanLegs=Normannische Beinschienen
+item.normanBoots=Normannische Stiefel
+item.rice=Reis
+item.turmeric=Gelbwurz
+item.vegcurry=Vegetarisches Curry
+item.chickenmeat=Rohes Huhn
+item.chickencurry=Curry mit Huhn
+item.brickmould=Ziegelform
+item.rasgulla=Rasgulla
+item.plaintimber=Gerades Fachwerk
+item.crosstimber=Gekreuztes Fachwerk
+item.wetbrick=nasse Lehmziegel
+item.cookedbrick=Gekochte Ziegel
+item.mudbrick=Lehmziegel
+item.indianstatue=Hindistatue
+item.ciderapple=Cidre-Apfel
+item.cider=Cidre
+item.calva=Calvados
+item.boudin=Boudin noir
+item.tripes=Tripes
+item.villagewand=Gründungsstab
+item.negationwand=Zerstörungsstab
+item.normanvillagers=Normannische Bewohner
+item.normanitems=Normannische Gegenstände
+item.normanbuildings=Normannische Gebäude
+item.normanfull=Die Normannen
+item.tapestry=Normannischer Wandteppich
+item.raven_amulet=Amulett des Raben
+item.dwarves_amulet=Amulett der Zwerge
+item.yddrasil_amulet=Amulet des Yddrasil
+item.skoll_hati_amulet=Amulett von Sköll und Hati
+item.villagescroll=Dorfschriftrolle
+item.indianvillagers=Indische Bewohner
+item.indianitems=Indische Gegenstände
+item.indianbuildings=Indische Gebäude
+item.indianfull=Die Inder
+item.unknownpowder=Unbekanntes Puder
+item.alchimistexplosive=Sprengstoff des Alchemisten
+
+item.wah=Wah
+item.masa=Masa
+item.maize=Mais
+item.mayangold=Goldenes Ornament
+item.mayanstatue=Mayane Statue
+item.mayanvillagers=Mayane Bewohner
+item.mayanitems=Mayane Gegenstände
+item.mayanbuildings=Mayane Gebäude
+item.mayanfull=Die Maya
+item.mayanaxe=Obsidianaxt
+item.mayanhoe=Obsidianfeldhacke
+item.mayanmace=Obsidiankeule
+item.mayanpickaxe=Obsidianspitzhacke
+item.mayanshovel=Obsidianschaufel
+item.obsidianflake=Obsidianscherbe
+
+item.paperwall=Papierwand
+item.udon=Udon
+item.thatched=Reet
+
+item.parchmentsadhu=Buch des Sadhu
+
+item.tachisword=Tachi
+
+//Errors
+ui.updateEntity=Fehler in TileEntityBuilding.updateEntity(). Überprüfe die millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Kein Text für dieses Buch gefunden
+panels.invalidid=Beschädigte Dorf-ID.
+panels.toofar=Das Dorf ist zu weit weg um Daten laden zu können.
+panels.recordsnotloaded=Die Daten des Dorfes konnten nicht geladen werden.
+panels.villagescroll=Dorfschriftrolle
+panels.mother=Mutter
+panels.father=Vater
+panels.spouse=Kind
+panels.dead=Momentan tot
+panels.missing=FEHLT!
+panels.multiple=<0> MAL ANWESEND!
+panels.currentoccupation=Aktuelle Bevölkerung
+panels.visitors=Besucher
+panels.constructions=Bauziele
+panels.upgrade=Verbesserung
+panels.buildingprojects=Bauprojekte
+panels.notyetbuilt=noch nicht gebaut
+panels.nbupgradesleft=<0> Verbesserungen übrig.
+panels.finished=fertiggestellt
+panels.houseunoccupied=Dieses Haus ist momentan unbewohnt. Jugendliche ziehen eventuell ein und werden zu Erwachsenen.
+panels.man=Mann
+panels.woman=Frau
+panels.children=Kind
+panels.nofemaleresident=Dieses Gebäude hat niemals eine weibliche Bewohnerin.
+panels.bachelor=Der Mann in diesem Gebäude ist Junggeselle. Eine Jugendliche heiratet ihn eventuell und zieht in dieses Gebäude ein.
+panels.nomaleresident=Dieses Gebäude hat niemals einen männlichen Bewohner.
+panels.spinster=Die Frau in diesem Gebäude ist noch unverheiratet. Ein Jugendlicher heiratet sie eventuell und zieht in dieses Gebäude ein.
+panels.resources=Waren
+panels.goodstraded=Handel
+panels.goodsimported=Importiert aus anderen Dörfern
+panels.goodsexported=Exportiert in andere Dörfer
+panels.innvisitors=Besucher im <0>
+panels.mappurple=Lila: Wird gebaut.
+panels.mapblue=Blau: Andere Gebäude.
+panels.mapgreen=Grün: Bebaubares Gebiet.
+panels.maplightgreen=Hellgrün: Bebaubares Gebiet, kann aber nicht zum Zentrum eines Gebäudes werden.
+panels.mapred=Rot: Gefährliches Gebiet (Lava, Kakteen, etc).
+panels.mapyellow=Gelb: Bau verboten (Eis, Artefakte).
+panels.maporange=Orange: Bau unmöglich (zu nah an einem anderen Gebäude).
+panels.maplightblue=Hellblau: Wasser.
+panels.mapbrown=Braun: Anderes Gebiet (zu hoch, etc).
+panels.merchantlist=Händlerliste
+panels.capacity=Kapazität
+panels.nbnightsin=Im Dorf seid <0> Nacht/Nächten.
+panels.storedexports=<0> lagerte folgendes für den Export
+panels.broughtimport=<0> brachte folgendes ins Dorf
+panels.startedtrading=<0> (<1>) beginnt eine Händlerkarriere.
+panels.merchantmovedout=<0> (<1>) ging nach <2> nach <3> Tagen im Dorf.
+panels.merchantarrived=<0> (<1>) kam aus <2> an.
+panels.resourcesneeded=Benötigte Güter für ein Projekt
+panels.resourcesavailable=Güter auf Lager
+panels.villageculture=<0>s Dorf
+panels.childarrived=<0> aus <1> ist angekommen um hier zu arbeiten.
+
+panels.awayraiding=Auf einem Raubzug
+panels.invaderincoming=Kommt an
+
+panels.military=Militär
+panels.planningraid=Plant Raubzug
+panels.raidinprogress=Beraubt Dorf
+panels.underattack=Wird angegriffen!
+panels.offense=Angriff: <0>
+panels.defense=Verteidigung: <0>
+panels.offenselong=Angriffskraft: <0>
+panels.defenselong=Verteidigungskraft: <0>
+panels.raidinprogresslong=Beraubt seit <1> Stunde(n) <0>.
+panels.planningraidlong=Plant seit <1> Stunde(n) einen Raubzug auf <0>.
+panels.underattacklong=Wird von <0> Feinden mit einer Stärke von <1> bis <2> angegriffen!
+panels.villagefighters=Kämpfer
+panels.attackers=Angreifer
+panels.defender=Verteidiger
+panels.raider=Räuber
+panels.health=Gesundheit
+panels.weapons=Waffe(n)
+panels.armour=Rüstung
+panels.militarystrength=Kampfstärke
+panels.unknownattacker=unbekannter Ort
+panels.raidsperformed=Raubzüge durchgeführt:
+panels.raidssuffered=Raubzüge erlitten:
+panels.unreachablebuilding=Unerreichbar!
+
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Rastet
+goal.godrink=Geht trinken
+goal.gopray=Geht beten
+goal.GatherGoods=Sammelt Rohstoffe auf
+goal.BringBackResourcesHome=Bringt Rohstoffe nach Hause
+goal.GetTool=Bekommt Werkzeug
+goal.huntMonster=Bekämpft Kreatur
+goal.getGoodsHousehold=Bekommt Haushaltswaren
+goal.DeliverGoodsHousehold=Liefert Haushaltswaren
+goal.GetHouseTHResources=Nimmt Waren aus dem Haushalt
+goal.DeliverResourcesShop=Liefert Rohstoffe
+goal.CollectCrop=Erntet Weizen
+goal.PlantSeeds=Pflanzt Weizen
+goal.ChopTrees=Fällt Bäume
+goal.PlantSaplings=Pflanzt Setzlinge
+goal.GetResourcesForBuild=Holt Baumaterialien
+goal.MakeBread=Backt Brot
+goal.BeSeller=Verkauft an den Spieler
+goal.MakeCider=Braut
+goal.Construction=Baut
+goal.GoPlay=Spielt
+goal.BecomeAdult=Wird Erwachsen
+goal.MakeTools=Schmiedet Werkzeug
+goal.Patrol=Patrulliert
+goal.Butcher=Schlachtet Tiere
+goal.MakeBoudin=Macht Boudin
+goal.MakeTripes=Macht Tripes
+goal.Mining=Betreibt Bergbau
+goal.Cooking=Kocht
+goal.MakeBooks=Macht Schriftrollen
+goal.MakeTapestry=Webt Teppich
+goal.VisitInn=Besucht eine Herberge
+goal.VisitBuilding=Besucht einen Laden
+goal.MakeAmulet=Macht ein Amulett
+goal.KeepStall=Betreibt einen Marktstand
+goal.MakeTimberFrame=Macht Fachwerk
+
+goal.DryBrick=Trocknet Lehmziegel
+goal.GatherBrick=Sammelt getrocknete Lehmziegel
+goal.CookBrick=Kocht Lehmziegel
+goal.PlantRice=Pflanzt Reis
+goal.HarvestRice=Erntet Reis
+goal.PlantTurmeric=Pflanzt Gelbwurz
+goal.HarvestTurmeric=Erntet Gelbwurz
+goal.SlaughterChicken=Schlachtet Hühner
+goal.PlantSugarCane=Pflanzt Zuckerrohr
+goal.HarvestSugarCane=Erntet Zuckerrohr
+goal.MakeRasgulla=Macht Rasgulla
+goal.MakeIndianTools=Schmiedet Werkzeug
+goal.MakeIndianWeapons=Schmiedet Waffen
+goal.scult=Bearbeitet Statue
+goal.makePainting=malt
+goal.performpujas=Führt eine Puja durch
+goal.bepujaperformer=Bereit für eine Puja
+
+goal.raidvillage=Beraubt ein Dorf
+goal.defendvillage=Verteidigt sein Dorf
+goal.hide=Versteckt sich
+
+goal.PlantMaize=Pflanzt Mais
+goal.HarvestMaize=Erntet Mais
+goal.makeGoldBlock=Macht Goldornament
+goal.sculptMayan=Bearbeitet Statue
+goal.makeobsidiantools=Macht Obsidianwerkzeug
+goal.makeobsidianflakes=Zerbricht Obsidian
+
+goal.fish=Fischt
+goal.makethatch=Macht Reet
+goal.makepaper=Macht Papier
+goal.makepaperwall=Macht Papierwand
+goal.cookfish=Kocht Fische
+goal.makeudon=Macht Udon
+goal.makejapaneseweapon=Schmiedet japanische Waffen
+
+
+//other
+other.west=Westen
+other.east=Osten
+other.north=Norden
+other.south=Süden
+
+other.tothewest=in Richtung Westen
+other.totheeast=in Richtung Osten
+other.tothenorth=in Richtung Norden
+other.tothesouth=in Richtung Süden
+
+other.west_short=W
+other.east_short=O
+other.north_short=N
+other.south_short=S
+
+other.metre=Meter
+other.kilometre=Kilometer
+other.andhalf=und einen halben
+
+other.directionshort=<1> in Richtung <0>
+other.exploredbuilding=Du hast ein Gebäude entdeckt: <0>.
+
+hire.health=Gesundheit
+hire.strength=Stärke
+hire.cost=Tageslohn
+hire.aggressive=Aggressiv
+hire.passive=Passiv
+hire.timeleft=Für <0> Stunde(n) angeheuert
+hire.hiredvillager=Du hast diesen Dorfbewohner angeheuert. Er wird dich noch <0> weitere Stunde(n) begleiten, danach erscheint er wieder in seinem Dorf.<ret><ret>Drücke '<1>' um ihn aggressiv zu machen oder drücke die linke Shift-Taste + '<1>' um ihn passiv zu machen.
+hire.hireablevillager=Du kannst diesen Dorfbewohner anheuern. Er wird dir durch die Welt folgen bis die Zeit abgelaufen ist oder bis er stirbt. Er greift Kreaturen falls sie dich verletzten oder, wenn er aggressiv eingestellt ist, auch Tiere und aggressive Dorfbewohner.
+hire.hireablevillagernoreputation=Du brauchst mindestens den Ruf "Beliebtester Händler" in diesem Dorf um diesen Bewohner anzuheuern.
+hire.extend=Zeit verlängern
+hire.release=Zurückschicken
+hire.close=Schliessen
+hire.hire=Anheuern
+hire.hireover=<0> ist in sein Dorf zurückgekehrt.
+hire.hiredied=<0> ist gestorben. Er ist wieder in sein Dorf zurückgekehrt.
+
+actions.forest_timeskip=Du hast zu viel Zeit verstreichen lassen, die Erkundungstour wurde abgebrochen.
+actions.forest_daytime=Der Tag ist angebrochen bevor du den Wald fertig erkundet hast. Du wirst auf die nächste Nacht mit der Erkundung warten müssen.
+
+actions.forest_outof=Du hast den Wald verlassen. Die Erkundungstour wurde abgebrochen.
+actions.forest_nomouvement=Du musst dich jede Stunde mindestens 50 Meter vom Startpunkt entfernen. Die Erkundungstour wurde abgebrochen.
+actions.forest_success=Du hast den Wald erfolgreich erkundet.
+actions.forest_start=Du hast angefangen, den Wald zu erkunden. Mache mindestens 5 Stunden weiter.
+actions.forest_continue=Deine Erkundungstour im Wald geht weiter. <0> Stunde(n) sind übrig.
+
+actions.desert_timeskip=Du hast zu viel Zeit verstreichen lassen, die Erkundungstour wurde abgebrochen.
+actions.desert_daytime=Der Tag ist angebrochen bevor du die Wüste fertig erkundet hast. Du wirst auf die nächste Nacht mit der Erkundung warten müssen.
+actions.desert_outof=Du hast die Wüste verlassen. Die Erkundungstour wurde abgebrochen.
+actions.desert_nomouvement=Du musst dich jede Stunde mindestens 50 Meter vom Startpunkt entfernen. Die Erkundungstour wurde abgebrochen.
+actions.desert_success=Du hast die Wüste erfolgreich erkundet.
+actions.desert_start=Du hast angefangen, die Wüste zu erkunden. Mache mindestens 5 Stunden weiter.
+actions.desert_continue=Deine Erkundungstour in der Wüste geht weiter. <0> Stunde(n) sind übrig.
+
+actions.mountain_timeskip=Du hast zu viel Zeit verstreichen lassen, die Erkundungstour wurde abgebrochen.
+actions.mountain_daytime=Der Tag ist angebrochen bevor du das Gebirge fertig erkundet hast. Du wirst auf die nächste Nacht mit der Erkundung warten müssen.
+actions.mountain_outof=Du hast das Gebirge verlassen. Die Erkundungstour wurde abgebrochen.
+actions.mountain_nomouvement=Du musst dich jede Stunde mindestens 50 Meter vom Startpunkt entfernen. Die Erkundungstour wurde abgebrochen.
+actions.mountain_success=Du hast das Gebirge erfolgreich erkundet.
+actions.mountain_start=Du hast angefangen, das Gebirge zu erkunden. Mache mindestens 5 Stunden weiter.
+actions.mountain_continue=Deine Erkundungstour im Gebirge geht weiter. <0> Stunde(n) sind übrig.
+
+actions.underwaterglass_success=Du hast das Unterwasserüberwachungsfenster erfolgreich fertiggestellt.
+actions.underwaterglass_notdeepenough=Das Meer ist hier nicht tief genug.
+
+actions.underwaterdive_success=Du bist erfolgreich zum Meeresgrund getaucht.
+
+actions.bottomoftheworld_success=Es scheint als ob es nicht mehr weitergeht. Das muss der Boden der Welt sein!
+
+actions.topoftheworld_success=Es scheint als ob es hier nicht mehr weitergeht. Das muss das Dach der Welt sein!
+
+actions.borehole_nblineok=<0> von 25 Grundgesteinblöcken wurden in den Himmel ausgesetzt. Du brauchst ein 5x5 Blöcke grosses Loch.
+actions.borehole_success=Du hast das Bohrloch erfolgreich gegraben!
+
+actions.boreholetnt_success=Es wurde genug TNT plaziert. Du kannst es nun sprengen.
+actions.boreholetnt_nbtnt=<0> von 20 TNT-Blöcken wurden plaziert und von Obsidian umgeben.
+
+actions.boreholetntlit_success=Du hast das TNT gesprengt. Beobachte, was passiert und erzähle es dem Alchemisten.
+
+actions.thevoid_success=Du hast das Nichts gesehen!
+
+
+info.culturetitle=Kulturen
+info.culture=<0> Kultur
+info.culturereputation=Ruf: <0>
+info.culturelanguage=Sprachkenntnis: <0>
+
+culturereputation.dreadful=Schrecklich
+culturereputation.bad=Schlecht
+culturereputation.stellar=Himmlisch
+culturereputation.excellent=Perfekt
+culturereputation.good=Gut
+culturereputation.decent=Dezent
+culturereputation.neutral=Neutral
+
+culturelanguage.fluent=Flüssig
+culturelanguage.moderate=Moderat
+culturelanguage.beginner=Anfänger
+culturelanguage.minimal=Minimal
+
+weapon.criticalstrike=Kritischer Hieb! <0>-facher Schaden!
+
+negationwand.villagelocked=<0> ist immernoch verschlossen. Du musst alle erwachsenen Männer töten bevor du es zerstören kannst.
+negationwand.confirmmessage=Bist du dir sicher <0> zu zerstören? Wenn du das tust, werden zwar alle Gebäude weiterhin existieren, jedoch werden alle Bewohner verschwinden.
+negationwand.confirm=Bestätigen
+negationwand.cancel=Abbrechen
+negationwand.destroyed=<0> wurde zerstört! Alle Gebäude sind nun leer und es werden nie wieder Bewohner zurückkehren.
+
+relation.excellent=Ausgezeichnet
+relation.verygood=Sehr gut
+relation.good=Gut
+relation.decent=Dezent
+relation.fair=Friedlich
+
+relation.openconflict=Offener Konflikt
+relation.atrocious=Grauenvoll
+relation.verybad=Sehr schlecht
+relation.bad=Schlecht
+relation.chilly=Angespannt
+
+relation.neutral=Neutral
+
+
+raid.planningstarted=<0> plant wahrscheinlich <1> auszurauben.
+raid.started=<0> hat einen Raubzug auf <1> begonnen! <2> Kämpfer nehmen teil.
+raid.raidsuccesfull=<0> hat <1> erfolgreich ausgeraubt und <2> Waren erbeutet!
+raid.raidfailed=<1> hat den Raubüberfall von <0> erfolgreich abgewehrt.
+raid.nothing=Nichts
+raid.historysuccess=<0> wurde erfolgreich ausgeraubt. Beute: <1>
+raid.historyraided=Von <0> ausgeraubt. Verlust: <1>
+raid.historyfailure=Ein Raubzug auf <0> wurde abgewehrt.
+raid.historydefended=Ein Raubzug von <0> wurde erfolgreich abgewehrt.
+
+hof.hof=Ruhmeshalle
+hof.modcreator=Millénaire Macher
+hof.creatorofmayan1=Macher der
+hof.creatorofmayan2=Maya
+hof.creatorofjapanese1=Macher der
+hof.creatorofjapanese2=Japaner
+hof.creatorofindianskins1=Macher der
+hof.creatorofindianskins2=indischen Skins
+hof.skinmaker=Skinner
+hof.buildingmaker=Gebäude
+hof.wikiadmin=Admin vom Wiki
+hof.armouricons=Rüstungsicons
+hof.normanarmour1=armour
+hof.normanarmour2=graphics
+hof.support1=Hilfe im
+hof.support2=Forum
+hof.frenchversion1=Hilfe bei der
+hof.frenchversion2=Französischen Version
+hof.wikicontributions=Beiträge im Wiki
+hof.improvementsjapanese1=Verbesserungen von
+hof.improvementsjapanese2=japanischen Dörfern
+hof.lonebuildings=Gebäude
+hof.obsidiantools1=Icons der
+hof.obsidiantools2=Obsidianwerkzeuge
+hof.forgecode1=Orginaler Code des
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW Macher)
+hof.forgehelp1=Hilfe beim
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Idee der
+hof.hofidea2=Ruhmeshalle
+hof.donor=Spender
+
+pujas.invanme=Pujas
+pujas.panditfee=Kosten
+pujas.offering=Opfergabe
+pujas.god0=an Hanuman - für Schnelligkeit
+pujas.god1=an Shiva - für Stärke
+pujas.god2=an Lakshmi - für Glück
+pujas.god3=an Ganesh - für Geschicklichkeit
+pujas.priestcoming=Du willst eine Puja durchführen lassen? Deine Hingabe ist bewundernswert!

@@ -1,0 +1,1 @@
+//Put new goods there in the same format as in traded_goods

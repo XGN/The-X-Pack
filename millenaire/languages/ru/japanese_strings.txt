@@ -1,0 +1,26 @@
+culture.japanese=Японцы
+
+villager.japanese_boy=Мальчик
+villager.japanese_girl=Девочка
+villager.japanese_teenagermale=Юноша
+villager.japanese_teenagerfemale=Девушка
+villager.japanese_lumberman=Дровосек
+villager.japanese_miner=Шахтер
+villager.japanese_monk=Монах
+villager.japanese_peasant=Крестьянин
+villager.japanese_peasantwife=Крестьянка
+villager.japanese_samuraigeneral=Генерал самураев
+villager.japanese_richwoman=Леди
+villager.japanese_samurai=Самурай
+villager.japanese_emperor=Император
+villager.japanese_crafter=Ремесленник
+villager.japanese_armysmith=Военный кузнец
+villager.japanese_sculptor=Скульптор
+villager.japanese_kuge=Кугэ (аристократ)
+villager.japanese_merchant=Торговец
+villager.japanese_chickenfarmer=Птицевод
+villager.japanese_smith=Кузнец
+villager.japanese_fisherman=Рыбак
+villager.japanese_farmer=Фермер
+villager.japanese_farmerchief=Главный фермер
+villager.japanese_farmwife=Жена фермера

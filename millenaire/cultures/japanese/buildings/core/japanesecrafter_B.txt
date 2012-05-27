@@ -1,0 +1,5 @@
+max:1;priority:500;native:Shugi ie;around:4;startLevel:-1;orientation:3;male:japanese_Crafter;female:japanese_PeasantWife;shop:japanesecrafter;length:14;width:17;tag:Oven;shop:japanesecrafter;priority:50
+priority:68
+priority:45
+priority:21
+priority:18

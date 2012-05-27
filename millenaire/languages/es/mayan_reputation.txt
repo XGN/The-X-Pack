@@ -1,0 +1,9 @@
+0;Extraño;No hemos visto a ningún otro con tu color de piel, necesitamos ser cautelosos.
+4*64;Cara conocida;Se advertido, nuestros guerreros mantienen sus ojos en ti.
+16*64;Visitante regular;$name!¿Ha pasado algo bueno últimamente?
+64*64;Mercader preferido;Hola, $name. Como siempre tus bienes son bien recibidos.
+2*64*64;Amigo de la aldea;$name, nos has ayudado a entrar a una era de prosperidad.
+8*64*64;Uno de nosotros;$name. Nuestros shamanes te han ungido, ahora eres uno de nosotros.
+-64;Molestia;Deja nuestras tierras. No queremos que gente como tú profane nuestras tierras.
+-4*64;Forastero indeseable;Has traído desorden y angustia a nuestra aldea.
+-16*64;Enemigo público;Has arruinado nuestro estilo de vida, esto no será tolerado.

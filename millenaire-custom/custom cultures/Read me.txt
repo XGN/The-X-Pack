@@ -1,0 +1,11 @@
+Put entirely new cultures here, with the same directory structure as the regular ones.
+
+Language files: create a "languages" directory in the directory of your custom culture. Example, for the Spanish language file of a new Viking culture:
+millenaire-custom/custom cultures/viking/languages/spanish/viking_buildings.txt
+millenaire-custom/custom cultures/viking/languages/spanish/viking_reputation.txt
+millenaire-custom/custom cultures/viking/languages/spanish/viking_sentences.txt
+
+Skins: those have to be in the "mod" directory to be loaded by ModLoader, but not necessarily in the millenaire zip file. The best is to create a new directory there (zipped or not, as you want), with the skins like this:
+mods/viking/mob/viking/VikingWarrior0.png
+
+("/mob/viking/VikingWarrior0.png" being what you put in the villager's definition file)

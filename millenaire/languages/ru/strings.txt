@@ -1,0 +1,520 @@
+
+startup.loadproblem=Ошибка при загрузке <0>.
+startup.checkload=Убедитесь, что каталог 'cultures' в 'millenaire' внутри папки '.minecraft'.
+startup.millenaireloaded=<0> загружен. Исследуйте и нажмите "v" чтобы найти деревни. Перевод на русский - Breein.
+startup.radiuswarning=ВНИМАНИЕ: вы установили слишком большой радиус деревни, возможно снижение производительности и лаги. Радиус больше 70 не рекомендуется.
+
+command.nogenerate=<0> в этом мире нет места для новых деревень.
+command.willgenerate=<0> возможно генерирование новых деревень в этом мире.
+command.astarpathing=Используется поиск пути A*.
+command.binarypathing=Используется бинарный поиск пути.
+command.minecraftpathing=Используется поиск пути Minecraft.
+command.inactive=Не активна
+command.active=Активна
+command.frozen=Заморожена
+command.villagelist=<0> (<1>) в <2> метрах на <3>.
+command.villagelistkeylonebuilding=<0> в <1> метрах на <2>.
+command.noknowvillage=Нет деревень в радиусе 2 км. Продолжайте искать!
+command.newvillagefound=Обнаружена новая деревня: <0> типа <1>, жители <2> в <3> метрах <4>.
+command.newlonebuildingfound=Обнаружено новое здание: <0> типа <1> метрах на <2>.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Закрытый сундук
+ui.largelockedchest=Большой закрытый сундук
+ui.unlockedchest=Открытый сундук
+ui.largeunlockedchest=Большой открытый сундук
+ui.allchestsunlocked=Все сундуки теперь открыты.
+ui.outofstock=Нет в наличии!
+ui.missingdeniers=Вам не хватает <0> динар.
+ui.reputationneeded=Репутация должна быть: <0>
+ui.missingequipment=Недостаточно ресурса
+ui.noneininventory=У вас нет этого в инвентаре.
+ui.selling=Продажа
+ui.buying=Покупка
+ui.buybuilding=Купить <0> (<1>)
+ui.sellercoming=Хотите что-то купить?
+ui.tradecomplete=Я надеюсь, вы остались довольны. Удачного дня!
+ui.sellerboycott=Мы больше никогда не будем торговать с тобой, бандит!
+ui.wesell=Мы продаем
+ui.webuy=Мы покупаем
+ui.isell=Я продаю
+ui.inventory=Инвентарь
+ui.villagechief=Глава деревни <0>
+ui.yourstatus=Ваш статус
+ui.possiblehousing=Возможные здания
+ui.alreadybuilt=имеется
+ui.alreadyrequested=ожидает
+ui.notavailableyet=не доступно
+ui.available=доступно
+ui.youaremissing=вам не хватает: <0>
+ui.scrollsnoreputation=Вашей репутации недостаточно для покупки карты деревни.
+ui.scrollsnotenoughmoney=Вам не хватает <0> динар, для покупки карты деревни.
+ui.scrollsok=Вы можете приобрести карту деревни.
+ui.buyscroll=Покупка карты деревни.
+ui.cost=Цена
+ui.clicktorequest=Щелкните, чтобы просить
+ui.scrollbought=У вас есть карта нашей деревни!
+ui.housebought=строительство для вас <0> скоро начнется!
+ui.inhabitantof=Житель <0>
+ui.inconstruction=Строится
+ui.nospace=Нехватка места
+ui.reservedforvillager1=Закреплено
+ui.reservedforvillager2=за жителем
+ui.currentlyempty1=Сейчас
+ui.currentlyempty2=пусто
+ui.visitorslist1=Посетители
+ui.visitorslist2=Список
+ui.goodstraded=Торговля
+ui.imports=Импорт
+ui.exports=Экспорт
+ui.import_total=Импорт
+ui.export_total=Экспорт
+ui.merchants=Торговцы
+ui.goalscompleted1=Все здания
+ui.goalscompleted2=цель достигнута!
+ui.project=Проект
+ui.noconstruction1=Ничего
+ui.noconstruction2=не строиться
+ui.upgrading=Улучшение
+ui.construction=Стройка  
+ui.population=Население
+ui.adults=Взрослые
+ui.teens=Подростки
+ui.children=Дети
+ui.villagemap=План деревни
+ui.wandwrongblock=Этот жезл работает на блоке обсидиана, для генерации случайной деревни, или:
+ui.wandblocklist=<0> - <1>
+ui.wandblocklistcontrolled=<0> - <1> (требует 'лидерство' в этой культуре)
+ui.brickinstructions=Для создания влажного кирпича необходимы 1 блок земли и 1 блок песка.
+ui.buildingscentre=Центр
+ui.buildingsstarting=Начальные строения
+ui.buildingsplayer=Строения игрока
+ui.buildingskey=Ключевые постройки
+ui.buildingssecondary=Второстепенные здания
+ui.buildingsextra=Дополнительные постройки
+ui.worldnotgenerated=Территория не полностью сгенерировалась, прогуляйтесь вокруг и попробуйте снова.
+ui.lackingresources=Сбор ресурсов
+ui.lockedchestwarning=ВНИМАНИЕ: уничтожение закрытых сундуков приведет к невозможности нормально развития деревни. Делайте это только тогда, когда уничтожаете всю деревню.
+ui.extraresneeded1=<0> другие ресурсы
+ui.extraresneeded2=требуется
+ui.woodforplanks=Дерево (любое)
+ui.woodoak=Дерево (Дуб) 
+ui.woodpine=Дерево (Сосна)
+ui.woodbirch=Дерево (Береза)
+ui.woodjungle=Дерево (Тропическое)
+ui.selectabuildingproject=Выберите проект для строительства:
+ui.projectadded=Проект добавлен в список
+ui.problemat=Есть проблема: 
+ui.constructionforbidden=строительство запрещено
+ui.locationclash=пересекает другое здание
+ui.outsideradius=вне радиуса деревни 
+ui.wrongelevation=не соответствует требуемой высоте
+ui.danger=опасный блок
+ui.unknownerror=неизвестная проблема
+ui.controlbuildingprojects=Управление проектами строительства
+ui.forbidupgrades=Остановить улучшение
+ui.allowupgrades=Разрешить улучшение
+ui.cancelbuilding=Удалить здание
+ui.level=уровень
+ui.notyetbuilt=Еще не достроено
+ui.wandnocontrol=Вы не можете создать этот тип деревни, т.к. не являетесь лидером культуры <0>.
+ui.control_ok="Услуги, которые ты оказал нашей деревне таковы, что <0> готовы признать тебя лидером! Я могу объявить об этом официально, и тогда ты сможеш основать свою деревню."
+ui.control_noreputation="Твоя репутация не достаточна, чтобы повести за собой <0>. Повысь наше доверие к тебе или сделай что-то очень важное для наших жителей."
+ui.control_alreadydone="Ты уже назначен лидером <0>."
+ui.control_get=Попросить о назначении лидером.
+ui.control_gotten="Я официально назначаю тебя достойным лидером для наших людей! Теперь, ты можешь основать свою деревню."
+ui.selectavillage=Выберите тип деревни, которую вы хотите основать
+ui.leadershipstatus=Статус лидера:
+ui.leaderin=Вы лидер культуры <0>. Вы можете создать деревню с этой культурой.
+ui.notleaderin=Вы еще не стали лидером культуры <0>.
+ui.leaderinstruction=Чтобы стать лидером культуры, нужно достичь репутации "Истинный лидер" в какой-либо деревне и попросить старосту о статусе лидера. Или завершить Основной квест для этой культуры (если он, конечно, есть!).
+ui.wandinstruction=Используйте жезл на блоке обсидиана для создания "случайной" деревни, или на блоке золота, для выбора типа деревни самостоятельно.
+ui.controlled=контроль
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.cropplantingknowledge=Вы не знаете как выращивать <0>. Вам нужно спросить у деревенского старосты.
+ui.cropsknown=Растения, которые используют в этой культуре
+ui.cropknown=Вы научились выращивать <0>.
+ui.cropinsufficientreputation=Вашей репутации недостаточно, чтобы вас начали обучать выращиванию <0>.
+ui.cropnotenoughmoney=Вам нужно еще <1> динар, чтобы начать обучение по выращиванию <0>.
+ui.cropoktolearn=В этой деревне можно научиться выращивать <0>.
+ui.croplearn=Изучать (<0>)
+ui.croplearned=Вы узнали тайны выращивания <0>!
+ui.relationlist=Отношения с другими деревнями
+ui.relationpraise=Похвала
+ui.relationslander=Клевета
+ui.relationpoints=Очков дипломатии: <0>
+ui.relationhelp=Отношения<ret><ret>Отношения между деревнями определяют уровень сотрудничества.<ret><ret>Местная торговля (перевозка товаров) возможна между деревнями одной культуры если отношения между ними "хорошие", или между деревнями разных культур, если отношения между ними "отличные".<ret><ret>Деревни разных культур с "очень хорошими" отношениями, у которых есть рынки, привлекают торговцев из других культур.<ret><ret>Деревни одной культуры с "отличными" отношениями могут меняться подростками, если имеют для них работу.<ret><ret>Отношения изначально "отличные" у дочерних деревень с основной, "хорошие" у деревень одной культуры и "нейтральные" у остальных.<ret><ret>Каждый день игрок получает 5 очков дипломатии, которые можно потратить на отношения деревень. Эффективность похвалы или клеветы зависит от его репутации в деревне.
+ui.relationfriendly=Недавние события между деревнями <0> и <1> улучшили отношения между ними. Они теперь <2>.
+ui.relationunfriendly=Недавние события между деревнями <0> и <1> ухудшили отношения между ними. Они теперь <2>.
+ui.raider=Налетчик
+ui.nbbuildings=Всего зданий: <0>
+
+
+
+quest.obtained=Получен
+quest.lackingcondition=Вам не хватает:
+quest.lackinghiddengoods=У вас нет нужных материалов.
+quest.close=Закрыть
+quest.accept=Взять квест
+quest.refuse=Отказаться
+quest.continue=Продолжить
+quest.conditionsnotmet=Вы не выполнили всех условий квеста.
+quest.lessthananhourleft=Прошло меньше часа!
+quest.timeremaining=Осталось времени:
+quest.hours=час(а)(ов)
+quest.noquestsvisible=Нет активных квестов
+quest.questlist=Активные квесты:
+quest.creationqueststatus=Статус Основного квеста:
+quest.cqnotstarted=Основной квест не взят. 
+quest.cqstartexplanation=Для начала первой главы Основного квеста, найдите деревенского жителя, который отведет вас в деревню Хинди Gaanv, где ваша репутация как минимум "Друг деревни".
+quest.cqsadhucompleted=Вы завершили первую главу Основного квеста! Чтобы начать вторую, найдите деревенского жителя, который отведет вас в Норманнскую деревню, где ваша репутация как минимум "Друг деревни".
+quest.cqcompleted=Поздравляю, вы завершили все главы Основного квеста!
+quest.cqcheckforupdates=Зайдите на www.millenaire.org за новыми квестами!
+quest.cqchaptersadhu=Сааду
+// В переводе с хинди, "sadhu", значит монах или отшельник, но здесь лучше оставить оригинал, т.к. это хорошо передает культуру.
+quest.cqchapteralchemist=Алхимик
+quest.cqinprogress=Вы завершили <1> из <2> миссий <0> главы Основного квеста.
+quest.cqcheckquestlist=Нажмите '<0>' для получения информации.
+
+//Item names
+item.building=Строение
+item.normanPickaxe=Норманнская кирка
+item.normanAxe=Норманнский топор
+item.normanShovel=Норманнская лопата
+item.normanHoe=Норманнская мотыга
+item.normanBroadsword=Норманнский палаш
+item.normanHelmet=Норманнский шлем
+item.normanPlate=Норманнский доспех
+item.normanLegs=Норманнские штаны
+item.normanBoots=Норманнские ботинки
+item.rice=Рис
+item.turmeric=Куркума
+item.vegcurry=Овощной карри
+item.chickenmeat=Курятина
+item.chickencurry=Мясной карри
+item.brickmould=Раствор плесени
+item.rasgulla=Расгулла
+item.plaintimber=Прямой каркас
+item.crosstimber=Угловой каркас
+item.wetbrick=Влажный кирпич
+item.cookedbrick=Печеный кирпич
+item.mudbrick=Грязный кирпич
+item.indianstatue=Статуя хинди
+item.ciderapple=Яблоко для сидра
+item.cider=Сидр
+item.calva=Бренди
+item.villagewand=Жезл Создателя
+item.negationwand=Жезл Разрушителя
+item.normanvillagers=Население Норманнов
+item.normanitems=Предметы Норманнов
+item.normanbuildings=Здания Норманнов
+item.normanfull=Полное описание Норманнов
+item.tapestry=Норманнский гобелен
+item.raven_amulet=Амулет "Ворона"
+item.dwarves_amulet=Амулет "Гнома"
+item.yddrasil_amulet=Амулет "Глубин"
+item.skoll_hati_amulet=Амулет "Инь-Янь"
+item.villagescroll=Карта деревни
+item.indianvillagers=Население Хинди
+item.indianitems=Предметы Хинди
+item.indianbuildings=Здания Хинди
+item.indianfull=Полное описание Хинди
+item.unknownpowder=Неизвестный порошок
+item.alchimistexplosive=Взрывчатка, полученная от Алхимика
+
+item.wah=Вах
+item.masa=Лепешка
+item.maize=Кукуруза
+item.mayangold=Золотой орнамент
+item.mayanstatue=Орнамент майя
+item.mayanvillagers=Население Майя
+item.mayanitems=Предметы Майя
+item.mayanbuildings=Здания Майя
+item.mayanfull=Полное описание майя
+item.mayanmace=Обсидиановая булава
+item.mayanPickaxe=Обсидиановая кирка
+item.mayanAxe=Обсидиановый топор
+item.mayanShovel=Обсидиановая лопата
+item.mayanHoe=Обсидиановая мотыга
+item.obsidianflake=Обсидиановая пластина
+
+item.paperwall=Бумажная стена
+item.udon=Лапша
+item.thatched=Тростниковый блок
+
+item.bookshelves=Книжная полка
+item.boudin_noir=Кровяная колбаса
+item.denier=Бронзовый динар
+item.denier_argent=Серебряный динар
+item.denier_or=Золотой динар
+
+item.parchmentsadhu=Книга Сааду
+
+item.tachisword=Тати
+
+//Errors
+ui.updateEntity=Ошибка в TileEntityBuilding.updateEntity(). Смотри millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Нет записей.
+panels.invalidid=Неверный ID деревни.
+panels.toofar=Деревня слишком далеко для того, чтобы увидеть записи о ней.
+panels.recordsnotloaded=Невозможно загрузить записи о деревне.
+panels.villagescroll=Карта деревни
+panels.mother=Мать
+panels.father=Отец
+panels.spouse=Супруга
+panels.dead=Временно мертв
+panels.awayraiding=Away Raiding
+panels.invaderincoming=Налетчики приближаются
+panels.missing=ОТСУТСТВУЕТ!
+panels.multiple=ПОВТОР <0> РАЗ!
+panels.currentoccupation=Профессия
+panels.visitors=Посетители
+panels.constructions=Постройки
+panels.upgrade=улучшение
+panels.buildingprojects=Проекты зданий
+panels.notyetbuilt=еще не построено
+panels.nbupgradesleft=<0> раз улучшено.
+panels.finished=закончено
+panels.houseunoccupied=Этот дом свободен. Дети, которые жили здесь, выросли и переселились.
+panels.man=Мужчина
+panels.woman=Женщина
+panels.children=Ребенок
+panels.nofemaleresident=В этом доме никогда не было женщины.
+panels.bachelor=Мужчина, который живет здесь - холостяк. Девочка, когда вырастет, сможет переселиться сюда.
+panels.nomaleresident=В этом доме никогда не было мужчины.
+panels.spinster=Женщина, которая живет здесь, не замужем. Мальчик, когда вырастет, сможет переселиться сюда.
+panels.resources=Ресурсы
+panels.goodstraded=Торговля
+panels.goodsimported=Куплено
+panels.goodsexported=Продано
+panels.innvisitors=Посетители <0>
+panels.mappurple=Фиолетовый: строительство в процессе.
+panels.mapblue=Синий: остальные здания.
+panels.mapgreen=Зеленый: пригодные зоны для строительства.
+panels.mapred=Красный: не пригодные зоны (Лава, кактусы и т.п.).
+panels.mapyellow=Желтый: строительство невозможно (Лед, искусственные блоки).
+panels.maporange=Оранжевый: строительство невозможно (Слишком близко к другим строениям).
+panels.maplightblue=Голубой: вода.
+panels.mapbrown=Коричневый: остальные зоны (Вне деревни и т.п.).
+panels.merchantlist=Список торговцев
+panels.capacity=Эффективность
+panels.nbnightsin=В деревне <0> ночей.
+panels.storedexports=<0> хранятся на продажу
+panels.broughtimport=<0> запасено
+panels.startedtrading=<0> (<1>) начал торговать.
+panels.merchantmovedout=<0> (<1>) переехал в <2> после <3> дней в деревне.
+panels.merchantarrived=<0> (<1>) прибыл(и) из <2>.
+panels.childarrived=<0> прибыло из <1> в поисках работы.
+panels.resourcesneeded=Ресурсы для проекта
+panels.resourcesavailable=Ресурсов на складе
+panels.villageculture=Крестьяне <0> 
+panels.military=Боевые параметры
+panels.planningraid=Планирование нападения
+panels.raidinprogress=Нападение
+panels.underattack=Атакованы!
+panels.offense=Атака: <0>
+panels.defense=Защита: <0>
+panels.offenselong=Атака: <0>
+panels.defenselong=Защита: <0>
+panels.raidinprogresslong=Нападение на <0>. Началось <1> час(а)(ов) назад.
+panels.planningraidlong=Планирование нападения на <0>. Началось <1> час(а)(ов) назад.
+panels.underattacklong=Under attack by <0> enemies of strength <1> from <2>!
+panels.villagefighters=Воины деревни
+panels.attackers=Нападающие
+panels.defender=Защитник
+panels.raider=Налетчик
+panels.health=Здоровье
+panels.weapons=Оружие
+panels.armour=Броня
+panels.militarystrength=Боевая сила
+panels.unknownattacker=неизвестная местность
+panels.raidsperformed=Удачные налеты
+panels.raidssuffered=Неудачные налеты
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Отдыхает
+goal.godrink=Идет выпить
+goal.gopray=Идет молиться
+goal.GatherGoods=Собирает ресурсы
+goal.BringBackResourcesHome=Несет ресурсы домой
+goal.GetTool=Берет инструменты
+goal.huntMonster=Сражается с монстром
+goal.getGoodsHousehold=Берет ресурсы со склада
+goal.DeliverGoodsHousehold=Несет ресурсы на склад
+goal.GetHouseTHResources=Берет ресурсы из дома
+goal.DeliverResourcesShop=Несет ресурсы домой
+goal.raidvillage=Грабит селение
+goal.defendvillage=Обороняет селение
+goal.hide=Прячется
+goal.CollectCrop=Собирает урожай
+goal.PlantSeeds=Сеет
+goal.ChopTrees=Рубит лес
+goal.PlantSaplings=Сажает деревья
+goal.GetResourcesForBuild=Берет ресурсы для строительства
+goal.MakeBread=Печет хлеб
+goal.BeSeller=Торгует с игроком
+goal.MakeCider=Делает сидр
+goal.Construction=Строит
+goal.GoPlay=Играет
+goal.BecomeAdult=Растет
+goal.MakeTools=Делает инструменты
+goal.Patrol=Патрулирует
+goal.Butcher=Разделывает мясо
+goal.MakeBoudin=Снимает шкуры
+goal.MakeTripes=Вырезает орнамент
+goal.Mining=Копает
+goal.Cooking=Готовит
+goal.MakeBooks=Переписывает книги
+goal.MakeTapestry=Шьет гобелен
+goal.VisitInn=Идет в гостиницу
+goal.VisitBuilding=Идет в магазин
+goal.MakeAmulet=Делает амулет
+goal.KeepStall=Удерживает позицию
+goal.MakeTimberFrame=Делает каркасы
+goal.DryBrick=Ставит кирпич на сушку
+goal.GatherBrick=Собирает высушенный кирпич
+goal.CookBrick=Делает кирпич
+goal.PlantRice=Сажает рис
+goal.HarvestRice=Собирает рис
+goal.PlantTurmeric=Сажает куркуму
+goal.HarvestTurmeric=Собирает куркуму
+goal.SlaughterChicken=Режет курицу
+goal.PlantSugarCane=Сажает сахарный тростник
+goal.HarvestSugarCane=Собирает сахарный тростник
+goal.MakeRasgulla=Делает расгуллу
+goal.MakeIndianTools=Делает инструменты
+goal.MakeIndianWeapons=Делает оружие
+goal.scult=Создает скульптуру
+
+goal.PlantMaize=Сажает кукурузу
+goal.HarvestMaize=Собирает кукурузу
+goal.makeGoldBlock=Делает золотые украшения
+goal.sculptMayan=Создает статую
+goal.makeobsidiantools=Создает обсидиановые инструменты
+goal.makeobsidianflakes=Раскалывает обсидиан на пластинки 
+
+goal.fish=Ловит рыбу
+goal.makethatch=Собирает тростник
+goal.makepaper=Делает бумагу
+goal.makepaperwall=Делает "бумажную стену"
+goal.cookfish=Готовит рыбу
+goal.makeudon=Делает лапшу
+goal.makejapaneseweapon= Делает японское оружие
+
+
+//other
+other.west=Запад
+other.east=Восток
+other.north=Север
+other.south=Юг
+
+other.west_short=З
+other.east_short=В
+other.north_short=С
+other.south_short=Ю
+
+other.metre=метры
+other.kilometre=километры
+other.andhalf=более 
+
+other.directionshort=<1> от <0>
+other.exploredbuilding=Вы исследовали здание: <0>.
+
+hire.health=Здоровье
+hire.strength=Сила
+hire.cost=Цена (в день)
+hire.aggressive=Агрессивный
+hire.passive=Пассивный
+hire.timeleft=Нанят на <0> час(ов)
+hire.hiredvillager=Этот крестьянин нанят на работу. Он будет работать на вас в течении <0> часов, или пока не умрет и воскреснет в своей деревне.<ret><ret>Нажмите '<1>' чтобы сделать его агрессивным или Левый шифт+'<1>' чтобы сделать его пассивным.
+hire.hireablevillager=Вы можете нанять этого крестьянина. Он будет следовать за вами, пока не закончится время найма или пока не умрет. В пассивном состоянии он будет атаковать существ, которые атакуют вас, а в агрессивном - существ и NPC, которые находятся поблизости.
+hire.hireablevillagernoreputation=Чтобы нанять этого крестьянина, ваш статус в этой деревне должен быть, хотя бы, "Популярный торговец".
+hire.extend=Расширить
+hire.release=Уволить
+hire.close=Закрыть
+hire.hire=Нанять
+hire.hireover=Время найма <0> истекло. Он возвращается в свою деревню.
+hire.hiredied=<0> умер. Он воскреснет в своей деревне.
+
+actions.forest_success=Вы успешно обследовали лес.
+actions.forest_continue=Обследование леса завершено на <0>%.
+
+actions.desert_success=Вы успешно обследовали пустыню.
+actions.desert_continue=Обследование пустыни завершено на <0>%.
+
+actions.mountain_success=Вы успешно обследовали горы.
+actions.mountain_continue=Обследование гор завершено на <0>%.
+
+actions.underwaterglass_success=Вы успешно построили глубоководную камеру.
+actions.underwaterglass_notdeepenough=Здесь слишком мелко для погружения.
+
+actions.underwaterdive_success=Вы успешно погрузились в океан.
+
+actions.bottomoftheworld_success=Похоже, дальше копать некуда. Перед вами коренная порода - Основа!
+
+actions.topoftheworld_success=Похоже, выше вам не подняться. Это максимальная высота мира!
+
+actions.borehole_nblineok=Раскопано <0> блок(а)(ов) основы. Вам нужен квадрат 5x5 блоков - 25 блоков всего.
+actions.borehole_success=Вы успешно выкопали скважину!
+
+actions.boreholetnt_success=TNT вполне хватит. Можно подрывать!
+actions.boreholetnt_nbtnt=<0> блок(а)(ов) TNT установлено и накрыто обсидианом. Всего нужно 20.
+
+actions.boreholetntlit_success=Взрыв TNT прошел удачно. Изучите результат и сообщите о нем алхимику.
+
+actions.thevoid_success=Вы всмотрелись в Бездну!
+
+
+
+info.culturetitle=Культуры
+info.culture=<0>
+info.culturereputation=Репутация: <0>
+info.culturelanguage=Владение языком: <0>
+
+culturereputation.dreadful=Ужасная
+culturereputation.bad=Плохая
+culturereputation.stellar=Блестящая
+culturereputation.excellent=Отличная
+culturereputation.good=Хорошая
+culturereputation.decent=Не плохая
+culturereputation.neutral=Нейтральная
+
+culturelanguage.fluent=Свободное
+culturelanguage.moderate=Среднее
+culturelanguage.beginner=Начальное
+culturelanguage.minimal=Минимальное
+
+
+weapon.criticalstrike=Критическое попадание! <0>-ной урон!
+
+negationwand.villagelocked=Деревня <0> заблокирована. Вы не сможете уничтожить ее, пока там есть хотябы один взрослый мужчина.
+negationwand.confirmmessage=Уверены, что хотите уничтожить <0>? После уничтожения, здания останутся на месте, но жители исчезнут навсегда.
+negationwand.confirm=Да
+negationwand.cancel=Нет
+negationwand.destroyed=Деревня <0> уничтожена! Теперь эти здания лишь пустые коробки, в которых уже никто не поселится.
+
+relation.excellent=Отличные
+relation.verygood=Очень хорошие
+relation.good=Хорошие
+relation.decent=Неплохие
+relation.fair=Теплые
+
+relation.openconflict=Ужасные (Война!)
+relation.atrocious=Враждебные
+relation.verybad=Очень плохие
+relation.bad=Плохие
+relation.chilly=Холодные
+
+relation.neutral=Нейтральные
+
+raid.planningstarted=<0> планирует напасть на <1>.
+raid.started=<0> напала на <1>! Учавствует <2> воин(а)(ов).
+raid.raidsuccesfull=<0> успешно совершила налет на <1>, отнято <2> товаров!
+raid.raidfailed=<1> успешно отбила налет <0>.
+raid.nothing=Ничего
+raid.historysuccess=Разграблено селений: <0>. Отнято товаров: <1>
+raid.historyraided=Налетчики: <0>. Отняли товаров: <1>
+raid.historyfailure=Налет на <0> провалился.
+raid.historydefended=Налет <0> - успешно отбит.

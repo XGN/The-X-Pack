@@ -1,0 +1,39 @@
+﻿
+
+brickkiln_A0=Fornace per mattoni
+chiefhouse_A0=Casa del capo
+fort_A0=Fortezza
+fort_A_forge_A0=Fucina della fortezza
+fort_A_soldierhouse_A0=Caserma
+grove_A0=Boschetto
+lumbermanhouse_A0=Casa del boscaiolo
+paddy_A0=Risaia
+pandithouse_A0=Casa del sacerdote
+peasanthouse_A0=Casa del contadino
+peasanthouse_B0=Casa del contadino
+peasanthouse_C0=Casa del contadino
+playerhugefield_A0=Terreno enorme
+playerlargefield_A0=Terreno grande
+playersmallfield_A0=Terreno piccolo
+playersmallhouse_A0=Piccola casa
+quarry_A0=Cava
+quarry_B0=Cava 
+soldierhouse_A0=Casa dei soldati
+sugarplantation_A0=Piantagione di zucchero
+villagetemple_A0=Tempio
+playerestate_A0=Villa
+spicegarden_A0=Giardino per le spezie
+forge_A0=Fucina
+armyforge_A0=Fucina militare
+scultorhouse_A0=Casa dello scultore
+archives_A0=Archivio del tempio
+palace_A0=Palazzo
+guesthouse_A0=Piccola locanda
+inn_A0=Locanda
+largepeasanthouse_A0=Casa di grandi dimensioni
+largepeasanthouse_A_secondary_A0=Casa secondaria
+
+
+//extra buildings:
+well_A0=Pozzo
+

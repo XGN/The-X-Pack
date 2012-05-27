@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=startvillager,type=hindi/indian_pandit
+forbiddentag:sadhu_11b_done
+requiredtag:sadhu_11b_start
+
+step:new
+villager:startvillager
+duration:5
+requiredgood:paper,1
+setglobaltagsuccess:sadhu_11b_done
+setglobaltagsuccess:pujas

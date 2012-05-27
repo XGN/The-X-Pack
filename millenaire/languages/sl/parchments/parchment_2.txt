@@ -1,0 +1,45 @@
+Zgradbe v Millénaire
+
+Dvorec. V vojaskih vaseh ta dvorec zamenja mestno hiso. Tukaj zivita kralj in kraljica. Z dovolj kamna jo bodo vascani spremenili v mogocen kamniti dvorec.
+
+Grascina. V centru agrokulturnih vaseh, v tej grascini zivi seneshal, ki skrbi za to, da prebivalci placujejo davke kralju - in njemu.
+
+Obcinski arhiv. Pokaze napis za vsakega prebivalca, ki pokaze kaj dela in zgodovino njegove druzine.
+
+Orozarnica. Ko je notri kovac, je kovacnica koristna za orodja in orozja.
+
+Pekarna. V njej zivi zenska, ki pece kruh iz kmetovih pridelkov. Zelo pomembna zgradba, saj vec kot je kruha bolje otroci rastejo.
+
+Govedoreja. Tukaj so krave, ki jih uporabljajo za pridobivanje usnja.
+
+Prasicja farma. Tukaj se pujsi spremenijo v veliko kose svinjine.
+
+Ovcja farma. Tukaj ovce izkoriscajo za pridobivanje volne. Majhno ograjeno obmocje zadrzuje kokoske, ki jih izkoriscajo za peresa in jajca.
+
+Kapela / Cerkev. Kapela, pozneje se nadgradi v cerkev, se uporablja za moljenje. Ponavadi prebivalci molijo zjutraj.
+
+Farma. Zitna farma, kjer kmet proizvaja zito za pekarno.
+
+Kovacnica. Ko se notri naseli kovac, se zacne ustvarjati orodja, ki jih lahko zacnejo uporabljati drugi prebivalci, igralec ($name) pa jih lahko kupi.
+
+Strazarnica. Notri zivita strazar in njegova zena.
+
+Gozdarjeva koca. Notri zivita gozdar in njegova zena.
+
+Prezbiterij. Notri zivi duhovnik.
+
+Kamnolom. Notri zivita rudar in njegova zena, tam tudi rudar proizvaja minerale.
+
+Tesarjeva hisa. Notri zivita tesar in njegova zena.
+
+Krcma. Tam zenska proizvaja jabolcnik, pozneje, ko je topilo, se calvo. Tja hosijo tudi vascani na pijaco.
+
+Gostilna. Zasedli jo bodo potujoci trgovcu, ki trenutno prodajajo v tej vasi. Ce je gostilna prazna, lahku tukaj najstnik postane gostilnical.
+
+Hisa za goste. Manjsa kot gostilna, lahko gostuje potujocega trgovca le da se notri ne bo priselil noben najstnik.
+
+Trg. Vsaka vas si zeli trg saj tja pridejo trgovci in prodajajo ekstoicne predmete!
+
+Opazovalni stolp. Razgledna tocka, ki jo obisce strazar, ko je na strazi.
+
+Fontana / Velika fontana : Cisto dekorativne zgradbe.

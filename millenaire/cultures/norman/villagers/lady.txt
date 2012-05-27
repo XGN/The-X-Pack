@@ -1,0 +1,15 @@
+native_name=Dame
+gender=female
+familyNameList=noble_family_names
+firstNameList=women_names
+baseheight=0.9
+tag=seller
+
+texture=/mob/norman/ML_Lady0.png
+texture=/mob/norman/ML_Lady1.png
+
+goal=gorest
+goal=gopray
+goal=makeTapestry
+
+

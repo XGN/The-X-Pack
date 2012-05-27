@@ -1,0 +1,43 @@
+villager.greeting=Kon'nichiwa, $name-ji! / Здравствуй, $name-дзи!
+villager.greeting=Yaa!. / Привет!
+villager.greeting=Ogenki desuka, $name-ji  / Как твои дела, $name-дзи?
+villager.greeting=Saikin nai desuka? / Что нового?
+villager.greeting=Dono yo ni anata no sosen wa? / Как поживают твои родители?
+villager.greeting=Aisatsu ryoko. / Приветствую путешественник.
+villager.greeting=Anata wa doko kara kuru no ka? / Откуда ты?
+
+villager.gorest=Watashi wa ima yasuma hitsuya ga arimasu. / Мне нужно отдохнуть.
+villager.gorest=A, sore wa watashi no shushin jikandesu. / Эх, пора спать.
+villager.gorest=Watashi mo keizoku shite tsukareta. / Время отдыха, продолжим завтра.
+
+villager.gopray=Watashi wa, watashi-tachi no sosen ga hosaku motarasu koto o. / Я буду молиться предкам о хорошем урожае.
+villager.gopray=Rei wa watashi-tachi o hozon suru. / Духи охраняют нас.
+
+villager.BringBackResourcesHome=Sagyo no shigoto o hataraku... / работа, работа, работа...
+villager.ChopTrees=Watashi wa ikutsu ka no ki o rogu ni kiroku shiyou to omoimasu. Надо срубить несколько деревьев.
+villager.GatherGoods=Sore wa, busshi o atsumeru tame ni watashi no shigotodesu. / Сбор пищи - моя работа.
+villager.PlantSaplings=Watashi wa ki o ueru no ga daisuki. / Люблю сажать деревья.
+
+villager.SlaughterChicken=Anata no shi wa, jomyaku de niwatorideatte wa naranai! / Твоя смерть не будет напрасной, птичка!
+
+villager.GetHouseResources=Watashi wa ie kara nani ka o shutoku suru hitsuyo ga arimasu. / Нужно взять кое-что из дома.
+villager.GetGoodsHousold=Korera wa, watashiga jitaku de hitsuyona monodesu. / Это мне дома пригодится.
+villager.DeliverGoodsHousold=Watashi wa shokuryo-hin o motte iru. / У меня есть продукты.
+
+
+villager.GetResourcesForBuild=Watashi wa yori oku nno zairyo o hitsuyo to suru. / Мне нужно больше материалов.
+villager.ConstructionStepByStep=Watashi wa chichi kara kechiku o mananda. / Отец обучил меня строительству.
+villager.ConstructionStepByStep=Watashi wa, masutaakitekuto gozen. / Я великий архитектор!
+
+villager.GoPlay=Watashi wa taikutsuda, watashi gemu o purei shitai. / Мне скучно, поиграть бы во что-то.
+villager.BecomeAdult=Seicho suru jikan. / Пора стать взрослым...
+male.BecomeAdult=kokina bushi ni naritai. /Я хочу стать благородным Самураем.
+female.BecomeAdult=Watashi wa watashi no otto wa idaina meiyo no hitodearu koto o nozomu. / Надеюсь, моим мужем станет человек чести.
+villager.gopray.chosen=Anata no kokoro o shizumeru. / Просвети свой разум.
+
+villager.calltoarms=Anata no Shogun o mamoru. / Защищайте Сегуна!
+villager.calltoarms=Karera wa watashi-tachi o kogeki shita ichi-nichi o kokai suru! / Они пожалеют об этом нападении!
+villager.calltoarms=Ude Ni! / К оружию!
+
+villager.MakeTools=Watashi wa tochi de saiko no tsuru o komyo ni tsukuru. / Я делаю лучшие инструменты в этих краях.
+villager.MakeWeapons=Watashi wa tochi de saiko no buredo o komyo ni tsukuru. /У меня лучшие мечи в округе!

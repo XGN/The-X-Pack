@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=alchemist,type=norman/alchemist
+forbiddentag:alchemist_2_meeting
+requiredtag:alchemist_1_intro
+
+step:new
+villager:alchemist
+duration:48
+setglobaltagsuccess:alchemist_2_meeting
+setactiondatasuccess:alchemistqueststatus,2

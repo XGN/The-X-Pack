@@ -1,0 +1,18 @@
+﻿***Instalación de Millénaire***
+
+- Instale la versión más actualizada de ModLoader
+- Borre la carpeta META.inf en minecraft.jar
+- Copie el contenido de la carpeta "put in minecraft folder" a la carpeta .minecraft (.minecraft en windows)(junto a las carpetas bin, texturepacks, saves...)
+- Copie el archivo ZIP "Put in mods folder" en .minecrat/mods (sin extraer). En caso de que no tenga una carpeta mods, cree una.
+- Ya no es necesario adicionar archivos a minecraft.jar como antes. Todos esos archivos están contenidos en el ZIP de la carpeta mods.
+
+Cuando el mod es instalado correctamente, aparecerá un mensaje cada vez que cargue un mundo: "Millénaire está cargado. Explora y presiona 'v' para encontrar las aldeas."
+
+***Actualización de Millénaire***
+
+- En caso de no haber modificado ningún archivo de Millénaire, simplemente elimine la carpeta antigua de Millénaire y el archivo ZIP y substituya por los nuevos archivos, en el mismo proceso descrito arriba
+
+***¿Necesita ayuda?***
+
+Busque su duda en la siguiente dirección http://millenaire.org/wiki/, y especialmente en la sección FAQ donde muchas dudas y preguntas comunes sobre la instalación o el juego son respondidas (en inglés). Si no consigue resolver su problema, no dude en preguntar en el tópic de Millénaire en el Minecraft Forum: http://www.minecraftforum.net/forum.
+

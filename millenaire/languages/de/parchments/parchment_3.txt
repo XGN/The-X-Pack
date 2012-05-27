@@ -1,0 +1,55 @@
+version:1.1.4
+Millénaire: Normannische Objekte
+
+Denar. Mittelalterliche Währung. Es gibt drei Arten: normale, silberne (Argent), die 64 normale Wert sind, und goldene (Or) worth 64 silver ones.
+
+Cidre-Apfel. Dieser ansonsten unbrauchbare Apfel wird von Holzfällern für Cidre und Calvados benutzt. Er kann auch vom Spieler gekauft werden, jedoch kann dieser dann nur an andere Dörfer verkaufen.
+NEW_PAGE
+Speisen und Getränke
+
+Cidre. Wird aus Cidre-Äpfeln gemacht. Diese zwei Punkte der Hungerleiste heilende Erfrischung kann drei Mal benutzt werden.
+
+Calvados. Dieser normannische Apfelwein heilt zwei Punkte der Hungerleiste und kann zehn Mal benutzt werden. Das Getränk wird in der Taverne aus Cidre destilliert und ausserhalb von Millénaire sollte man nur kleine Mengen davon zu trinken: Er kann bis zu 45% Alkohol enthalten.
+
+Tripes. Diese bekannte, normannische Feinkost ist genau das richtige nach einem anstrengenden Tag in der Kälte oder einem harten Minecraftherbst. Die drei Portionen heilen je fünf Punkte auf der Hungerleiste. Doch sei gewarnt: Nicht-Normannen mögen Tripes lieber, wenn sie nicht wissen, was es ist.
+
+Boudin Noir. Fast so gut wie Tripes heilt es nur drei Punkte der Hungerleiste, kann aber drei Mal benutzt werden. Wie ihre Verwandte, die deutsche Blutwurst, scheint sie eher von Leuten genossen zu werde, die nicht wissen, aus was sie gemacht ist.
+NEW_PAGE
+Werkzeuge & Waffen
+
+Normannische Schaufel. Diese qualitativ hochwertige Schaufel ist so halbar wie nomale Eisenwerkzeuge, baut aber Blöcke so schnell wie die goldene Schaufel ab. Das Wunschwerkzeug für ernsthafte Gräber, erwerbar in der Schmiede deines Vertrauens!
+
+Normannische Spitzhacke. Diese Spitzhacke baut Blöcke so schnell wie die goldene Version ab - aber ist so haltbar wie Eisen! Perfekt für lange Bergbau-Expeditionen! Aber sei trotzdem vorsichtig, denn sie baut kein Obsidian ab.
+
+Normannische Axt. So schnell wie eine goldene Axt, so haltbar wie eine eiserne Axt, schafft sie eine Menge Bäume in einer beächtlichen Zeit. Besonders in den Händen eines Aggresiven Holzfällers.
+
+Normannische Hacke. An sich genau wie die Diamantversion, ist aber cooler.
+
+Normannische Rüstung. Die normannische Rüstung gibt dir 50% mehr Verteidigung als die Diamantrüstung und lässt dich gefährlich aussehen, anstatt so bunt auszusehen als wäre es Fasching.
+
+Normannisches Breitschwert. Teuer, sehr teuer, aber jeden Denar wert wenn du damit einem starken Gegner gegenüberstehst.
+NEW_PAGE
+Konstruktion & Dekoration
+Fachwerk. Dieses Baumaterial besteht aus Balken aus dunklem Holz, die den Kern aus Lehm oder Erde stabilisieren. Wird von Schreinern hergestellt und für Gebäude benötigt, aber es wird auch an Fremde verkauft.
+
+Normannischer Wandteppich. Handgemacht von edlen Damen aus den Festungen, dekorieren diese beeindruckenden Wandteppiche die prächtigsten Gebäude. Inspiriert von Wandteppichen aus Bayeux, mit einer 15*3 grossen Abbildung von der Flotte von Wilhelm des Erobereres, die nach England segelte.
+NEW_PAGE
+Amulette
+
+Amulett des Yggrasil. Das Symbol Yggrasils, des Weltbaumes der nordischen Mythologie, dessen Wurzeln bis in das tiefste Gestein reichen und dessen Äste den Himmel tragen, eingraviert und zeigt dir immer wie tief oder hoch du dich befindest.
+
+Amulett des Raben. Normannische Priester sind zwar der Kirche und dem Papst in Rom treu ergeben, doch sie haben nicht die alten nordischen Traditionen und Bräuche vergessen... Dieses Amulett, welches dem Odin geweiht ist, warnt dich vor gefahren, indem es sich blutrot verfärbt. Du kannst es benutzten um dich vor Kreaturen zu schützen - oder um sie auszulöschen!
+
+Amulett der Zwerge. Von den Wikingern aus dem hohen Norden gebracht und geformt wie Thors Hammer geleitet dich dieses Amulett zu den Reichtümern der Erde.
+
+Amulett des Sköll und des Rati. Es bezieht seine Kraft von Sköll und Hati, den legendären Wölfen die Sonne und Mond jagen. So erhält der Träger die Macht, den Tag zur Nacht und die Nacht zum Tag zu machen. Doch seine Kraft ist nicht unbegrenzt, also sei gewarnt.
+NEW_PAGE
+Informationsrollen
+
+Normannische Bewohner. Enthält Informationen über die normannischen Dorfbewohner.
+
+Normannische Gebäude. Enthält Informationen über die normannischen Gebäude.
+
+Normannische Objekte. Enthält Informationen über die normannischen Gegenstände.
+
+Die Normannen. Als ultimativer Fremdenführer enthält diese Schriftrolle den Inhalt der drei anderen Rollen praktisch in einer Schriftrolle.

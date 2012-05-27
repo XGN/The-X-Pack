@@ -1,0 +1,121 @@
+//Item key, then item id, then item meta, then in-game label
+
+wood: 17/0/Wood
+arrow: 262/0/Arrow
+feather: 288/0/Feather
+dye_lightgray: 351/7/Light Gray Dye
+wool_green: 35/13/Green Wool
+cider: 1775/0/Cidre
+bread: 297/0/Bread
+dye_black: 351/0/Ink Sac
+steelpickaxe: 257/0/Iron Pickaxe
+wool_purple: 35/10/Purple Wool
+sapling_pine: 6/1/Sapling
+wood_birch: 17/2/Wood
+timberframe_cross: 124/1/Colombages à croix
+woodsword: 268/0/Wooden Sword
+steelhelmet: 306/0/Iron Helmet
+parchmentitems: 1790/0/Objets normands
+dye_green: 351/2/Cactus Green
+dye_yellow: 351/11/Dandelion Yellow
+wool_lightgray: 35/8/Light Gray Wool
+calva: 1776/0/Calva
+wool_brown: 35/12/Brown Wool
+yddrasilamulet: 1796/0/Amulette d'Yddrasil
+wool_black: 35/15/Black Wool
+wool_white: 35/0/Wool
+wool_red: 35/14/Red Wool
+sapling_birch: 6/2/Sapling
+dye_lightblue: 351/12/Light Blue Dye
+villagewand: 1782/0/Baguette d'invocation
+mudbrick: 122/1/Brique de terre
+steelchest: 307/0/Iron Chestplate
+iron: 265/0/Iron Ingot
+ravenamulet: 1794/0/Amulette du Corbeau
+parchmentcomplete: 1791/0/Parchemin normand complet
+indianstatue: 1806/0/Statue Hindoue
+diamondhelmet: 310/0/Diamond Helmet
+woodaxe: 271/0/Wooden Axe
+parchmentindianvillagers: 1807/0/Villageois indiens
+seeds: 295/0/Seeds
+gold: 266/0/Gold Ingot
+painting: 321/0/Painting
+dye_magenta: 351/13/Magenta Dye
+sand: 12/0/Sand
+bookshelves: 47/0/Bookshelf
+dye_red: 351/1/Rose Red
+normanboots: 1787/0/Bottes normandes
+wool_orange: 35/1/Orange Wool
+tripes: 1777/0/Tripes
+wool_lightblue: 35/3/Light Blue Wool
+dye_pink: 351/9/Pink Dye
+wool_cyan: 35/9/Cyan Wool
+ciderapple: 1774/0/Pomme à cidre
+dye_blue: 351/4/Lapis Lazuli
+normanhelmet: 1784/0/Casque normand
+woodshovel: 269/0/Wooden Shovel
+cookedbrick: 122/0/Brique cuite
+wood_pine: 17/1/Wood
+cactus: 81/0/Cactus
+normanshovel: 1780/0/Pelle normande
+brickmould: 1804/0/Moule à briques
+parchmentbuildings: 1789/0/Bâtiments normands
+steellegs: 308/0/Iron Leggings
+stone: 1/0/Stone
+egg: 344/0/Egg
+steelshovel: 256/0/Iron Shovel
+woodhoe: 290/0/Wooden Hoe
+timberframe_plain: 124/0/Colombages
+steelaxe: 258/0/Iron Axe
+yellowflower: 37/0/Flower
+parchmentvillagers: 1788/0/Villageois normands
+normanhoe: 1781/0/Houe normande
+leather: 334/0/Leather
+cobblestone: 4/0/Cobblestone
+redflower: 38/0/Rose
+cake: 92/0/Cake
+wool_blue: 35/11/Blue Wool
+pumpkin: 86/0/Pumpkin
+porkchops: 319/0/Raw Porkchop
+steelhoe: 292/0/Iron Hoe
+parchmentindianbuildings: 1808/0/Bâtiments indiens
+dye_orange: 351/14/Orange Dye
+diamondchest: 311/0/Diamond Chestplate
+woodpickaxe: 270/0/Wooden Pickaxe
+cookedfish: 350/0/Cooked Fish
+steelsword: 267/0/Iron Sword
+normanchest: 1785/0/Cuirasse normande
+wool_yellow: 35/4/Yellow Wool
+skollhatiamulet: 1797/0/Amulette de Sköll et Hati
+turmeric: 1800/0/Curcuma
+wool_pink: 35/6/Pink Wool
+dwarvesamulet: 1795/0/Amulette des Nains
+dye_purple: 351/5/Purple Dye
+dye_gray: 351/8/Gray Dye
+rasgulla: 1805/0/Rasgulla
+tapestry: 1793/0/Tapisserie normande
+sandstone: 24/0/Sandstone
+parchmentindianitems: 1809/0/Objets indiens
+normanaxe: 1779/0/Hâche normande
+wool_magenta: 35/2/Magenta Wool
+sugarcane: 338/0/Sugar Canes
+diamondsword: 276/0/Diamond Sword
+diamond: 264/0/Diamond
+dye_white: 351/15/Bone Meal
+glass: 20/0/Glass
+chickenmeat: 1802/0/Viande de poulet
+parchmentindiancomplete: 1810/0/Parchement indien complet
+wheat: 296/0/Wheat
+diamondlegs: 312/0/Diamond Leggings
+rice: 1799/0/Riz
+dye_cyan: 351/6/Cyan Dye
+sapling: 6/0/Sapling
+diamondboots: 313/0/Diamond Boots
+dye_brown: 351/3/Cocoa Beans
+wool_gray: 35/7/Gray Wool
+normanbroadsword: 1783/0/Epée normande
+normanpickaxe: 1778/0/Pioche normande
+bow: 261/0/Bow
+normanlegs: 1786/0/Cuissardes normandes
+steelboots: 309/0/Iron Boots
+boudin: 1792/0/Boudin noir

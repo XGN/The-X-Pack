@@ -1,0 +1,9 @@
+0;Vreemdeling;Wij zijn niet gewend aan buitenlanders in ons afgelegen dorp.
+4*64;Bekend gezicht;Tot nu toe heb je je niet schuldig gemaakt aan een grote overtreding.
+16*64;Vaste bezoeker;Namaste, $name! Wat voor nieuws kom je brengen?
+64*64;Favoriete handelaar;Welkom terug, $name. Wat heeft U meegenomen om te handelen?
+2*64*64;Vriend van het dorp;$name-ji, wij zien U als een vriend van ons.
+8*64*64;Een van ons;Ik had nooit gedacht dat een buitenlander geaccepteerd zou worden in dit dorp, maar $name-ji, U bent nu een van ons!
+-64;Overlast;Wij zijn niet zo gek op buitenlanders hier, zeker van jou soort.
+-4*64;Ongewenste buitenstaander;Wie jou heeft opgevoed heeft, heeft het slecht gedaan. Wij hopen dat je weer snel weg bent.
+-16*64;Volksvijand;Elke ochtend bid ik tot de godin in de hoop dat ik jou gezicht niet meer hoef te zien.

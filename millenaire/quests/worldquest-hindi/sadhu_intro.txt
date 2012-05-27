@@ -1,0 +1,16 @@
+minreputation:2*64*64
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=startvillager,type=hindi/indian_pandit
+forbiddentag:sadhu_intro
+
+step:new
+villager:startvillager
+duration:48
+setactiondatasuccess:sadhuqueststatus,1
+setglobaltagsuccess:sadhu_intro
+
+step:new
+villager:startvillager
+duration:1000
+steprequiredtag:sadhu_first

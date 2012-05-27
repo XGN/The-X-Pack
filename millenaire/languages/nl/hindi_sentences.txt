@@ -1,0 +1,57 @@
+
+
+villager.greeting=Namaste, $name-ji! / Gegroet, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Het is erg warm vandaag.
+villager.greeting=Kya haal hai? / Hoe gaat het?
+villager.greeting=Kya khabar hai? / Nog nieuws?
+villager.greeting=Ghar par sa theek hain? / Is iedereen gezond thuis?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Waarom regent het niet?
+villager.greeting=Kya tum se kale pani se pare ho? / Kom je van de andere kant van de oceaan?
+indian_pandit.greeting=Jeetey raho. / Heb een lang leven.
+
+male.gorest=Ab jaakey aaram karta hoon. / Nu ga ik rusten.
+male.gorest=Subah sey kaam kar raha hoon. / Ik heb gewerkt sinds vanochtend.
+male.gorest=Main thak gaya hoon. / Ik ben uitgeput.
+
+female.gorest=Ab jaakey aaram karti hoon. / Nu ga ik rusten.
+female.gorest=Subah sey kaam kar rahi hoon. / Ik heb gewerkt sinds vanochtend.
+female.gorest=Main thak gayi hoon. / Ik ben uitgeput.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Lieve God, Moge de oogst goed zijn deze keer.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / God, U bent onze enige hoop.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Het zal moeilijk worden al dit hout naar huis te dragen.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Het lijkt erop dat ik mijn hele leven zal houthakken.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Nu zal ik al het hout verzamelen.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Hoe meer bomen die ik plant, hoe makkelijker leven later zal zijn. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Hoeveel bakstenen heb je nodig voor een huis? 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / De zon is sterk, ze drogen snel vandaag. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Kijk hoe mooi die bakstenen er uit zien in het vuur.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Als het heel hard regent zal de oogst goed zijn dit jaar.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Vanwege de regen is de oogst goed dit keer.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Iedereen heeft tenslotte kurkuma nodig.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Dit kurkuma oogsten maakt mijn handen geel.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Ik heb genoeg vegetarische curry gehad!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Alles komt altijd terecht in het huis van de landheer. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Het maakt niet uit hoeveel je voor je familie haalt, het is nooit genoeg!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Hoe kan ik al dit voedsel zelf dragen?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / De kinderen houden van rasgullas.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Eens kijken, een ton bakstenen, twee ton stenen...
+indian_peasant.Construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindoe-architectuur is bekend over de hele wereld.
+indian_peasant.Construction=Iskey baad, main lal kila banaoonga. / Als ik hier klaar mee ben zal ik een rood fort maken. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Ik hou van spelen in modder.
+villager.BecomeAdult= Khel kud bahut ho gaya, ab kaam par chalo. / Genoeg gespeeld, tijd om te werken.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Ik wou een grote krijger worden toen ik jong was...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Ik droomde van het trouwen met een prins...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Tijd om de tempel weer te bezoeken.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Als ik niet op de tempel let, wie wel?
+
+villager.calltoarms=Jeet hamari hoogi. / De overwinning zal voor ons zijn.
+villager.calltoarms=Dushmano ki haar. / Nederlaag aan de vijand!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Iedereen te wapen!

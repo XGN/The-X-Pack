@@ -1,0 +1,92 @@
+﻿villager.greeting=Bonjour, $name! / Привет, $name!
+villager.greeting=Belle journée, n'est pas? / Хороший день, неправда ли?
+villager.greeting=Il va pleuvoir, je le sens / Кажется будет дождь. Я чувствую это.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Я не помню Нормандию такой.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Ты выглядишь слабым, $name. Я защищу тебя, если попадешь в неприятности.
+priest.greeting=Soyez béni, mon fils. / Благословляю тебя, сын мой.
+monk.greeting=Dieu soit avec toi, mon frère. / Бог с тобой, брат.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Когда я вырасту, я хочу быть как мой папа!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Я повинуюсь королю Вильяму, герцогу Норманндии, и Богу. И никак иначе.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / Знаешь, $name, я ведь сражался в Гастинге.
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Мне кажется - это странные земли для герцога Норманндии!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Моя сестра замужем за герцогом. А я живу здесь.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Вы бы видели замок моего отца, это была впечатляющая крепость.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Эти земли принадлежат викингам. Англия принадлежит викингам. Сицилия принадлежит викингам. Мы непобедимы.
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Торгую сегодня... Торгую завтра...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Хотите знать, как я пережила все эти годы, путешествуя в одиночку с ценными товарами?
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... / Некоторые люди называют меня мечтателем, но я не всегда такой.
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Эти земли богаты. Но почему же здесь так холодно?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Вы были в Кордобу? Вот это цивилизованное государство.
+art_merchant.greeting=Les gens ici sont des barbares. / Здесь не люди, а варвары!
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Ни один город в мире не может сравниться с Константинополем.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Мы, византийцы - последние настоящие греки, и мы еще прославим нашу цивилизацию!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Голландское текстильное ремесло, лучшее к западу от Кэтхай.
+seneschal.greeting=Je gère ces terres pour mon roi. / Я управляю этими землями для моего короля.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Мне не терпится вернуться к королевскому двору.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Без хорошего управляющего, эти ремесленники ничего не стоят!
+
+knight.patrol=Je reigne sur ces terres. / Я контролирую эту территорию.
+knight.patrol=La force fait le droit, et je suis fort. / Сильный всегда прав, а я сильный.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Никто здесь не ценит искусство.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Может быть, это место будет выглядеть менее противно, если вот это повесить на стену? Хм.. может быть.
+
+villager.gorest=Un peu de repos me ferait du bien... / Мне надо передохнуть...
+villager.gorest=La vie ici est un peu morne. / Жить здесь немного скучно.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Ничего интересного не происходит...
+villager.gorest=Je suis fatigué. / Мне нужно отдохнуть.
+villager.godrink=C'est à boire qu'il nous faut! / Надо бы выпить!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Губит людей не пиво, губит людей вода.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Я говорю с Богом, а не с тобой, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Время собирать урожай.
+farmer.CollectCrop=On dirait que le blé est mûr. / Похоже пшеница созрела.
+farmer.PlantSeeds=Je plante, et je récolterai. / Я сеял, и теперь собираю урожай.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Даже жене придеться признать, что я хорошо поработал, и нарубил много древесины.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Смотри, как я срублю это дерево!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Там отличный лесок.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Скоро из этого вырастет большое дерево. Я и срублю его!
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Смотри-ка, мой ленивый муж все-таки работал сегодня.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Я могу нести много вещей - я сильнее, чем кажусь.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Я пеку лучший хлеб в деревне!
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Готовить выпивку - не самая плохая работа.
+wife.construction=Je construit, je construit, comme seule une femme le peu ! / Стройка, стройка... и почему это должны делать женщины?!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Мужчина не сможет сделать такую точную работу.
+wife.construction=Ca va être un bâtiment superbe. / Это будет отличный дом.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Почему меня всегда отправляют таскать этот хлам?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Подай. Принеси". Когда-нибудь мне это надоест!
+
+villager.GoPlay=Je vais aller jouer dehors. / Я пойду погуляю.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Пришло время кем-то стать в этом мире.
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Ты бы не ел это, зная из чего оно приготовлено.
+
+smith.MakeTools=Les outils normands sont les meilleurs du monde. / Норманнские инструменты - лучшие в мире!
+
+miner.Mining=Miner est un art, vous savez. / Копать - это искусство.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Никто не может делать эту работу лучше меня. И что я за это получаю?
+miner.Cooking=Ca c’est de la vrai cuisson. / Сейчас будем готовить нечто серьезное.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Я, кажется, давно не молился.
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Молиться - это тоже труд.
+
+villager.calltoarms=Aux armes ! Aux armes ! / К оружию! К оружию!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Один за всех и все за одного!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Если бы тщеславие не было грехом, то я сказал бы, что мои рукописи самые лучшие в мире.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Это не для посторонних.
+
+viking_merchant.KeepStall=La magie viking est puissance. / Магия викингов очень сильна.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Приходите и покупайте. Я не скажу вам, что было сделано, для того чтобы эти амулеты стали сильнее.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Вы же не хотите знать что случилось с человеком который оставил мне этот шрам? Но вы можете купить меч, который мне помог.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Я продаю все травы, которые когда-нибудь вам понадобятся.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Приезжайте и посмотрите на роскошь, о которой люди могут только мечтать!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Не стоит метать бисер перед свиньями.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Всем всегда нужна розовая шерсть!

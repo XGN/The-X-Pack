@@ -1,0 +1,511 @@
+//normanbasic:
+
+guardwife_0_label=Обед для мужа
+guardwife_0_description=Мой муж, $guard_villagername$, очень рано ушел на работу, и я не успела приготовить ему еду! Ты не мог бы отнести ему обед?
+guardwife_0_description_success=Спасибо тебе!
+guardwife_0_description_refuse=Вижу, ты не из тех, кто готов помочь.
+guardwife_1_label=Пора обедать!
+guardwife_1_description=Моя жена снова проспала и не дала мне обед! Ох, женщина!
+guardwife_1_description_success=Это было очень любезно с твоей стороны.
+guardwife_1_description_refuse=Никогда не верил чужакам.
+guardwife_1_description_timeup=Вы не принесли обед вовремя. Односельчане $guard_villagename$ этого вам не забудут.
+guardwife_1_listing=Отдайте обед $guard_villagername$ в деревне $guard_villagename$.
+
+lumbermancider_0_label=Жажда!
+lumbermancider_0_description=Фуух... как же тяжело рубить эти деревья... Сейчас бы бутылочку холодного сидра!
+lumbermancider_0_description_success=О, это именно то, что мне нужно! Большое спасибо, дружище!
+lumbermancider_0_description_refuse=Вот получишь ты у меня дерево в следующий раз!
+
+lonelumbermancalva_0_label=Нужно согреться!
+lonelumbermancalva_0_description=Как же холодно в этом ужасном лесу! И как назло ни одного яблока - даже бренди не сделать. Я готов убить за пару бутылок!
+lonelumbermancalva_0_description_success=Невероятно! Это надо отпраздновать!
+lonelumbermancalva_0_description_refuse=Первый посетитель за весь год, и тот без выпивки!
+
+loneminerfood_0_label=Настоящая еда
+loneminerfood_0_description=Уже несколько месяцев не ел настоящей, домашней еды. Меня уже тошнит от орехов и сухарей, которыми питаюсь в этом карьере!
+loneminerfood_0_description_success=Наконец-то, настоящий Норманнский обед!
+loneminerfood_0_description_refuse=Жаль, придется снова жевать хлеб.
+
+knightstonedelivery_0_label=Камень для строителя
+knightstonedelivery_0_description=$name, мне нужно больше камня для защиты $startvillager_villagename$! $miner_villagername$, который работает в $miner_distance$ от $miner_direction$, обещал мне большую партию, но так ничего и не прислал. Можешь проверить, чем он занимается?
+knightstonedelivery_0_description_success=В добрый путь!
+knightstonedelivery_0_description_refuse=Что ж, пошлю кого-то другого.
+knightstonedelivery_1_label=Сбор камня
+knightstonedelivery_1_description=Ах да, камень для $startvillager_villagename$! Я как раз собирался отправлять его. Надеюсь, у тебя есть место - тут четыре полных стака.
+knightstonedelivery_1_description_success=Отлично, тогда продолжу копать.
+knightstonedelivery_1_description_refuse=Пройти такое расстояние, только для того, чтобы сказать мне это...
+knightstonedelivery_1_description_timeup=Вы не нашли $miner_villagername$ вовремя.
+knightstonedelivery_1_listing=Отправляйтесь к шахтеру $miner_villagername$, который живет в $startvillager_miner_distanceshort$ на $startvillager_miner_direction$ от $startvillager_villagename$ и узнайте о камне для $startvillager_villagername$.
+knightstonedelivery_2_label=Доставка камня
+knightstonedelivery_2_description=Привез камень? Отлично! Народ Норманнов не забудет твою помощь.
+knightstonedelivery_2_description_success=Благодарю тебя.
+knightstonedelivery_2_description_refuse=Предатель! Радуйся, что еще жив.
+knightstonedelivery_2_description_timeup=Вы не доставили камень для $startvillager_villagername$ вовремя.
+knightstonedelivery_2_listing=Возвращайтесь в $startvillager_villagename$ с камнем для $startvillager_villagername$.
+
+abbotbooksdelivery_0_label=Письмо
+abbotbooksdelivery_0_description=Сын мой $name, хорошо как, что зашел ты. Для трудов духовных, очень нужны несколько старинных книг мне: не окажешь ли милость человеку старому, принеся книги сии? В монастыре отдаленном они хранятся, что $loneabbot_villagename$ зовется. Настоятелем там старый друг мой, Аббат $loneabbot_villagername$. Письмо напишу я, а ты ему передашь. Монастырь находится в $loneabbot_distance$ на $loneabbot_direction$.
+abbotbooksdelivery_0_description_success=Да освятит Господь дорогу твою.
+abbotbooksdelivery_0_description_refuse=Истинно глаголю: не надежна молодежь сия!...
+abbotbooksdelivery_1_label=Доставка письма
+abbotbooksdelivery_1_description=Письмо от Отца $startvillager_villagername$? Превосходно! Конечно же, я дам ему эти книги. Передай ему мои наилучшие пожелания, сын мой.
+abbotbooksdelivery_1_description_success=Доброго пути, сын мой.
+abbotbooksdelivery_1_description_refuse=Что ж, пути Господни неисповедимы...
+abbotbooksdelivery_1_description_timeup=Вы не доставили письмо для $loneabbot_villagername$ вовремя.
+abbotbooksdelivery_1_listing=Доставьте письмо от $startvillager_villagername$ Аббату $loneabbot_villagername$. Его монастырь в $startvillager_loneabbot_distanceshort$ на $startvillager_loneabbot_direction$ от $startvillager_villagename$.
+abbotbooksdelivery_2_label=Доставка книг
+abbotbooksdelivery_2_description=Книги - знаний храм! Ты быстро обернулся, сын мой! Обязательно наградит тебя Бог в ином мире, а сие, от меня благодарность малая.
+abbotbooksdelivery_2_description_success=Мир тебе, сын мой.
+abbotbooksdelivery_2_description_refuse=Сын мой, горестные вести принес мне ты...
+abbotbooksdelivery_2_description_timeup=Вы не принесли книги для $startvillager_villagername$ вовремя.
+abbotbooksdelivery_2_listing=Принесите книги из $loneabbot_villagename$ Отцу $startvillager_villagername$ в $startvillager_villagername$.
+
+//hindibasic:
+
+rajadiamondsword_0_label=Особая миссия
+rajadiamondsword_0_description=Намаст, $name. Ты показал себя другом $startvillager_villagename$, а мне как раз нужен надежный человек для особой миссии. Генерал $general_villagername$ доказал свою преданность и храбрость и должен быть награжден. Ты должен вручить этот бесценный Алмазный меч ему лично в руки. Генерал сейчас в своей крепости $general_villagename$, $general_distance$ на $general_direction$ отсюда.
+rajadiamondsword_0_description_success=Это бесценная реликвия, береги ее!
+rajadiamondsword_0_description_refuse=Ты упал в наших глазах.
+rajadiamondsword_1_label=Доставка меча
+rajadiamondsword_1_description=Зачем ты здесь, незнакомец?
+rajadiamondsword_1_description_success=Его Высочество $startvillager_villagername$ наградил меня! Он великий правитель. Прими нашу благодарность.
+rajadiamondsword_1_description_refuse=Бесчестный вор!
+rajadiamondsword_1_description_timeup=Вы не доставили меч для $general_villagername$ вовремя. Раджа и генерал в ярости.
+rajadiamondsword_1_listing=Доставьте Алмазный меч для $general_villagername$ в его форт $general_villagename$.
+
+adivasifarmdelivery_0_label=Курьер
+adivasifarmdelivery_0_description=У нас есть только рис и куркума, которые мы вырастили сами - жизнь крестьян тяжела... Ты поможешь бедным людям? Фермер в деревне $peasant_villagername$ готов обменять наши продукты на мясо и расгуллу. Если ты отвезешь наши товары в деревню $peasant_villagename$, где он живет, мы будем очень благодарны. Это около $peasant_distance$ на $peasant_direction$ отсюда.
+adivasifarmdelivery_0_description_success=Shukriya, друг мой.
+adivasifarmdelivery_0_description_refuse=Никто не помогает беднякам...
+adivasifarmdelivery_1_label=Доставка урожая
+adivasifarmdelivery_1_description=Так ты из деревни $startvillager_villagername$? Что ж, у меня есть для них продукты. Пойду упакую.
+adivasifarmdelivery_1_description_success=Запомни: ферма в $startvillager_distanceshort$ на $startvillager_direction$.
+adivasifarmdelivery_1_description_refuse=Прощай, и пожелай им хорошего урожая.
+adivasifarmdelivery_1_description_timeup=Вы не доставили товары для $peasant_villagername$ вовремя.
+adivasifarmdelivery_1_listing=Отправляйтесь в $peasant_villagename$ и доставьте товары $peasant_villagername$.
+adivasifarmdelivery_2_label=Доставка продуктов
+adivasifarmdelivery_2_description=Shukriya, $name! Мы очень ждали эти продукты! Надеюсь $peasant_villagername$ хорошо тебя принял?
+adivasifarmdelivery_2_description_success=Пусть Боги благословят тебя.
+adivasifarmdelivery_2_description_refuse=Красть у бедных людей - не самый благородный поступок.
+adivasifarmdelivery_2_description_timeup=Вы не доставили продукты для $startvillager_villagername$ вовремя.
+adivasifarmdelivery_2_listing=Доставьте продукты из $peasant_villagename$ на ферму $startvillager_villagername$, $peasant_startvillager_direction$ в $peasant_startvillager_distance$ от $peasant_villagename$.
+
+traderdiamonds_0_label=Драгоценности для Рани
+traderdiamonds_0_description=Намаст, $name. Ты известен как надежный друг индусов, а мне нужно доставить очень ценный груз. Прекрасная Рани $rani_villagername$ из $rani_villagename$ заказала у меня алмазы для новых украшений. Ты сможешь доставить их в ее дворец? Он стоит в $rani_distance$ на $rani_direction$ отсюда. Можешь взять два алмаза как оплату.
+traderdiamonds_0_description_success=Только не показывай эти алмазы кому попало!
+traderdiamonds_0_description_refuse=Слишком опасно для тебя, да?
+traderdiamonds_1_label=Доставка алмазов
+traderdiamonds_1_description=Ну наконец-то! Сколько можно ждать? Не думаю, что $startvillager_villagername$ хочет увидеть меня в гневе.
+traderdiamonds_1_description_success=Пойду примеряю!
+traderdiamonds_1_description_refuse=Негодяй, тебя растопчут слоны Раджи!
+traderdiamonds_1_description_timeup=Вы не доставили алмазы для Рани $rani_villagername$ вовремя. Ваша репутация в индийских деревнях пошатнулась.
+traderdiamonds_1_listing=Доставьте алмазы от $startvillager_villagername$ Рани $rani_villagername$ из $rani_villagename$.
+
+//mystery basic:
+
+normanrasgullas_0_label=Приболевший ребенок
+normanrasgullas_0_description=Мой сын $child_villagername$ очень бледный в последнее время. Он отказывается от колбасы и даже от триппы, и я просто не знаю чем его кормить! Вы похожи на бывалого путешественника. Может, посоветуете что-нибудь? 
+normanrasgullas_0_description_success=Какой вкусный десерт! Да я сама готова это есть!
+normanrasgullas_0_description_refuse=Придется попробовать бренди. После него, обычно, все идет...
+
+mayanlumbermanaxe_0_label=Расстроенный дровосек
+mayanlumbermanaxe_0_description=Этим топором только в зубах ковыряться! Ну почему наши ремесленники не могут сделать нормальный топор?! С нормальным инструментом и работа лучше идет!
+mayanlumbermanaxe_0_description_success=Этот топор прямо волшебный! О боги, да из чего же он сделан?
+mayanlumbermanaxe_0_description_refuse=Эх... пойду работать...
+
+
+
+losttapestry_0_label=Потерянный гобелен
+losttapestry_0_description=Привет $name! Этот гобелен я нашел на поле. Ты можешь узнать чей он?
+losttapestry_0_description_success=Спасибо $name!
+losttapestry_0_description_refuse=Ты ужасен! Я расскажу про тебя маме!
+losttapestry_1_label=Владелец гобелена
+losttapestry_1_description=Я потеряла гобелен! Может кто видел?
+losttapestry_1_description_success=Спасибо тебе. Я думала он уже не найдется.
+losttapestry_1_description_refuse=Ты что-то прячешь, я точно знаю.
+losttapestry_1_listing=Найти владельца гобелена.
+
+spiders_0_label=Пропавший друг
+spiders_0_description=Мой друг $miner_villagername$ обычно навещает меня каждый день в одно и то же время. А самое странное то, что и сегодня его до сих пор нет - он задержался уже на несколько часов! И должен признать, я немного волнуюсь, $name. $miner_villagername$ проводил много времени около шахты, а тебе, я думаю, известно как там опасно. Если ты вдруг будешь проходить мимо шахты, посмотри, пожалуйста, вдруг он там.
+spiders_0_description_success=Спасибо друг мой!
+spiders_0_description_refuse=Надеюсь, он все же появится...
+spiders_1_label=Отравленный
+spiders_1_description=Угммм... Меня укусил ужасный паук, когда я исследовал пещеру поблизости. Я уверен, что серьезно отравлен; ты должен помочь мне. Пожалуйста, расскажи все моей жене, $wife_villagername$. Она знает что нужно делать.
+spiders_1_description_success=Б-ыстрее... Оч-чень к-ружи-тся гол-ова... 
+spiders_1_description_refuse=Угммм...
+spiders_1_listing=Найдите $miner_villagername$ рядом с шахтой.
+spiders_2_label=Антидот
+spiders_2_description=Какой ужас! Нельзя терять времени! Я знаю как приготовить противоядие, но мне понадобятся особые ингредиенты: два коричневых гриба, два красных гриба, и чернильный мешок.
+spiders_2_description_success=Поторопись $name.
+spiders_2_description_refuse=Прекрасно, я сама все соберу!
+spiders_2_listing=Расскажите $wife_villagername$ о случившемся.
+spiders_3_label=Спасение $miner_villagername$
+spiders_3_description=Отнесите Антидот $miner_villagername$ до истечения отведенного времени.
+spiders_3_description_success=Ох, я знал, что $wife_villagername$ сможет мне помочь! <$miner_villagername$ drinks the antidote.> Я вечно попадаю в передряги, а $wife_villagername$, она... в общем, она всегда вытаскивает меня :) 
+spiders_3_description_refuse=Ты хочешь моей смерти?
+spiders_3_description_timeup=Вы не принесли Антидот вовремя.
+spiders_3_listing=Отдайте Антидот $miner_villagername$.
+
+findtheegg_0_label=Нашествие кур
+findtheegg_0_description=Здесь развелось слишком много кур! Чтобы остановить это, нужно собрать их яйца... Поможешь?
+findtheegg_0_description_success=Хорошо, $name. Я отправлю эти яйца домой, а там о них позаботятся! Пожалуйста, прими это в знак моей благодарности.
+findtheegg_0_description_refuse=Возвращайся, когда наберешь больше яиц!
+
+feathercrafter_0_label=Пух и перья
+feathercrafter_0_description=Моя жена делает подушки, а для этого ей нужно очень много перьев. Я возьму все, что у тебя есть.
+feathercrafter_0_description_success=Очень хорошо, $name. Я отдам их жене. Благодарю.
+feathercrafter_0_description_refuse=Тогда пока.
+
+watersample_0_label=Странные жалобы
+watersample_0_description=Несколько селян жаловались моей жене, что от воды из колодца болеют дети. Пожалуйста, набери из колодца воды и принеси мне - вот тебе ведро.
+watersample_0_description_success=Поторопись... пока другие дети не заболели.
+watersample_0_description_refuse=Предупреждаю, в следующий раз, пошлю тебя в самое опасное место.
+watersample_1_label=Образец воды
+watersample_1_description=Ты принес воду?
+watersample_1_description_success=Спасибо! Это поможет мне найти причину болезни.
+watersample_1_description_refuse=Если тебе понадобится помощь - на нас не рассчитывай!
+watersample_1_description_timeup=Вы не принесли образец воды вовремя.
+watersample_1_listing=$startvillager_villagername$ в $startvillager_villagename$ просит принести образец воды.
+
+lordssword_0_label=Сломанный меч
+lordssword_0_description=Мой муж, $knight_villagername$ снова сломал свой меч! Вот, отнеси ему, пожалуйста, новый.
+lordssword_0_description_success=Спасибо, добрый человек!
+lordssword_0_description_refuse=Ты не очень-то дружелюбный.
+lordssword_1_label=Сломанный меч. Глава 2
+lordssword_1_description=Моя жена, $startvillager_villagename$, должна была передать мне меч. Он у тебя?
+lordssword_1_description_success=Спасибо.
+lordssword_1_description_refuse=Без меча я не смогу защищать тебя...
+lordssword_1_description_timeup=Вы не принесли меч для $knight_villagername$ вовремя. Селяне вам это припомнят.
+lordssword_1_listing=$startvillager_villagername$ из $startvillager_villagename$ нужен новый меч.
+
+sweettrader_0_label=День рождения кузины
+sweettrader_0_description=У моей маленькой кузины $girl_villagername$ сегодня день рождения. Отнесешь ей торт от меня?
+sweettrader_0_description_success=Это очень любезно с твоей стороны.
+sweettrader_0_description_refuse=Как не хорошо!
+sweettrader_1_label="Доставка" торта
+sweettrader_1_description=Никто меня не поздравляет...
+sweettrader_1_description_success=Ух ты! Спасибо! Спасибо! Спасибо!
+sweettrader_1_description_refuse=Никто меня не любит...
+sweettrader_1_listing=Отнесите торт $girl_villagername$ из $startvillager_villagename$.
+
+fishingfrenzy_0_label=Рыболовная лихорадка
+fishingfrenzy_0_description=Здарова, меня зовут $startvillager_villagername$. Ловля рыбы - трудная работа, и я не знаю, выполню ли свою норму на сегодня. Может, у тебя получится помочь мне?
+fishingfrenzy_0_description_success=Спасибо, четыре хватит. Отнеси их моей жене, она заплатит тебе.
+fishingfrenzy_0_description_refuse=Понимаю, все мы заняты.
+fishingfrenzy_1_label=Рыболовная лихорадка. Глава 2
+fishingfrenzy_1_description=Рыба от моего мужа? Очень хорошо.
+fishingfrenzy_1_description_success=Отличная рыба. Все селяне благодарны тебе.
+fishingfrenzy_1_description_refuse=Плохой из тебя рыбак, а? Ничего, для другой работы сгодишься.
+fishingfrenzy_1_description_timeup=Вы не наловили достаточно рыбы вовремя и опозорились перед селянами $startvillager_villagename$.
+fishingfrenzy_1_listing=Поймайте четыре рыбы и отнесите их $wife_villagername$.
+
+
+sadhu_intro_0_label=Мудрый Сааду
+sadhu_intro_0_description=$name, мы знаем тебя достаточно долго и доверяем тебе как одному из нас, несмотря на то, что не знаем твоего истинного происхождения. Сначала, ты казался просто иностранцем, который, как и мы, спасаясь от землетрясения в тот роковой день, оказался в этой чужой стране, где сезоны никогда не меняются и реки никуда не текут - вроде тех странных людей из каменных пирамид, или белолицых мастеров железа.<ret><ret>Но мы достаточно долго за тобой наблюдали, чтобы понять, что ты другой. Ты не помнишь своей родины и чувствуешь себя здесь как дома. И, к тому же, мы не видели никого похожего на тебя.<ret><ret>Если ты знаешь о себе больше, но не хочешь рассказать нам - это твое право, но если, как мне кажется, та сам хочешь узнать в каком мире ты пребываешь, и каково твое собственное место в нем - тебе нужна мудрость, которой я не обладаю. Я знаю только одного человека, который сможет помочь тебе: мой старый учитель, Сааду Видья. Я не видел его уже много лет, но его можно найти в лесу, где он выбирает высокие и крепкие деревья для своей хижины. Когда встретишь его, передай от меня благодарность за его мудрость.
+sadhu_intro_0_description_success=Благословенны будут пути твои.
+sadhu_intro_0_description_refuse=Понимаю, дорога самопознания тяжела.
+sadhu_intro_1_label=Возвращение к старейшине
+sadhu_intro_1_description=Итак, встретил ли ты моего учителя?
+sadhu_intro_1_description_success=Он оказал тебе большую честь, поделившись своими знаниями! Боги улыбаются тебе.
+sadhu_intro_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_intro_1_listing=Найдите Сааду под самым высоким деревом в лесу. Потом расскажите Старейшине из деревни $startvillager_villagename$ о встрече.
+
+sadhu_introwife_0_label=Мудрый Сааду
+sadhu_introwife_0_description=$name, мы знаем тебя достаточно долго и доверяем тебе как одному из нас, несмотря на то, что не знаем твоего истинного происхождения. Сначала, ты казался просто иностранцем, который, как и мы, спасаясь от землетрясения в тот роковой день, оказался в этой чужой стране, где сезоны никогда не меняются и реки никуда не текут - вроде тех странных людей из каменных пирамид, или белолицых мастеров железа.<ret><ret>Но мы достаточно долго за тобой наблюдали, чтобы понять, что ты другой. Ты не помнишь своей родины и чувствуешь себя здесь как дома. И, к тому же, мы не видели никого похожего на тебя.<ret><ret>Если ты знаешь о себе больше, но не хочешь рассказать нам - это твое право, но если, как мне кажется, та сам хочешь узнать в каком мире ты пребываешь, и каково твое собственное место в нем - тебе нужна мудрость, которой мало кто обладает. Я знаю только одного человека, который сможет помочь тебе - это Сааду Видья. Я не видела его уже очень много лет, но поищи в лесу самое высокое дерево - именно такие он выбирает для своей хижины. Когда встретишь его, передай от меня благодарность за его мудрость.
+sadhu_introwife_0_description_success=Благословенны будут пути твои.
+sadhu_introwife_0_description_refuse=Не следует отказываться от помощи столь мудрого человека.
+sadhu_introwife_1_label=Возвращение к $startvillager_villagerrole$
+sadhu_introwife_1_description=Итак, ты получил совет мудреца?
+sadhu_introwife_1_description_success=Он оказал тебе большую честь, поделившись своими знаниями! Боги улыбаются тебе.
+sadhu_introwife_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_introwife_1_listing=Найдите Сааду под самым высоким деревом в лесу. Потом расскажите о встрече $startvillager_villagerrole$ из village $startvillager_villagename$.
+
+sadhu_first_0_label=Посвящение
+sadhu_first_0_description=Я ждал тебя, $name. Селяне приходят ко мне за советом, и постоянно рассказывают о незнакомце без прошлого, который помогает индийским деревням и, кажется, чувствует себя как дома в этом диком мире, где нам довелось оказаться. Должно быть, кто-то из старейшин сказал, что я смогу ответить на твои вопросы, но это будет не просто. Видишь ли, я обладаю огромными знаниями о старом мире, что остался на берегах Святого Ганга, здесь же все не то и все не так, и мне нужно учиться заново. Если ты искал здесь Гуру - то зря пришел.<ret><ret>Хотя... До того, как стать отшельником, я изучал дикую природу</p>. От Гималаев до южных джунглей не было ни одного растения которого я бы не знал, или не мог использовать. И хотя мое тело одряхлело, мой разум все также остр. Помоги мне изучить этот мир, и ты тоже многое о нем узнаешь. Но предупреждаю: не все здешние создания дружелюбны и я уверен, что мы встретим сопротивление, исследуя этот мир.
+sadhu_first_0_description_success=А теперь время медитации. Подожди немного и получишь первое задание.
+sadhu_first_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+
+sadhu_1_samples_0_label=Образцы растений
+sadhu_1_samples_0_description=Твое первое задание будет простым. Мне нужно собрать коллекцию основных видов растений, которые произрастают в этом мире. Я мог бы и сам этим заняться, но поклялся оставаться рядом с этим деревом три луны подряд, поэтому поручаю задачу тебе.
+sadhu_1_samples_0_description_success=Я буду медитировать пока ты не вернешься.
+sadhu_1_samples_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_1_samples_1_label=Доставка образцов
+sadhu_1_samples_1_description=Мои молитвы были с тобой, пока ты работал.
+sadhu_1_samples_1_description_success=Эти образцы будут очень полезны. Я помолюсь о тебе Богам, $name.<ret><ret>Но ты посчитал что это слишком просто, не так ли? Знай же - любое благо достойно совершения. Также знай, что я приготовил для тебя и более серьезные задания.<ret><ret>Возвращайся, когда немного отдохнешь.
+sadhu_1_samples_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_1_samples_1_listing=Отнесите образцы растений Сааду.
+
+
+sadhu_2_forest_0_label=Исследование леса
+sadhu_2_forest_0_description=Нам нужно исследовать основные типы местности этого мира. И первым будет лес; тебе потребуется открыть свой разум этому месту и посетить его ночью. Войди в лес на закате и проведи ночь, исследуя и наблюдая.<ret><ret>Мне не нужно напоминать тебе как опасно снаружи ночью, но боги присмотрят за тобой. Было бы неплохо иметь с собой меч и, по моим наблюдениям, хорошего воина и боги лучше защищают.
+sadhu_2_forest_0_description_success=Я буду медитировать пока ты не вернешься.
+sadhu_2_forest_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_2_forest_1_label=Сообщить результаты
+sadhu_2_forest_1_description=И как прошла твоя ночная прогулка? Как близок ты к просвещению?
+sadhu_2_forest_1_description_success=Так говоришь "веселая ночка"? Этого и следовало ожидать, но, как я понимаю, проблем оказалось гораздо больше чем можно было подумать. Все же, мы еще многое не понимаем в этом мире. Дай мне время поразмыслить над этим и приходи за следующим заданием.
+sadhu_2_forest_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_2_forest_1_listing=Исследуйте ночной лес и расскажите об этом Сааду.
+
+
+
+sadhu_3_pandit_0_label=Мифы индусов
+sadhu_3_pandit_0_description=Я долго размышлял над твоими злоключениями в лесу, но истина ускользает меня. Те нелепые подобия людей не похожи ни на что из виденного мной в нашем исчезнувшем мире, и я не могу понять цели их существования. Однако в древних индуистских мифах есть упоминания о демонах, которые могут быть как-то связаны с ними. Мое уединенное существование не позволяет иметь такие важные пергаменты, но ты, скорее всего, найдешь их в индийских деревнях.
+sadhu_3_pandit_0_description_success=Мне нужна собственная библиотека... В жизни отшельника есть свои недостатки.
+sadhu_3_pandit_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_3_pandit_1_label=Отнести книги
+sadhu_3_pandit_1_description=Я долго молился после твоего ухода, $name. Надеюсь, тебе не составило труда найти их.
+sadhu_3_pandit_1_description_success=Благодарю тебя, $name. Мне понадобится время на изучение этих книг. Отправляйся медитировать и возвращайся, когда обретешь внутреннее спокойствие.
+sadhu_3_pandit_1_description_refuse=Ты расстраиваешь меня.
+sadhu_3_pandit_1_listing=Найдите индийского селянина у которого есть книги и принесите их Сааду.
+
+sadhu_3b_pandit_0_label=Разговор со старейшиной
+sadhu_3b_pandit_0_description=Значит, ты встречался с мудрым Сааду? Ты должен гордиться, что выполняешь просьбу настолько святого человека!<ret><ret>И конечно я дам тебе книги, которые он просил. Тебе тоже следует почитать их. Правда при условии, что ты умеешь читать на Санскрите.
+sadhu_3b_pandit_0_description_success=И передай мой поклон святому!
+sadhu_3b_pandit_0_description_refuse=И у тебя хватило совести не выполнить просьбу Сааду?
+
+sadhu_3b_wife_0_label=Поговорить с $startvillager_villagerrole$
+sadhu_3b_wife_0_description=Сааду нужны великие Мифы индусов? Для меня большая честь предложить ему мои копии!
+sadhu_3b_wife_0_description_success=И передай мой поклон святому!
+sadhu_3b_wife_0_description_refuse=И у тебя хватило совести не выполнить просьбу Сааду?
+
+sadhu_4_desert_0_label=Исследование пустыни
+sadhu_4_desert_0_description=Твои лесные изыскания были весьма интересны, но этого мало. Я давно хотел собрать информацию о бесплодных землях этого мира, куда люди редко заходят. Может быть, там не так опасно. Отправляйся в путь и исследуй первую пустыню которую найдешь.
+sadhu_4_desert_0_description_success=Я буду просить Богиню об успехе.
+sadhu_4_desert_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_4_desert_1_label=Сообщить результаты
+sadhu_4_desert_1_description=Я верил, что Богиня поможет тебе.
+sadhu_4_desert_1_description_success= Твое описание пустыни как "бесплодная" и "песчаная" не слишком-то пополняет копилку наших знаний, $name. Но интересно то, что ты встретил больше ходячих скелетов, чем ранее. Похоже, сама земля реагирует на твои попытки исследовать ее.
+sadhu_4_desert_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_4_desert_1_listing=Исследуйте ночную пустыню и расскажите об этом Сааду.
+
+
+
+sadhu_5_adivasi_0_label=Болотный эксперт
+sadhu_5_adivasi_0_description=$name, мы должны продолжить сбор информации об этом мире. Я полагаю, что болота особенно важное место, т.к. их здесь намного больше, чем можно было предложить. К счастью для тебя, нет никакой надобности исследовать их самостоятельно. Есть люди, чьи знания о болотах куда больше: фермеры-адиваси. Эти бедные люди считаются низшим классом среди селян, но они наблюдательны и проводят большую часть жизни на болотах. Найди одного из них и попроси рассказать об этой местности. Скажи ему, что тебя послал Сааду и он расскажет все что знает.
+sadhu_5_adivasi_0_description_success=Я не могу указать тебе координаты их поселений - просто найди болота и найдешь их.
+sadhu_5_adivasi_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_5_adivasi_1_label=Доставка образцов
+sadhu_5_adivasi_1_description=Поделились ли адиваси с тобой знаниями?
+sadhu_5_adivasi_1_description_success=Превосходно, это будет очень полезно. Не упоминал ли он об аномальной активности на болотах?
+sadhu_5_adivasi_1_description_refuse=Та расстраиваешь меня.
+sadhu_5_adivasi_1_listing=Найдите фермера-адиваси на болотах и расспросите его. Потом возвращайтесь к Сааду.
+
+
+sadhu_5b_adivasi_0_label=Поговорить с фермером
+sadhu_5b_adivasi_0_description=Сам Сааду попросил меня о помощи? Но я всего лишь бедный невежда... У меня есть только растения, выращенные на грядке...<ret><ret>И прежде чем ты уйдешь, я прошу тебя взять эти растения. Тот, кто выполняет поручения Сааду, должно быть очень добрый человек.
+sadhu_5b_adivasi_0_description_success=Я буду молиться, чтобы это помогло ему. Его мудрость не знает границ. 
+sadhu_5b_adivasi_0_description_refuse=Как ты можешь отказываться помогать Сааду?
+
+sadhu_6_mountain_0_label=Исследование гор
+sadhu_6_mountain_0_description=Итак, $name, у нас осталась последняя не исследованная местность. Тебе нужно отправиться на ближайший горный хребет. В своих видениях я вижу лишь формы, лишь неясные очертания...
+sadhu_6_mountain_0_description_success=Я буду думать об успехе, пока ты не вернешься.
+sadhu_6_mountain_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_6_mountain_1_label=Сообщить результаты
+sadhu_6_mountain_1_description=Надеюсь, горы мирно дремали в свете луны.
+sadhu_6_mountain_1_description_success=Значит, в этот раз твоим ночным исследованиям мешали пауки? Я видел их этой ночью, скрываясь в тени дерева. Но чего они хотят? Что они делают в горах, где им совершенно нечего есть? Существа, обитающие не в своей среде - тревожный знак.
+sadhu_6_mountain_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_6_mountain_1_listing=По просьбе Сааду исследуйте горный хребет ночью.
+
+sadhu_7_underwater_0_label=Великое погружение
+sadhu_7_underwater_0_description=Вчера вечером Богиня говорила со мной и шептала, что все гораздо глубже, чем я могу видеть. Я много об этом думал и, кажется, понял, что она имела в виду: тебе нужно исследовать дно моря.
+sadhu_7_underwater_0_description_success=Погрузись, друг мой, и узнай, что скрывает морская гладь.
+sadhu_7_underwater_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_7_underwater_1_label=Сообщить результаты
+sadhu_7_underwater_1_description=Так что же скрыто на дне морском?
+sadhu_7_underwater_1_description_success=Ты говоришь, что на глубине нет никаких признаков жизни... Ни рыбы, ни морских растений? Это нужно серьезно обдумать.
+sadhu_7_underwater_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_7_underwater_1_listing=Погрузитесь минимум на 15 метров от поверхности моря.
+
+sadhu_8_underwaterglass_0_label=Подводная лаборатория
+sadhu_8_underwaterglass_0_description=Я обдумал результаты твоих исследований, $name. Возможно, погружение дает слишком мало времени, чтобы хорошо все рассмотреть. Тебе придется снова опуститься на дно моря â€“ и построить комнату наблюдения так глубоко, как только сможешь. Оттуда можно будет спокойно изучать глубины.
+sadhu_8_underwaterglass_0_description_success=Я знаю - это рискованное задание, но Богиня обязательно поможет тебе.
+sadhu_8_underwaterglass_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_8_underwaterglass_1_label=Сообщить результаты
+sadhu_8_underwaterglass_1_description=Что увидел ты там, куда не заглядывал ни один смертный?
+sadhu_8_underwaterglass_1_description_success=Так значит дно моря - действительно пустынное место, полностью лишенное жизни, не считая тех странных кальмаров. Но этого не может быть... Ни одно море не может быть настолько пустым, да и как такие могущественные существа выживают без добычи? <ret><ret>Ты дал мне богатую пищу для размышлений, $name. Теперь оставь меня на время и, клянусь, у меня будут для тебя ответы.
+sadhu_8_underwaterglass_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_8_underwaterglass_1_listing=Постройте комнату наблюдения со стеклянным потолком, минимум на 20 метров ниже поверхности.
+
+
+sadhu_9_topandbottom_0_label=Крыша мира
+sadhu_9_topandbottom_0_description=$name, осталось лишь одно предприятие, которое требует твоего присутствия. Из рассказов храбрых индийских исследователей мне известно, что этот новый мир весьма обширен - в первые несколько лет после Ночи огня, который забросил нас сюда, молодые селяне путешествовали повсюду, пытаясь отыскать знакомые берега, но все напрасно. Они говорили, что никогда не видели здесь горы, способной сравниться с могущественными Гималаями. Я не раз об этом думал и вот что интересно: небо здесь выглядит столь же высоким, как и на равнинах Ганга, но облака всегда низки, и невозможно увидеть птиц или других небесных существ. Могло ли случиться так, что реальны лишь облака, а все, что выше - иллюзия? Ты должен подняться в небо и узнать, что там, выше облаков.
+sadhu_9_topandbottom_0_description_success=Можешь попробовать подняться на верхушку этого почтенного дерева, если оно достаточно высокое.
+sadhu_9_topandbottom_0_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_9_topandbottom_1_label=Сообщить результаты
+sadhu_9_topandbottom_1_description=Что ты видел столь высоко от земли, $name?
+sadhu_9_topandbottom_1_description_success=Таким образом, предел высоты - не более роста тридцати мужчин от уровня моря... Неужели этот мир - только насмешка над реальностью? Но тогда чья она - Демона или Бога? $name, ты должен подтвердить это открытие: узнай, так ли этот мир конечен и в глубину, если земля, в которой мы живем, всего лишь тонкая материя, плавающая в пустоте.
+sadhu_9_topandbottom_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_9_topandbottom_1_listing=Заберитесь выше уровня облаков и расскажите об увиденном Сааду.
+sadhu_9_topandbottom_2_label=Сообщить результаты
+sadhu_9_topandbottom_2_description=Что ты узнал в глубинах земных, мой храбрый исследователь?
+sadhu_9_topandbottom_2_description_success=Ты нашел породу, которую невозможно разрушить вручную и не смог пройти глубже... А глубина при этом была равна росту тридцати мужчин от поверхности... В этом слишком много симметрии, $name. Это невозможно, но это так.<ret><ret>У меня больше нет работы для тебя. Мне нужно медитировать и молиться о просвещении, пока не постигну смысла всего этого. Возвращайся через какое-то время и я расскажу тебе о результатах моих изысканий, если лорд Ганеш вдохновит меня.
+sadhu_9_topandbottom_2_description_refuse=Я буду молиться чтобы ты передумал, $name.
+sadhu_9_topandbottom_2_listing=Спуститесь на максимальную глубину и расскажите об увиденном Сааду.
+
+
+sadhu_10_conclusion_0_label=Книга Сааду
+sadhu_10_conclusion_0_description=Я постился и молился о просвещении, и Боги вложили мудрость в мои уши. Но я оказался не достоин ее и смог разглядеть лишь слабые очертания Истины.<ret><ret>А теперь, $name, я слишком устал, чтобы говорить. Все мои размышления содержатся в этом свитке. Я отдаю тебе его и благословляю на поиски знаний в других пределах, поскольку больше я дать не могу. Возможно, тебе понадобится больше мудрости, чем старый Сааду когда-либо имел.
+sadhu_10_conclusion_0_description_success=Я изложил свои мысли на священном языке Санскрите, которым мало кто владеет в наше время. Но я почему-то уверен, что ты поймешь эти записи. Богиня нашептывает тебе знания, даже если ты не слышишь этого.
+sadhu_10_conclusion_0_description_refuse=Я буду хранить эту книгу, пока ты не изменишь своего мнения.
+
+
+
+sadhu_leadership_0_label=Руководство
+sadhu_leadership_0_description=Я наслышан о твоем желании возглавить группу индусов, для основания новой деревни. $name, после всего, что ты для меня сделал - я уверен в праведности твоих помыслов. Если ты действительно этого хочешь - у тебя есть мое благословение.
+sadhu_leadership_0_description_success=Я буду молиться об успехе твоих начинаний. Удачи, $name.
+sadhu_leadership_0_description_refuse=Значит, ты хочешь сосредоточиться на поисках Истины? Это мудрое решение. Но если передумаешь - найди меня здесь.
+
+
+
+alchemist_1_intro_0_label=Алхимик
+alchemist_1_intro_0_description=Сын мой, слышал я, что проводишь ты время с языческим странником, который ищет мудрость уникальную в мире этом. Не впадай в ересь! Если просвещения ты ищешь - иди в отдаленный монастырь и молись о нем. Бог помогает тем, кто достаточно мудр, чтобы видеть предел своего понимания. Но молод ты и глуп, и знаю я, что совет мой отклика не найдет в душе твоей, пока урок сей не извлечёшь самостоятельно. Такова молодость!<ret><ret>Как бы там ни было, знаю я человека, который тебе помочь мог бы в поисках твоих или в тщетности их убедить. И хотя играть он любит с вещами, в которых разумения не имеет - ум и знания обитают в нем. Я могу дорогу к нему указать, если желаешь ты.
+alchemist_1_intro_0_description_success=Зовут его Гийом Виф-арген, он же называет себя "алхимиком"'. Не известно мне точное место, но в округе говорят, что построил он мастерскую в горах, дабы звезды лучше всего наблюдать.
+alchemist_1_intro_0_description_refuse=Мудрее ты, чем вид твой говорит.
+alchemist_1_intro_1_label=Возвращение к $startvillager_villagerrole$
+alchemist_1_intro_1_description=Нашел ли ты человека того? Что сказать о нем можешь?
+alchemist_1_intro_1_description_success=Вижу, знания его впечатлили тебя. Не поддайся эмоциям, $name.
+alchemist_1_intro_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+alchemist_1_intro_1_listing=Найдите в горах Башню алхимика и расскажите о нем $startvillager_villagerrole$ из $startvillager_villagename$.
+
+alchemist_1_introguildmaster_0_label=Алхимик
+alchemist_1_introguildmaster_0_description=$name, я знаю, что в поисках смысла этого мира, ты обратился за помощью к странному отшельнику без какой-либо репутации. А вместо этого, надо было сразу прийти ко мне! Я имею честь быть знакомым с величайшим умом современности, алхимиком Гийомом Виф-аргеном, который имеет лучшую репутацию среди наших философов. Именно к нему тебе и нужно.
+alchemist_1_introguildmaster_0_description_success=Его мастерская находится в горах, где он изучает руды и звезды.
+alchemist_1_introguildmaster_0_description_refuse=И ты готов поверить нищему, а не ученому? Ты разочаровал меня, $name.
+alchemist_1_introguildmaster_1_label=Возвращение к Старосте
+alchemist_1_introguildmaster_1_description=Какие новости сообщил тебе великий алхимик?
+alchemist_1_introguildmaster_1_description_success=Вижу его мысли как всегда глубоки. Слушай и учись у него.
+alchemist_1_introguildmaster_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+alchemist_1_introguildmaster_1_listing=Найдите в горах Башню алхимика и расскажите о нем $startvillager_villagerrole$ из $startvillager_villagename$.
+
+alchemist_1_introknight_0_label=Алхимик
+alchemist_1_introknight_0_description=Так ты ищешь в нашей земле человека, который знает хоть что-то о мире вокруг? Ну, это точно не священники. И остерегайся старост местных деревень - эти всегда делают вид, что знают больше чем на самом деле. По моему, есть только один человек, который сможет тебе помочь - он кажется очень образованным, к тому же, он обещал изготовить для нашего короля много золота, когда мы вернемся в старый мир. Лично мне он кажется пройдохой, но, возможно, в нем что-то есть.
+alchemist_1_introknight_0_description_success=Он обосновался в дикой местности около гор. Он утверждает, что нуждается в спокойной обстановке, но как по мне, он явно что-то скрывает. В любом случае, его зовут Гийом Виф-арген.
+alchemist_1_introknight_0_description_refuse=Наверное, так даже лучше.
+alchemist_1_introknight_1_label=Возвращение к $startvillager_villagerrole$
+alchemist_1_introknight_1_description=Ты его видел?
+alchemist_1_introknight_1_description_success=Он показался тебе искренним? Что ж, пока он не лезет в дела короля...
+alchemist_1_introknight_1_description_refuse=Я буду молиться чтобы ты передумал, $name.
+alchemist_1_introknight_1_listing=Найдите в горах Башню алхимика и расскажите о нем $startvillager_villagerrole$ из $startvillager_villagename$.
+
+alchemist_2_meeting_0_label=Приветствие
+alchemist_2_meeting_0_description=Так ты пришел ко мне за знаниями, $name? Ты хорошо осведомлен, надо сказать. Я единственный настоящий алхимик, которого ты сможешь найти в этом богом забытом мире. Если хочешь у меня учиться, то и помогать будешь. Почему бы не использовать находчивых молодых людей, а? А если ты ищешь чего-то более материального, чем чистые знания, то скажу, что хотя я еще не преуспел в превращении свинца в золото, я научился обращать алхимию в монеты королевского двора.
+alchemist_2_meeting_0_description_success=Можешь поселиться в доме снаружи, если хочешь. Мы с помощником слишком заняты, чтобы пользоваться им.
+alchemist_2_meeting_0_description_refuse=Тогда иди, у меня много работы.
+
+alchemist_3_ores_0_label=Коллекция камней
+alchemist_3_ores_0_description=Сейчас я анализирую каменную породу этого мира. Вообще, до некоторой степени они похожи на таковые из старого мира, но их распределение отличается. И сейчас мне нужны образцы! Или ты думаешь, что я как те бесполезные философы, что только и сидят над книгами?
+alchemist_3_ores_0_description_refuse=Зачем же ты беспокоишь меня?
+alchemist_3_ores_0_description_success=Хорошо. Мой помощник даст тебе все нужные инструменты. И можешь быть уверен, я не потребую алмазы назад. Я уже закончил свою работу над ними.
+alchemist_3_ores_1_label=Взять инструменты
+alchemist_3_ores_1_description=Приветствую $name, я помощник мастера Виф-аргена. Не обращай внимания на его манеры, он настоящий ученый увлеченный своей работой, у него просто нет времени на общение! Но я точно знаю - он очень мудр. Как бы там ни было, вот твои инструменты.
+alchemist_3_ores_1_description_success=Удачи, $name!
+alchemist_3_ores_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_3_ores_1_listing=Заберите инструменты у помощника алхимика.
+alchemist_3_ores_2_label=Образцы
+alchemist_3_ores_2_description=Что ты нашел?
+alchemist_3_ores_2_description_success=Хорошо, очень хорошо! Ты весьма эффективен, $name. Мне это нравится.
+alchemist_3_ores_2_description_refuse=Ну что ж, я подожду, вдруг ты передумаешь.
+alchemist_3_ores_2_listing=Принесите образцы алхимику.
+
+alchemist_4_lava_0_label="Горячая" необходимость
+alchemist_4_lava_0_description=Ты хотел меня видеть, $name? А, так ты перевел с латыни письмена того старика... Мне они не кажутся очень уж полезными. Знаю, ты очень хорошего мнения об этом Сааду, но он явно ничего не смыслит в современной алхимии. Правда, я слышал, что древние индусы хорошо разбирались в математике и металлургии... Надо бы это проверить.<ret><ret>Но мы заговорились, а у меня на сегодня много планов. Как ты наверное заметил в своих путешествиях, в этом мире нет вулканов, привычных нам по старому миру, но в почве полно лавы и ее довольно часто можно увидеть на поверхности. Мне нужно знать из чего она состоит и можно ли ее использовать для трансмутации металлов. Мой добряк Роберт слишком стар для столь опасных путешествий, но в тебе достаточно авантюризма чтобы принести мне образцы.
+alchemist_4_lava_0_description_refuse=Зачем же ты беспокоишь меня?
+alchemist_4_lava_0_description_success=Сходи к Роберту, он выдаст тебе снаряжение.
+alchemist_4_lava_1_label=Взять снаряжение
+alchemist_4_lava_1_description=В этот раз ему нужна лава? Я уверен, он сделает из нее что-то особенное! Возьми эти ведра, и удачи. Запомни: Мастеру нужно 16 полных ведер.
+alchemist_4_lava_1_description_success=До скорого, $name!
+alchemist_4_lava_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_4_lava_1_listing=Возьмите снаряжение у помощника алхимика.
+alchemist_4_lava_2_label=Образцы лавы
+alchemist_4_lava_2_description=У тебя получилось взять образцы?
+alchemist_4_lava_2_description_success=Превосходно, это самая важная часть моих экспериментов.<ret><ret>Я начал читать твою книгу, пока ждал твоего возвращения, $name. Большая часть, как я и предполагал - мистика и необоснованные предположения. Но есть и некоторые интересные наблюдения. Я почитаю еще немного и мы обсудим это.
+alchemist_4_lava_2_description_refuse=Ну что ж, я подожду, вдруг ты передумаешь, $name.
+alchemist_4_lava_2_listing=Принесите образцы лавы алхимику.
+
+alchemist_5_creeper_0_label=Взрывчатые потребности
+alchemist_5_creeper_0_description=А, $name! Мастер дал тебе какое-нибудь срочное задание? Нет? Хорошо, хорошо... У меня тут...эмм...проблема. Понимаешь, мастер запросил очень много того таинственного взрывчатого вещества, которое сельские жители иногда находят в окрестностях деревень, но я не смог собрать столько. Он будет горько разочарован! Ты не поможешь мне? Я дам тебе любые инструменты, которые понадобятся.
+alchemist_5_creeper_0_description_refuse=Что же мне теперь делать?
+alchemist_5_creeper_0_description_success=Спасибо тебе! Конечно, конечно: лук и стрелы, все, что скажешь.
+alchemist_5_creeper_1_label=Принести порох Роберту
+alchemist_5_creeper_1_description=Тебе удалось собрать еще?
+alchemist_5_creeper_1_description_success=Как у тебя получилось набрать так много и так быстро? Ты и в самом деле уникальный, $name. Даже не знаю как тебя благодарить!
+alchemist_5_creeper_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_5_creeper_1_listing=Соберите порох для Роберта.
+
+
+
+alchemist_6_borehole_0_label=Большой Подкоп
+alchemist_6_borehole_0_description=Я закончил изучение твоего манускрипта, $name. Там есть кое-что, показавшееся мне очень интересным, а именно - запись о слое не разрушаемой породы, залегающей глубоко под землей. Я, конечно, не согласен с твоим Сааду в том, что это служит доказательством иллюзорности мира, в котором мы находимся. Это заблуждение мистика. Это говорит лишь о том, что под этим слоем должно быть что-то очень интересное, что-то, чего мы видеть не должны. И я собираюсь это изменить.<ret><ret>Ты готов к серьезной работе, $name?
+alchemist_6_borehole_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_6_borehole_0_description_success=Но прежде, чем мы всерьез попытаемся разрушить этот слой, нам понадобится чистый и широкий путь к нему. Итак, $name, мне нужна скважина до самого "дна" этого мира. Копай где захочешь, но это должен быть квадрат диаметром 5х5 метров и глубиной до этой самй "основы".<ret><ret>Не беспокойся, вручную копать не придется. Сходи к моему ассистенту - он выдаст тебе лучшие инструменты, которые только способна произвести алхимия.
+alchemist_6_borehole_1_label=Забрать взрывчатку
+alchemist_6_borehole_1_description=Так значит, он и вправду хочет выкопать ту скважину? Какой великий человек, и с какими амбициями! И конечно наша задача - выполнить всю основную работу. Ну, точнее твоя.<ret><ret>Как ба там ни было... Благодаря собранному тобой порошку, я, по инструкции Мастера, приготовил эту взрывчатку. Она поможет тебе копать быстрее.
+alchemist_6_borehole_1_description_success=Будь осторожен, и удачи!
+alchemist_6_borehole_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_6_borehole_1_listing=Заберите взрывчатку у помощника алхимика.
+alchemist_6_borehole_2_label=Поговорить с алхимиком
+alchemist_6_borehole_2_description=Надеюсь, моя взрывчатка поможет тебе успешно выполнить это задание.
+alchemist_6_borehole_2_description_success=Прекрасная работа! Из тебя выйдет отличный алхимик, $name. Выполнить такое задание и не подорвать себя - для этого нужно мастерство.<ret><ret>Последний этап плана по прорыву сквозь эту породу я завершу сам. Отдохни немного и приходи ко мне.
+alchemist_6_borehole_2_description_refuse=Ну что ж, я подожду, вдруг ты передумаешь.
+alchemist_6_borehole_2_listing=Выкопайте скважину диаметром 5x5 блоков до админиума и возвращайтесь к алхимику.
+
+
+alchemist_7_boreholetnt_0_label=Взрывоопасные вещества
+alchemist_7_boreholetnt_0_description=Сегодня великий день, $name! Я долго искал подходящую концентрацию взрывчатых веществ для разрушения "основы" и, похоже, нашел. Хорошего слоя обсидиана должно быть достаточно, чтобы направить силу взрыва вниз и гарантировать нам успех. Ты готов?
+alchemist_7_boreholetnt_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_7_boreholetnt_0_description_success=Роберт выдаст тебе взрывчатку. Размести ее на дне скважины и накрой сверху обсидианом. По моим расчетам, тебе понадобится 20 блоков взрывчатки и столько же обсидиана. 
+alchemist_7_boreholetnt_1_label=Забрать взрывчатку
+alchemist_7_boreholetnt_1_description=У меня все готово! Взрывчатка, обсидиан и достаточно провода, чтобы быть подальше от места взрыва.
+alchemist_7_boreholetnt_1_description_success=Я завидую тебе, мой юный друг - ты будешь первым, кто увидит сокровища скрытые под миром!
+alchemist_7_boreholetnt_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_7_boreholetnt_1_listing=Заберите взрывчатку у помощника алхимика.
+alchemist_7_boreholetnt_2_label=Поговорить с алхимиком
+alchemist_7_boreholetnt_2_description=Что скажешь, $name! Моя теория работает? Какие сокровища скрыты под "основой"?
+alchemist_7_boreholetnt_2_description_success=Ничего? Что за ерунда? Как вообще такое может быть?! Что способно выдержать такой мощный направленный взрыв? Невозможно, невозможно говорю я тебе - ты точно где-то ошибся! Растяпа!<ret><ret>Прости, прости, $name - я погорячился. Твоя работа всегда безупречна. Наивно было думать, что для столь сложной задачи подойдет простая взрывчатка. Мне придётся еще раз все тщательно обдумать. Должно же быть решение - только подумай, чтобы там не лежало, оно должно быть очень ценным, чтобы так это защищать!
+alchemist_7_boreholetnt_2_description_refuse=Ну что ж, я подожду, вдруг ты передумаешь, $name.
+alchemist_7_boreholetnt_2_listing=Установите 20 блоков TNT на дно скважины, накройте их обсидианом и взорвите. Сообщите результат алхимику.
+
+
+alchemist_8_anomaly_0_label=Аномалия
+alchemist_8_anomaly_0_description=Наш провал сильно повлиял на меня, $name. Я много размышлял об этом с тех пор и думаю - проблема не в концентрации взрывчатки. Проблема в том, что мы не знаем, что именно взрываем. Но я значительно продвинулся в ее решении, $name! Мне удалось создать порошок, который реагирует на присутствие "основы" поблизости. Я послал своего ассистента проверить его. В целом, результаты подтверждают выводы твоего Сааду - "основа" залегает на постоянной глубине, около шестьдесят метров ниже уровня моря.<ret><ret>Однако... Ему удалось найти по крайней мере одно место, где это не так. В том месте "основа" находится гораздо ближе к поверхности и, судя по всему, в больших количествах! Ты сможешь это проверить?
+alchemist_8_anomaly_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_8_anomaly_0_description_success=Будь осторожен, $name! Я не знаю, что это может означать и опасность вполне вероятна!
+alchemist_8_anomaly_1_label=Поговорить с алхимиком
+alchemist_8_anomaly_1_description=А вот и ты. Что нашел?
+alchemist_8_anomaly_1_description_success=Комната? Сделана из "основы" и явно искусственного происхождения? Это самое важное открытие с тех пор, как мы прибыли в этот мир... Это первое абсолютное доказательство того, что в этом мире есть или были существа, с гораздо большими знаниями, чем наши собственные. Это не похоже на те структуры, о которых я слышал раньше: все те бесконечные шахты и подземные крепости неимоверных конструкций. Это что-то совершенно иное. Так ты говоришь, там было еще и устройство для производства монстров?<ret><ret>$name, я должен все хорошо проанализировать - это лежит за гранью моих знаний и опыта. Мне также нужно решить, в какую сторону продолжать наши исследования, т.к. комната, которую ты обнаружил, оказалась пуста.
+alchemist_8_anomaly_1_description_refuse=
+alchemist_8_anomaly_1_listing=Исследуйте аномалию и сообщите результат алхимику.
+
+
+alchemist_9_anomalytwo_0_label=Вторая находка
+alchemist_9_anomalytwo_0_description=У меня фантастические новости, $name! Не далеко отсюда, Роберт нашел еще одну аномалию и похоже, она гораздо больше первой. Кто знает, что ты там найдешь? Возможно что-то, что позволит нам выйти на след тех загадочных существ, или хотя бы пробиться сквозь ту породу?<ret><ret>Но я увлекся... Сначала убедись, что там безопасно. Твоя встреча с монстрами в первой аномалии здорово меня обеспокоила, $name. Возьми немного еды... И вот, мой меч тоже. Тебе он пригодится больше, чем мне.
+alchemist_9_anomalytwo_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_9_anomalytwo_0_description_success=Удачи, и будь осторожен.
+alchemist_9_anomalytwo_1_label=Поговорить с алхимиком
+alchemist_9_anomalytwo_1_description=$name, я так рад видеть тебя живым и здоровым! Но у тебя усталый вид. Тебе нужно выпить и отдохнуть. Потом все расскажешь.
+alchemist_9_anomalytwo_1_description_success=Невероятно... Может быть, последняя комната была чем-то вроде лавовой печи? Алхимические познания этих существ, гораздо выше наших собственных вместе взятых! И снова генераторы монстров, как и в прошлой комнате... Если бы я не был алхимиком, я бы решил, что ты посетил мастерскую Бога.<ret><ret>Я изучу порошок, который ты принес. Он, видимо, имел огромное значение, раз для него построили столь сложный механизм. Я могу лишь надеяться, что моих знаний хватит для изготовления чего-то подобного, даже если я не смогу понять его свойств.
+alchemist_9_anomalytwo_1_description_refuse=
+alchemist_9_anomalytwo_1_listing=Исследуйте вторую аномалию и принесите все странное и не обычное, что найдете, алхимику.
+
+
+
+alchemist_10_theexperiment_0_label=Эксперимент
+alchemist_10_theexperiment_0_description=Я никогда не видел подобного порошка... Я так и не смог понять для чего он нужен и как был получен. Это далеко за гранью моих знаний, $name. Очень далеко. Единственное, что я смог обнаружить - его можно использовать как взрывчатку. Я попробовал лишь несколько миллиграмм и чуть не подорвал это место. Мне не нужно объяснять тебе, что я хочу сделать, друг мой. Но слушай внимательно, т.к. это вещество очень, очень реактивно.<ret><ret>Я смог немного стабилизировать его, смешав с другими материалами, поэтому оно имеет форму куба. В этой форме оно вполне стабильно и, надеюсь, ты можешь безопасно его переносить. Но все же, если поблизости взорвать обычный ТNТ, то детонация неизбежна. Я полагаю - взрыв будет разрушительной силы. Насколько именно я не знаю, но постарайся быть как можно дальше, когда оно рванет.<ret><ret>Убедись, что взрыв произойдет максимально близко к "основе". Я не смогу сделать еще, если у тебя не получится.
+alchemist_10_theexperiment_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_10_theexperiment_0_description_success=Роберт снабдит тебя обычной взрывчаткой. Будь осторожен, и скоро мы выпьем за дыру в "основе"!
+alchemist_10_theexperiment_1_label=Забрать взрывчатку
+alchemist_10_theexperiment_1_description=А, $name... У меня есть все, что нужно - как просил Мастер. И, хотя мне не приятно это говорить, но я никогда не видел, чтобы Мастер так сомневался в том, что делает. Грустно видеть его таким.
+alchemist_10_theexperiment_1_description_success=Если все пройдет хорошо, ты станешь легендой, первым человеком достигшим подземного пространства! А если нет, что ж...
+alchemist_10_theexperiment_1_description_refuse=Я расскажу об этом Мастеру.
+alchemist_10_theexperiment_1_listing=Заберите взрывчатку у помощника алхимика.
+alchemist_10_theexperiment_2_label=Поговорить с алхимиком
+alchemist_10_theexperiment_2_description=У тебя странное выражение лица, $name...
+alchemist_10_theexperiment_2_description_success=Пустота... Выходит, весь этот мир пребывает в пустоте... Выходит, реальности нет? И в этом мире нет ничего осязаемого и измеримого? Тогда, $name, этот мир не для меня и моей алхимии... Твой Сааду и вправду понял суть этого места.
+alchemist_10_theexperiment_2_description_refuse=Ну что ж, я подожду, вдруг ты передумаешь.
+alchemist_10_theexperiment_2_listing=Взорвите вещество, что получили у алхимика, установив его на "основу" и подорвав рядом с ним TNT. Исследуйте результаты и сообщите о них алхимику.
+
+
+alchemist_11_conclusion_0_label=Причины и Следствия
+alchemist_11_conclusion_0_description=Я долго размышлял над всем этим, $name... Ты прав, у меня своя роль во всем этом. Возможно, я не понимаю абсурдности этого мира или смысла нашего пребывания здесь, но мои зелья и формулы помогут тебе понять это. Еще раз спасибо, $name. Не только за твою работу, но и за поддержку. И знай - если тебе понадобится моя помощь, можешь обращаться в любое время.<ret><ret>Также ты должен знать, что я использовал свое влияние в кругах Норманнской знати и Гилдмастеров, чтобы убедить всех в твоих исключительных способностях. Теперь Норманны последуют за тобой куда угодно, в любое место, где ты захочешь поселиться.
+alchemist_11_conclusion_0_description_refuse=Тогда зачем ты меня беспокоишь?
+alchemist_11_conclusion_0_description_success=А в качестве небольшого подарка - прими эти алмазы. Я получил их, как побочный продукт своих исследований, но мне они не нужны - а ты, возможно, найдёшь им применение.<ret><ret>Надеюсь увидеть тебя снова $name, и услышать, что ты нашел смысл этого бессмысленного мира.

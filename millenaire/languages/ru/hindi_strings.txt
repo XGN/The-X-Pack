@@ -1,0 +1,22 @@
+culture.hindi=Хинди
+
+villager.indian_boy=Мальчик
+villager.indian_girl=Девочка
+villager.indian_teenagerMale=Подросток
+villager.indian_teenagerFemale=Подросток
+villager.indian_lumberman=Дровосек
+villager.indian_miner=Шахтер
+villager.indian_pandit=Священник
+villager.indian_peasant=Крестьянин
+villager.indian_peasantwife=Крестьянка
+villager.indian_rajputgeneral=Генерал
+villager.indian_richwoman=Знатная женщина
+villager.indian_soldier=Воин
+villager.indian_villagechief=Вождь поселения
+villager.indian_smith=Кузнец
+villager.indian_armysmith=Военный кузнец
+villager.indian_scultor=Скульптор
+villager.indian_panditayin=Жена священника
+villager.indian_raja=Раджа
+villager.indian_rani=Жена раджи
+villager.indian_merchant=Торговец

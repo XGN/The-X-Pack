@@ -1,0 +1,40 @@
+//English names are generally already present in the building files themselves
+//So this is almost empty
+//Check the French hindi_buiildings file for an example of the format to use
+
+playerestate_A0=Участок игрока
+forge_A0=Кузница
+armyforge_A0=Военная кузница
+scultorhouse_A0=Дом скульптора
+archives_A0=Архивы
+chiefhouse_A0=Дом вождя
+fort_A0=Форт
+fort_A_forge_A0=Кузница форта
+fort_A_soldierhouse_A0=Казарма форта
+peasanthouse_A0=Дом
+peasanthouse_B0=Дом
+peasanthouse_C0=Дом
+lumbermanhouse_A0=Лесопилка
+quarry_A0=Карьер
+quarry_B0=Карьер
+soldierhouse_A0=Казарма
+brickkiln_A0=Сушильня кирпичей
+grove_A0=Поле
+paddy_A0=Рисовое поле
+spicegarden_A0=Поле специй
+sugarplantation_A0=Плантация сахарного тростника
+palace_A0=Дворец
+guesthouse_A0=Дом для гостей
+inn_A0=Гостиница
+largepeasanthouse_A0=Большой дом
+largepeasanthouse_A_secondary_A0=Средний дом
+
+playerhugefield_A0=Большая зона игрока
+playerlargefield_A0=Зона игрока
+playersmallfield_A0=Маленькая зона игрока
+playersmallhouse_A0=Маленький дом игрока
+villagetemple_A0=Храм
+pandithouse_A0=Дом священника
+
+//extra buildings:
+well_A0=Колодец

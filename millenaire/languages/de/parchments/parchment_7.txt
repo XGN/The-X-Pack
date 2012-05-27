@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Indische Objekte
+
+Denar. Aus unerklärten Gründen benutzen auch die Inder den Denar als Währung, genau wie die Normannen. Es gibt drei Arten: Bronzene, Silberne und Goldene.
+NEW_PAGE
+Food
+
+Reis. Als wichtigste Speise der Inder kann der Reis vom Dorf gekauft werden. Aber er hat keinen Geschmack und kann nicht roh verzehrt werden. Aber Kinder wachsen schneller, wenn im Dorf genug Reis verfügbar ist.
+
+Gelbwurz. Dieses Gewürzpulver wird aus der Knolle des Gelbwurzes, auch als Kurkume bekannt, durch Zereibung gewonnen. Dieses ist eine wichtige Zutat für Curry, auch der in Europa bekannten gleichnamigen Gewürzmischung. Zusammen mit Reis erhöht es die Wachstumsgeschwindigkeit der Kinder. 
+
+Vegetarisches Curry. Diese einfache Mischung aus Reis und Gelbwurz füllt zwei Punkte der Hungerleiste auf.
+
+Curry mit Huhn. Curry mit Huhn ist einfach eine Mischung aus Gelbwurz, Reis und Huhn. Diese Köstlichkeit füllt vier Punkte der Hungerleiste auf.
+
+Rasgulla. Diese Süssigkeit aus gebackenem Käse und süssem Sirup wird von den Bäuerinnen aus Zuckerrohr gemacht. Es ist bis zu acht Mal stapelbar und heilt je ein Herz. Wenn von Paaren im Dorf verzehrt, erhöht es die Cahnce auf Kinder. Nein, es gibt keine weiteren Details.
+NEW_PAGE
+Konstruktion und Dekoration
+
+Nasser Lehmziegel. Die erste Stufe der Produktion von Lehmziegeln. Die nassen Ziegel trocknen in der heissen Sonne zu Lehmziegeln.
+
+Lehmziegel. Diese getrockneten Ziegel sind der wichtigste Baustoff der Inder. 
+
+Gekochte Ziegel. Nach dem sie gebacken wurden sind die Lehmziegel stabiler und attraktiver durch ihr weisses ordentliches Aussehen.
+
+Ziegelform. Mit diesem im Dorf kaufbaren Werkzeug kann man Lehmziegel herstellen. Benutze es auf einer gerade Fläche mit je einem Block Erde und Sand im Inventar, um einen nassen Lehmziegelblock zu plazieren.
+
+Hindistatue. Diese Statuen der indischen Gottheiten werden vom Bildhauer hergestellt um den Tempel zu schmücken. Sie werden aber auch an Reisende mit einem raffinierten Kunstgeschmack verkauft.
+NEW_PAGE
+Informationsrollen
+
+Indische Bewohner. Enthält Informationen über die indischen Dorfbewohner; Sowohl diese, die Arbeiten als auch diese, die den anderen dabei zusehen.
+
+Indische Gebäude. Enthält Informationen über die indischen Gebäude; von der  schmächtigen Holzfällerhütte bis zur mächtigen Festung.
+
+Indische Gegenstände. Enthält Informationen über die Indischen Gegenstände.
+
+Die Inder. Als ultimativer Fremdenführer enthält diese Schriftrolle den Inhalt der drei anderen Rollen praktisch in einer Schriftrolle	.

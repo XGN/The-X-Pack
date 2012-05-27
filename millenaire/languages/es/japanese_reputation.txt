@@ -1,0 +1,9 @@
+0;Extraño;No confiamos en los estraños fácilmente. Compórtate lo mejor que puedas.
+4*64;Conocido;Te hemos visto antes, pero eso no significa que confiemos en ti.
+16*64;Visitante frecuente;¿Cómo ha sido tu viaje $name?
+64*64;Comerciante favorito;Ah, $name, estamos felices de verte.
+2*64*64;Amigo de la aldea;Hola amigo, ¿qué podemos hacer por ti hoy?
+8*64*64;Uno de nosotros;Hola, $name, hemos estado esperando tu regreso con grandes ansias.
+-64;Molestia;Oh, eres tú, ¿qué quieres?
+-4*64;Forastero indeseable; ¡Vete ya de nuestra aldea, plaga!
+-16*64;Enemigo público;¿Cómo te atreves a aparecer por aquí?. ¡Enfrenta tu castigo!
